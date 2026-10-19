@@ -1,0 +1,44 @@
+{
+ "lit-mobile": {
+  "lighthouse": "12.8.2",
+  "performance": 99,
+  "accessibility": 92,
+  "best-practices": 100,
+  "seo": 54
+ },
+ "lit-desktop": {
+  "lighthouse": "12.8.2",
+  "performance": 100,
+  "accessibility": 92,
+  "best-practices": 100,
+  "seo": 54
+ },
+ "pitch-mobile": {
+  "lighthouse": "12.8.2",
+  "performance": 100,
+  "accessibility": 96,
+  "best-practices": 75,
+  "seo": 100
+ },
+ "pitch-desktop": {
+  "lighthouse": "12.8.2",
+  "performance": 100,
+  "accessibility": 96,
+  "best-practices": 74,
+  "seo": 100
+ },
+ "hanset-mobile": {
+  "lighthouse": "12.8.2",
+  "performance": 99,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 92
+ },
+ "hanset-desktop": {
+  "lighthouse": "12.8.2",
+  "performance": 100,
+  "accessibility": 100,
+  "best-practices": 100,
+  "seo": 92
+ }
+}
