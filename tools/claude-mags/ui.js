@@ -1,0 +1,11 @@
+const { chromium } = require('playwright-core');const fs=require('fs');
+const u=process.argv[2],scheme=process.argv[3],vw=+process.argv[4],outf=process.argv[5];
+(async()=>{const b=await chromium.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox']});
+const c=await b.newContext({viewport:{width:vw,height:vw<600?844:900},colorScheme:scheme,userAgent:'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36'});const p=await c.newPage();
+await p.goto(u,{waitUntil:'domcontentloaded',timeout:30000});await p.waitForTimeout(3500);
+const r=await p.evaluate(()=>{const cs=e=>getComputedStyle(e);const vis=e=>{const r=e.getBoundingClientRect();return r.width>0&&r.height>0&&r.top<innerHeight};
+const els=[...document.querySelectorAll('button,a,input,textarea,[role=button]')].filter(vis).map(e=>{const s=cs(e),r=e.getBoundingClientRect();return {tag:e.tagName,wordCount:(e.innerText||'').trim().split(/\s+/).filter(Boolean).length,ph:!!e.getAttribute('placeholder'),bg:s.backgroundColor,color:s.color,radius:s.borderTopLeftRadius,border:s.borderTopWidth+' '+s.borderTopColor,w:Math.round(r.width),h:Math.round(r.height),fs:s.fontSize,fw:s.fontWeight,shadow:s.boxShadow.slice(0,90),top:Math.round(r.top)}});
+const tx=[...document.querySelectorAll('h1,h2,h3,p,span,div')].filter(e=>vis(e)&&[...e.childNodes].some(n=>n.nodeType===3&&n.textContent.trim().length>1)).map(e=>{const s=cs(e);return {tag:e.tagName,len:e.innerText.trim().length,fs:s.fontSize,lh:s.lineHeight,fw:s.fontWeight,ff:s.fontFamily.split(',')[0].slice(0,24),color:s.color,ls:s.letterSpacing}});
+const body=cs(document.body);
+return {bodyBg:body.backgroundColor,interactive:els.slice(0,14),text:tx.slice(0,16),vpTextChars:tx.reduce((a,b)=>a+b.len,0),interactiveCount:els.length}});
+fs.writeFileSync(outf,JSON.stringify(r,null,1));await b.close();process.exit(0)})();

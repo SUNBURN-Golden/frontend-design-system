@@ -1,0 +1,751 @@
+{
+ "goallit": {
+  "home1440": {
+   "words": 232,
+   "chars": 817,
+   "vpLinks": 12,
+   "navLinks": 6,
+   "ctaCount": 1,
+   "ctas": [
+    "편집 원칙"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 40,
+    "len": 29,
+    "tag": "H1",
+    "t": "작품은 이렇게 읽혔다 — 한국 문학·웹툰·웹소설 평론"
+   },
+   "h1len": 29,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 5383,
+   "vh": 900,
+   "bodyBg": "rgb(245, 243, 250)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://goal-lit.soulbound.co.kr/posts/vegetarian-two-prices/",
+  "home390": {
+   "words": 109,
+   "chars": 408,
+   "vpLinks": 9,
+   "navLinks": 6,
+   "ctaCount": 1,
+   "ctas": [
+    "편집 원칙"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 30.4,
+    "len": 29,
+    "tag": "H1",
+    "t": "작품은 이렇게 읽혔다 — 한국 문학·웹툰·웹소설 평론"
+   },
+   "h1len": 29,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 9993,
+   "vh": 844,
+   "bodyBg": "rgb(245, 243, 250)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 320,
+   "chars": 1249,
+   "vpLinks": 15,
+   "navLinks": 6,
+   "ctaCount": 3,
+   "ctas": [
+    "편집 원칙",
+    "평론",
+    "순문학"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 33.6,
+    "len": 37,
+    "tag": "H1",
+    "t": "옮겨지는 몸, 옮겨지는 말 — 〈채식주의자〉를 둘러싼 공개된 반응들"
+   },
+   "h1len": 37,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 3657,
+   "vh": 900,
+   "bodyBg": "rgb(245, 243, 250)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "17px",
+   "lh": "28.05px",
+   "ff": "Pretendard",
+   "color": "rgb(26, 26, 26)",
+   "w": 1044,
+   "firstLineChars": 89,
+   "korean": true,
+   "mb": "17px",
+   "align": "start",
+   "bg": "rgb(245, 243, 250)",
+   "h1": {
+    "fs": "33.6px",
+    "lh": "43.68px",
+    "fw": "700",
+    "ff": "Pretendard",
+    "len": 37,
+    "lines": 1
+   }
+  },
+  "article390": {
+   "words": 148,
+   "chars": 567,
+   "vpLinks": 11,
+   "navLinks": 6,
+   "ctaCount": 3,
+   "ctas": [
+    "편집 원칙",
+    "평론",
+    "순문학"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 28,
+    "len": 37,
+    "tag": "H1",
+    "t": "옮겨지는 몸, 옮겨지는 말 — 〈채식주의자〉를 둘러싼 공개된 반응들"
+   },
+   "h1len": 37,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 6208,
+   "vh": 844,
+   "bodyBg": "rgb(245, 243, 250)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "16px",
+   "lh": "26.4px",
+   "ff": "Pretendard",
+   "color": "rgb(26, 26, 26)",
+   "w": 354,
+   "firstLineChars": 32,
+   "korean": true,
+   "mb": "16px",
+   "align": "start",
+   "bg": "rgb(245, 243, 250)",
+   "h1": {
+    "fs": "28px",
+    "lh": "36.4px",
+    "fw": "700",
+    "ff": "Pretendard",
+    "len": 37,
+    "lines": 3
+   }
+  }
+ },
+ "pitchfork": {
+  "home1440": {
+   "words": 123,
+   "chars": 656,
+   "vpLinks": 18,
+   "navLinks": 1,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 36,
+    "len": 38,
+    "tag": "H3",
+    "t": "11 New Albums You Should Listen to Now"
+   },
+   "h1len": 9,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 8015,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-fontaines-dc-the-avalanches-and-more/",
+  "home390": {
+   "words": 48,
+   "chars": 251,
+   "vpLinks": 4,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 28,
+    "len": 38,
+    "tag": "H3",
+    "t": "11 New Albums You Should Listen to Now"
+   },
+   "h1len": 9,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 12204,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 65,
+   "chars": 353,
+   "vpLinks": 16,
+   "navLinks": 1,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 48,
+    "len": 80,
+    "tag": "H1",
+    "t": "11 New Albums You Should Listen to Now: "
+   },
+   "h1len": 80,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 15870,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": true,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "17px",
+   "lh": "28px",
+   "ff": "PTSerif",
+   "color": "rgb(26, 26, 26)",
+   "w": 640,
+   "firstLineChars": 89,
+   "korean": false,
+   "mb": "48px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "48px",
+    "lh": "56px",
+    "fw": "700",
+    "ff": "FeatureFlatDisplay",
+    "len": 80,
+    "lines": 2
+   }
+  },
+  "article390": {
+   "words": 56,
+   "chars": 302,
+   "vpLinks": 8,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 32,
+    "len": 80,
+    "tag": "H1",
+    "t": "11 New Albums You Should Listen to Now: "
+   },
+   "h1len": 80,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 19521,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": true,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "17px",
+   "lh": "28px",
+   "ff": "PTSerif",
+   "color": "rgb(26, 26, 26)",
+   "w": 342,
+   "firstLineChars": 47,
+   "korean": false,
+   "mb": "48px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "32px",
+    "lh": "36px",
+    "fw": "700",
+    "ff": "FeatureFlatDisplay",
+    "len": 80,
+    "lines": 4
+   }
+  }
+ },
+ "brunch": {
+  "home1440": {
+   "words": 535,
+   "chars": 2146,
+   "vpLinks": 10,
+   "navLinks": 2,
+   "ctaCount": 1,
+   "ctas": [
+    "시작하기"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 26,
+    "len": 11,
+    "tag": "H2",
+    "t": "분야별 인기 브런치북"
+   },
+   "h1len": null,
+   "cards": [
+    {
+     "w": 480,
+     "imgW": 482,
+     "imgH": 262,
+     "ratio": 1.84,
+     "titleLines": 1,
+     "titleFs": "24px",
+     "textLeafCount": 7,
+     "chars": 247
+    },
+    {
+     "w": 480,
+     "imgW": 482,
+     "imgH": 262,
+     "ratio": 1.84,
+     "titleLines": 1,
+     "titleFs": "24px",
+     "textLeafCount": 8,
+     "chars": 244
+    },
+    {
+     "w": 480,
+     "imgW": 482,
+     "imgH": 262,
+     "ratio": 1.84,
+     "titleLines": 1,
+     "titleFs": "24px",
+     "textLeafCount": 5,
+     "chars": 229
+    },
+    {
+     "w": 352,
+     "imgW": 50,
+     "imgH": 76,
+     "ratio": 0.66,
+     "titleLines": 3,
+     "titleFs": "16px",
+     "textLeafCount": 10,
+     "chars": 469
+    },
+    {
+     "w": 352,
+     "imgW": 50,
+     "imgH": 76,
+     "ratio": 0.66,
+     "titleLines": 3,
+     "titleFs": "16px",
+     "textLeafCount": 10,
+     "chars": 372
+    },
+    {
+     "w": 352,
+     "imgW": 50,
+     "imgH": 50,
+     "ratio": 1,
+     "titleLines": 3,
+     "titleFs": "16px",
+     "textLeafCount": 10,
+     "chars": 654
+    },
+    {
+     "w": 352,
+     "imgW": 10,
+     "imgH": 6,
+     "ratio": 1.67,
+     "titleLines": 3,
+     "titleFs": "16px",
+     "textLeafCount": 10,
+     "chars": 247
+    }
+   ],
+   "cardCountInVp": 7,
+   "pageH": 5125,
+   "vh": 900,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://brunch.co.kr/brunchbook/7063estel",
+  "home390": {
+   "words": 108,
+   "chars": 368,
+   "vpLinks": 4,
+   "navLinks": 2,
+   "ctaCount": 1,
+   "ctas": [
+    "시작하기"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 26,
+    "len": 11,
+    "tag": "H2",
+    "t": "분야별 인기 브런치북"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 5052,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 175,
+   "chars": 725,
+   "vpLinks": 7,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 28,
+    "len": 3,
+    "tag": "A",
+    "t": "브런치"
+   },
+   "h1len": 3,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 4098,
+   "vh": 900,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "14px",
+   "lh": "21px",
+   "ff": "\"Noto Sans DemiLight\"",
+   "color": "rgb(149, 149, 149)",
+   "w": 654,
+   "firstLineChars": 68,
+   "korean": true,
+   "mb": "0px",
+   "align": "start",
+   "bg": "rgb(255, 255, 255)",
+   "h1": {
+    "fs": "28px",
+    "lh": "42px",
+    "fw": "700",
+    "ff": "\"Noto Sans DemiLight\"",
+    "len": 3,
+    "lines": 1
+   }
+  },
+  "article390": {
+   "words": 83,
+   "chars": 348,
+   "vpLinks": 3,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 28,
+    "len": 3,
+    "tag": "A",
+    "t": "브런치"
+   },
+   "h1len": 3,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 4098,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "14px",
+   "lh": "21px",
+   "ff": "\"Noto Sans DemiLight\"",
+   "color": "rgb(149, 149, 149)",
+   "w": 654,
+   "firstLineChars": 68,
+   "korean": true,
+   "mb": "0px",
+   "align": "start",
+   "bg": "rgb(255, 255, 255)",
+   "h1": {
+    "fs": "28px",
+    "lh": "42px",
+    "fw": "700",
+    "ff": "\"Noto Sans DemiLight\"",
+    "len": 3,
+    "lines": 1
+   }
+  }
+ },
+ "eyesmag": {
+  "home1440": {
+   "words": 116,
+   "chars": 365,
+   "vpLinks": 28,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 24,
+    "len": 5,
+    "tag": "SPAN",
+    "t": "인기 기사"
+   },
+   "h1len": 0,
+   "cards": [
+    {
+     "w": 864,
+     "imgW": 293,
+     "imgH": 126,
+     "ratio": 2.33,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 3,
+     "chars": 62
+    },
+    {
+     "w": 864,
+     "imgW": 293,
+     "imgH": 126,
+     "ratio": 2.33,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 3,
+     "chars": 66
+    },
+    {
+     "w": 864,
+     "imgW": 293,
+     "imgH": 126,
+     "ratio": 2.33,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 3,
+     "chars": 70
+    },
+    {
+     "w": 360,
+     "imgW": 360,
+     "imgH": 154,
+     "ratio": 2.33,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 3,
+     "chars": 70
+    },
+    {
+     "w": 360,
+     "imgW": 360,
+     "imgH": 154,
+     "ratio": 2.33,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 3,
+     "chars": 66
+    },
+    {
+     "w": 360,
+     "imgW": 360,
+     "imgH": 154,
+     "ratio": 2.33,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 3,
+     "chars": 59
+    }
+   ],
+   "cardCountInVp": 6,
+   "pageH": 2466,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://www.eyesmag.com/posts/165383/chicken-price-hike-why-no-drop",
+  "home390": {
+   "words": 71,
+   "chars": 225,
+   "vpLinks": 13,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 18,
+    "len": 5,
+    "tag": "H2",
+    "t": "최신 기사"
+   },
+   "h1len": 0,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 3303,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 182,
+   "chars": 674,
+   "vpLinks": 20,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 30,
+    "len": 18,
+    "tag": "H1",
+    "t": "대한민국 최대 난제 ‘치킨 가격’"
+   },
+   "h1len": 0,
+   "cards": [
+    {
+     "w": 751,
+     "imgW": 751,
+     "imgH": 0,
+     "ratio": null,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 31,
+     "chars": 3436
+    }
+   ],
+   "cardCountInVp": 1,
+   "pageH": 5354,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": false,
+   "progressBar": false,
+   "toc": false,
+   "fs": "14px",
+   "lh": "27px",
+   "ff": "__eyesSans_1605e7",
+   "color": "rgb(126, 140, 141)",
+   "w": 751,
+   "firstLineChars": 75,
+   "korean": true,
+   "mb": "15px",
+   "align": "justify",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "23px",
+    "lh": "23px",
+    "fw": "700",
+    "ff": "__eyesSans_1605e7",
+    "len": 0,
+    "lines": 0
+   }
+  },
+  "article390": {
+   "words": 104,
+   "chars": 382,
+   "vpLinks": 1,
+   "navLinks": 0,
+   "ctaCount": 1,
+   "ctas": [
+    "더보기"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 25,
+    "len": 18,
+    "tag": "H1",
+    "t": "대한민국 최대 난제 ‘치킨 가격’"
+   },
+   "h1len": 0,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 1885,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": false,
+   "progressBar": false,
+   "toc": false,
+   "fs": "15px",
+   "lh": "29px",
+   "ff": "__eyesSans_1605e7",
+   "color": "rgb(126, 140, 141)",
+   "w": 366,
+   "firstLineChars": 33,
+   "korean": true,
+   "mb": "15px",
+   "align": "justify",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "23px",
+    "lh": "23px",
+    "fw": "700",
+    "ff": "__eyesSans_1605e7",
+    "len": 0,
+    "lines": 0
+   }
+  }
+ }
+}
