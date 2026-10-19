@@ -1,0 +1,2530 @@
+{
+ "apple_home": {
+  "title": "Apple (대한민국)",
+  "lang": "ko-KR",
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "Apple (대한민국)\nApple\n스토어\nMac\niPa",
+   "fs": "17px",
+   "lh": "27px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"SF Pro KR\", \"SF Pro Text\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gulim\"",
+   "color": "rgb(29, 29, 31)",
+   "wordBreak": "keep-all",
+   "w": 1440,
+   "h": 5305,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "Apple (대한민국)",
+   "fs": "34px",
+   "lh": "54px",
+   "ls": "normal",
+   "fw": "600",
+   "ff": "\"SF Pro KR\", \"SF Pro Text\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gulim\"",
+   "color": "rgb(29, 29, 31)",
+   "wordBreak": "keep-all",
+   "w": 1,
+   "h": 1,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h2": {
+   "tag": "H2",
+   "text": "",
+   "fs": "12px",
+   "lh": "16.0005px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"SF Pro KR\", \"SF Pro Text\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gulim\"",
+   "color": "rgb(110, 110, 115)",
+   "wordBreak": "keep-all",
+   "w": 176,
+   "h": 16,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "p": {
+   "tag": "P",
+   "text": "iPhone 13 이상의 모델을 보상 판매하면 ₩240",
+   "fs": "21px",
+   "lh": "28.6001px",
+   "ls": "0.231px",
+   "fw": "400",
+   "ff": "\"SF Pro KR\", \"SF Pro Display\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gul",
+   "color": "rgb(29, 29, 31)",
+   "wordBreak": "keep-all",
+   "w": 350,
+   "h": 86,
+   "mt": "10px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "cpl": {
+   "chars": 56,
+   "width": 350,
+   "fs": "21px",
+   "approxCharsPerLine": 17
+  },
+  "btn": {
+   "tag": "A",
+   "text": "더 알아보기",
+   "fs": "17px",
+   "lh": "20.0002px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"SF Pro KR\", \"SF Pro Text\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gulim\"",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "keep-all",
+   "w": 115,
+   "h": 44,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "nowrap",
+   "radius": "980px",
+   "bg": "rgb(0, 113, 227)",
+   "pad": "11px 21px"
+  },
+  "hdrH": 44,
+  "blur": {
+   "tag": "NAV",
+   "bf": "saturate(1.8) blur(20px)",
+   "bg": "rgba(255, 255, 255, 0.8)",
+   "pos": "fixed"
+  },
+  "sizes": [
+   [
+    "12px",
+    237
+   ],
+   [
+    "24px",
+    67
+   ],
+   [
+    "17px",
+    20
+   ],
+   [
+    "21px",
+    20
+   ],
+   [
+    "14px",
+    11
+   ],
+   [
+    "11px",
+    10
+   ],
+   [
+    "28px",
+    7
+   ],
+   [
+    "40px",
+    6
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(51, 51, 54)",
+    185
+   ],
+   [
+    "rgba(0, 0, 0, 0.72)",
+    59
+   ],
+   [
+    "rgb(110, 110, 115)",
+    33
+   ],
+   [
+    "rgb(245, 245, 247)",
+    21
+   ],
+   [
+    "rgb(29, 29, 31)",
+    17
+   ],
+   [
+    "rgb(0, 102, 204)",
+    13
+   ],
+   [
+    "rgba(0, 0, 0, 0.8)",
+    12
+   ],
+   [
+    "rgba(0, 0, 0, 0.88)",
+    10
+   ]
+  ],
+  "bgs": [
+   [
+    "rgba(255, 255, 255, 0.8)",
+    14
+   ],
+   [
+    "rgb(245, 245, 247)",
+    12
+   ],
+   [
+    "rgb(0, 0, 0)",
+    10
+   ],
+   [
+    "rgb(0, 113, 227)",
+    9
+   ],
+   [
+    "rgba(232, 232, 237, 0.4)",
+    1
+   ],
+   [
+    "rgba(210, 210, 215, 0.64)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"SF Pro KR\"",
+    383
+   ]
+  ],
+  "radius": [
+   [
+    "980px",
+    23
+   ],
+   [
+    "5px",
+    5
+   ],
+   [
+    "999px",
+    1
+   ],
+   [
+    "50%",
+    1
+   ]
+  ],
+  "shadow": [],
+  "trans": [
+   [
+    "color | 0.32s | cubic-bezier(0.4, 0, 0.6, 1)",
+    194
+   ],
+   [
+    "opacity, transform | 0.24s | ease",
+    96
+   ],
+   [
+    "opacity, transform | 0.32s | ease",
+    31
+   ],
+   [
+    "opacity, transform | 0.18s | ease",
+    19
+   ],
+   [
+    "opacity, transform | 0.22s | ease",
+    18
+   ],
+   [
+    "opacity, transform | 0.16s | ease",
+    18
+   ],
+   [
+    "opacity, transform | 0.2s | ease",
+    15
+   ],
+   [
+    "opacity | 0.24s | cubic-bezier(0.4, 0, 0.6, 1)",
+    11
+   ]
+  ],
+  "smallTargets": "200/313",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://www.apple.com/kr/"
+ },
+ "apple_iphone": {
+  "title": "iPhone - Apple (KR)",
+  "lang": "ko-KR",
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "Apple\n스토어\nMac\niPad\niPhone\nWatc",
+   "fs": "17px",
+   "lh": "27px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"SF Pro KR\", \"SF Pro Text\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gulim\"",
+   "color": "rgb(29, 29, 31)",
+   "wordBreak": "keep-all",
+   "w": 1440,
+   "h": 8555,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "iPhone",
+   "fs": "80px",
+   "lh": "92px",
+   "ls": "normal",
+   "fw": "600",
+   "ff": "\"SF Pro KR\", \"SF Pro Display\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gul",
+   "color": "rgb(29, 29, 31)",
+   "wordBreak": "keep-all",
+   "w": 1260,
+   "h": 92,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h2": {
+   "tag": "H2",
+   "text": "",
+   "fs": "12px",
+   "lh": "16.0005px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"SF Pro KR\", \"SF Pro Text\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gulim\"",
+   "color": "rgb(110, 110, 115)",
+   "wordBreak": "keep-all",
+   "w": 176,
+   "h": 16,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "p": {
+   "tag": "P",
+   "text": "온라인으로 구입하고, 무료로 배송 받거나 Apple S",
+   "fs": "14px",
+   "lh": "22px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"SF Pro KR\", \"SF Pro Text\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gulim\"",
+   "color": "rgb(29, 29, 31)",
+   "wordBreak": "keep-all",
+   "w": 990,
+   "h": 22,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "cpl": {
+   "chars": 125,
+   "width": 990,
+   "fs": "14px",
+   "approxCharsPerLine": 71
+  },
+  "btn": {
+   "tag": "A",
+   "text": "iPhone Duo",
+   "fs": "17px",
+   "lh": "0px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"SF Pro KR\", \"SF Pro Text\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gulim\"",
+   "color": "rgb(0, 102, 204)",
+   "wordBreak": "keep-all",
+   "w": 48,
+   "h": 8,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap",
+   "radius": "10px",
+   "bg": "rgba(29, 29, 31, 0.6)",
+   "pad": "0px"
+  },
+  "hdrH": 44,
+  "blur": null,
+  "sizes": [
+   [
+    "12px",
+    266
+   ],
+   [
+    "17px",
+    110
+   ],
+   [
+    "24px",
+    67
+   ],
+   [
+    "28px",
+    31
+   ],
+   [
+    "14px",
+    12
+   ],
+   [
+    "56px",
+    8
+   ],
+   [
+    "19.89px",
+    6
+   ],
+   [
+    "32px",
+    2
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(51, 51, 54)",
+    210
+   ],
+   [
+    "rgb(29, 29, 31)",
+    96
+   ],
+   [
+    "rgba(0, 0, 0, 0.72)",
+    66
+   ],
+   [
+    "rgb(110, 110, 115)",
+    35
+   ],
+   [
+    "rgba(0, 0, 0, 0.56)",
+    21
+   ],
+   [
+    "rgb(0, 102, 204)",
+    18
+   ],
+   [
+    "rgba(0, 0, 0, 0.88)",
+    17
+   ],
+   [
+    "rgba(255, 255, 255, 0.92)",
+    14
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(250, 250, 252)",
+    15
+   ],
+   [
+    "rgb(245, 245, 247)",
+    15
+   ],
+   [
+    "rgb(255, 255, 255)",
+    9
+   ],
+   [
+    "rgb(0, 113, 227)",
+    8
+   ],
+   [
+    "rgb(0, 0, 0)",
+    8
+   ],
+   [
+    "rgba(210, 210, 215, 0.64)",
+    8
+   ],
+   [
+    "rgb(29, 29, 31)",
+    7
+   ],
+   [
+    "rgb(232, 232, 237)",
+    2
+   ]
+  ],
+  "fonts": [
+   [
+    "\"SF Pro KR\"",
+    503
+   ]
+  ],
+  "radius": [
+   [
+    "28px",
+    40
+   ],
+   [
+    "50%",
+    36
+   ],
+   [
+    "20px",
+    20
+   ],
+   [
+    "980px",
+    8
+   ],
+   [
+    "36px",
+    8
+   ],
+   [
+    "5px",
+    5
+   ],
+   [
+    "10px",
+    2
+   ],
+   [
+    "56px",
+    1
+   ]
+  ],
+  "shadow": [],
+  "trans": [
+   [
+    "color | 0.32s | cubic-bezier(0.4, 0, 0.6, 1)",
+    194
+   ],
+   [
+    "opacity, transform | 0.24s | ease",
+    96
+   ],
+   [
+    "opacity, transform | 0.32s | ease",
+    31
+   ],
+   [
+    "transform | 0.3s | cubic-bezier(0, 0, 0.5, 1)",
+    21
+   ],
+   [
+    "opacity, transform | 0.18s | ease",
+    19
+   ],
+   [
+    "opacity, transform | 0.22s | ease",
+    18
+   ],
+   [
+    "opacity, transform | 0.16s | ease",
+    18
+   ],
+   [
+    "opacity, transform | 0.2s | ease",
+    15
+   ]
+  ],
+  "smallTargets": "242/380",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://www.apple.com/kr/iphone/"
+ },
+ "apple_newsroom": {
+  "title": "Newsroom - Apple (KR)",
+  "lang": "ko-KR",
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "Apple\n스토어\nMac\niPad\niPhone\nWatc",
+   "fs": "17px",
+   "lh": "27px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"SF Pro KR\", \"SF Pro Text\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gulim\"",
+   "color": "rgb(29, 29, 31)",
+   "wordBreak": "keep-all",
+   "w": 1440,
+   "h": 4414,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "Newsroom",
+   "fs": "34px",
+   "lh": "54px",
+   "ls": "normal",
+   "fw": "600",
+   "ff": "\"SF Pro KR\", \"SF Pro Text\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gulim\"",
+   "color": "rgb(29, 29, 31)",
+   "wordBreak": "keep-all",
+   "w": 1,
+   "h": 1,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h2": {
+   "tag": "H2",
+   "text": "",
+   "fs": "12px",
+   "lh": "16.0005px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"SF Pro KR\", \"SF Pro Text\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gulim\"",
+   "color": "rgb(134, 134, 139)",
+   "wordBreak": "keep-all",
+   "w": 176,
+   "h": 16,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "p": null,
+  "cpl": null,
+  "btn": {
+   "tag": "A",
+   "text": "업데이트\niPhone Duo로 새로운 가능성을 펼치다\n",
+   "fs": "32px",
+   "lh": "39px",
+   "ls": "0.128px",
+   "fw": "700",
+   "ff": "\"SF Pro KR\", \"SF Pro Display\", \"SF Pro Icons\", \"Apple Gothic\", \"HY Gul",
+   "color": "rgb(0, 102, 204)",
+   "wordBreak": "keep-all",
+   "w": 980,
+   "h": 362,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap",
+   "radius": "32px",
+   "bg": "rgb(255, 255, 255)",
+   "pad": "0px"
+  },
+  "hdrH": 44,
+  "blur": {
+   "tag": "NAV",
+   "bf": "saturate(1.8) blur(20px)",
+   "bg": "rgba(0, 0, 0, 0.8)",
+   "pos": "absolute"
+  },
+  "sizes": [
+   [
+    "12px",
+    242
+   ],
+   [
+    "24px",
+    69
+   ],
+   [
+    "14px",
+    6
+   ],
+   [
+    "17px",
+    5
+   ],
+   [
+    "21px",
+    4
+   ],
+   [
+    "32px",
+    2
+   ],
+   [
+    "34px",
+    1
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(232, 232, 237)",
+    185
+   ],
+   [
+    "rgba(0, 0, 0, 0.72)",
+    58
+   ],
+   [
+    "rgb(134, 134, 139)",
+    32
+   ],
+   [
+    "rgb(29, 29, 31)",
+    14
+   ],
+   [
+    "rgba(255, 255, 255, 0.8)",
+    12
+   ],
+   [
+    "rgb(110, 110, 115)",
+    12
+   ],
+   [
+    "rgba(0, 0, 0, 0.88)",
+    10
+   ],
+   [
+    "rgb(0, 102, 204)",
+    3
+   ]
+  ],
+  "bgs": [
+   [
+    "rgba(0, 0, 0, 0.8)",
+    14
+   ],
+   [
+    "rgb(255, 255, 255)",
+    7
+   ],
+   [
+    "rgb(245, 245, 247)",
+    4
+   ],
+   [
+    "rgba(0, 0, 0, 0.4)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.7)",
+    1
+   ],
+   [
+    "rgb(232, 232, 237)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.8)",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.72)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"SF Pro KR\"",
+    329
+   ]
+  ],
+  "radius": [
+   [
+    "32px",
+    6
+   ],
+   [
+    "5px",
+    5
+   ],
+   [
+    "12px",
+    1
+   ],
+   [
+    "50%",
+    1
+   ]
+  ],
+  "shadow": [],
+  "trans": [
+   [
+    "color | 0.32s | cubic-bezier(0.4, 0, 0.6, 1)",
+    194
+   ],
+   [
+    "opacity, transform | 0.32s | ease",
+    31
+   ],
+   [
+    "opacity, transform | 0.14s | ease",
+    26
+   ],
+   [
+    "opacity, transform | 0.1s | ease",
+    25
+   ],
+   [
+    "opacity, transform | 0.12s | ease",
+    22
+   ],
+   [
+    "opacity, transform | 0.08s | ease",
+    19
+   ],
+   [
+    "opacity, transform | 0.16s | ease",
+    16
+   ],
+   [
+    "opacity, transform | 0.04s | ease",
+    12
+   ]
+  ],
+  "smallTargets": "184/271",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://www.apple.com/kr/newsroom/"
+ },
+ "linear": {
+  "title": "Linear – The system for product development",
+  "lang": "en",
+  "bodyBg": "rgb(8, 9, 10)",
+  "htmlBg": "rgb(8, 9, 10)",
+  "body": {
+   "tag": "BODY",
+   "text": "Skip to content →\nProduct\nReso",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont,",
+   "color": "rgb(247, 248, 248)",
+   "wordBreak": "normal",
+   "w": 1440,
+   "h": 9960,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "The product development\nsystem",
+   "fs": "64px",
+   "lh": "64px",
+   "ls": "-1.408px",
+   "fw": "510",
+   "ff": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont,",
+   "color": "rgb(247, 248, 248)",
+   "wordBreak": "normal",
+   "w": 1282,
+   "h": 128,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h2": {
+   "tag": "H2",
+   "text": "A new species of product tool.",
+   "fs": "48px",
+   "lh": "48px",
+   "ls": "-1.056px",
+   "fw": "510",
+   "ff": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont,",
+   "color": "rgb(138, 143, 152)",
+   "wordBreak": "normal",
+   "w": 1250,
+   "h": 144,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "p": {
+   "tag": "P",
+   "text": "Purpose-built for planning and",
+   "fs": "15px",
+   "lh": "24px",
+   "ls": "-0.165px",
+   "fw": "400",
+   "ff": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont,",
+   "color": "rgb(138, 143, 152)",
+   "wordBreak": "normal",
+   "w": 505,
+   "h": 25,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "cpl": {
+   "chars": 74,
+   "width": 505,
+   "fs": "15px",
+   "approxCharsPerLine": 67
+  },
+  "btn": {
+   "tag": "A",
+   "text": "Sign up",
+   "fs": "13px",
+   "lh": "32px",
+   "ls": "normal",
+   "fw": "510",
+   "ff": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont,",
+   "color": "rgb(8, 9, 10)",
+   "wordBreak": "normal",
+   "w": 73,
+   "h": 32,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "nowrap",
+   "radius": "9999px",
+   "bg": "rgb(229, 229, 230)",
+   "pad": "0px 12px"
+  },
+  "hdrH": 73,
+  "blur": {
+   "tag": "HEADER",
+   "bf": "blur(20px)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "pos": "fixed"
+  },
+  "sizes": [
+   [
+    "12px",
+    186
+   ],
+   [
+    "14px",
+    181
+   ],
+   [
+    "13px",
+    120
+   ],
+   [
+    "15px",
+    65
+   ],
+   [
+    "10px",
+    23
+   ],
+   [
+    "18px",
+    20
+   ],
+   [
+    "48px",
+    7
+   ],
+   [
+    "16px",
+    5
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(138, 143, 152)",
+    177
+   ],
+   [
+    "rgb(98, 102, 109)",
+    130
+   ],
+   [
+    "rgb(208, 214, 224)",
+    104
+   ],
+   [
+    "rgb(226, 228, 231)",
+    81
+   ],
+   [
+    "rgb(247, 156, 224)",
+    41
+   ],
+   [
+    "rgb(247, 191, 139)",
+    22
+   ],
+   [
+    "rgb(247, 248, 248)",
+    21
+   ],
+   [
+    "rgb(255, 223, 159)",
+    10
+   ]
+  ],
+  "bgs": [
+   [
+    "rgba(255, 255, 255, 0.08)",
+    36
+   ],
+   [
+    "rgb(15, 16, 17)",
+    34
+   ],
+   [
+    "rgba(0, 255, 5, 0.1)",
+    16
+   ],
+   [
+    "rgba(255, 255, 255, 0.02)",
+    9
+   ],
+   [
+    "rgb(8, 9, 10)",
+    6
+   ],
+   [
+    "rgb(46, 46, 50)",
+    5
+   ],
+   [
+    "rgb(0, 0, 0)",
+    5
+   ],
+   [
+    "rgb(78, 167, 252)",
+    4
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Inter Variable\"",
+    438
+   ],
+   [
+    "\"Berkeley Mono\"",
+    182
+   ]
+  ],
+  "radius": [
+   [
+    "9999px",
+    72
+   ],
+   [
+    "50%",
+    28
+   ],
+   [
+    "8px",
+    27
+   ],
+   [
+    "12px",
+    25
+   ],
+   [
+    "4px",
+    24
+   ],
+   [
+    "9px",
+    18
+   ],
+   [
+    "6px",
+    10
+   ],
+   [
+    "2px",
+    7
+   ]
+  ],
+  "shadow": [
+   [
+    "rgba(0, 0, 0, 0.2) 0px 0px 12px 0px inset",
+    7
+   ],
+   [
+    "rgba(0, 0, 0, 0.2) 0px 0px 0px 1px",
+    6
+   ],
+   [
+    "rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset",
+    4
+   ],
+   [
+    "rgba(0, 0, 0, 0.25) 0px 2px 32px 0px",
+    4
+   ],
+   [
+    "rgba(255, 255, 255, 0.08) 0px 0px 0px 0.5px inset",
+    4
+   ],
+   [
+    "rgb(35, 37, 42) 0px 0px 0px 1px inset",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 8px 2px 0px, rgba(0, 0, 0, 0.01) 0px 5px 2px 0px, rgba(0, 0, 0, 0.04)",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.2) 0px 0px 0px 2px",
+    1
+   ]
+  ],
+  "trans": [
+   [
+    "color | 0.1s | cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    187
+   ],
+   [
+    "color | 0.1s | ease",
+    34
+   ],
+   [
+    "filter, transform | 0.16s, 0.16s | cubic-bezier(0.25, 0.46, 0.45, 0.94), cubic-bezier",
+    22
+   ],
+   [
+    "color | 0.16s | cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    20
+   ],
+   [
+    "background | 0.4s | ease-out",
+    19
+   ],
+   [
+    "background-color, border-left-color | 0.1s, 0.1s | cubic-bezier(0.25, 0.46, 0.45, 0.94), cubic-bezier",
+    8
+   ],
+   [
+    "color, background | 0.1s | cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    7
+   ],
+   [
+    "transform | 0.15s | ease",
+    7
+   ]
+  ],
+  "smallTargets": "124/132",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://linear.app/"
+ },
+ "stripe": {
+  "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+  "lang": "en-US",
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "Products\nSolutions\nDevelopers\n",
+   "fs": "16px",
+   "lh": "normal",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "sohne-var, \"SF Pro Display\", sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "wordBreak": "normal",
+   "w": 1440,
+   "h": 14803,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "Financial infrastructure to gr",
+   "fs": "48px",
+   "lh": "55.2px",
+   "ls": "-0.96px",
+   "fw": "300",
+   "ff": "sohne-var, \"SF Pro Display\", sans-serif",
+   "color": "rgb(129, 184, 26)",
+   "wordBreak": "normal",
+   "w": 1018,
+   "h": 221,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "pretty"
+  },
+  "h2": {
+   "tag": "H2",
+   "text": "Flexible solutions for every b",
+   "fs": "32px",
+   "lh": "35.2px",
+   "ls": "-0.64px",
+   "fw": "300",
+   "ff": "sohne-var, \"SF Pro Display\", sans-serif",
+   "color": "rgb(6, 27, 49)",
+   "wordBreak": "normal",
+   "w": 593,
+   "h": 40,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "pretty"
+  },
+  "p": {
+   "tag": "P",
+   "text": "Grow your business with a comp",
+   "fs": "32px",
+   "lh": "35.2px",
+   "ls": "-0.64px",
+   "fw": "300",
+   "ff": "sohne-var, \"SF Pro Display\", sans-serif",
+   "color": "rgb(100, 116, 141)",
+   "wordBreak": "normal",
+   "w": 776,
+   "h": 110,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "pretty"
+  },
+  "cpl": {
+   "chars": 120,
+   "width": 776,
+   "fs": "32px",
+   "approxCharsPerLine": 49
+  },
+  "btn": {
+   "tag": "A",
+   "text": "Contact sales",
+   "fs": "14px",
+   "lh": "14px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "sohne-var, \"SF Pro Display\", sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "normal",
+   "w": 137,
+   "h": 40,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "nowrap",
+   "radius": "4px",
+   "bg": "rgb(83, 58, 253)",
+   "pad": "11.5px 20px 12.5px"
+  },
+  "hdrH": 76,
+  "blur": null,
+  "sizes": [
+   [
+    "16px",
+    213
+   ],
+   [
+    "10px",
+    93
+   ],
+   [
+    "14px",
+    41
+   ],
+   [
+    "26px",
+    24
+   ],
+   [
+    "22px",
+    20
+   ],
+   [
+    "9px",
+    19
+   ],
+   [
+    "48px",
+    14
+   ],
+   [
+    "8px",
+    12
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(80, 97, 122)",
+    163
+   ],
+   [
+    "rgb(6, 27, 49)",
+    115
+   ],
+   [
+    "rgb(100, 116, 141)",
+    54
+   ],
+   [
+    "rgb(83, 58, 253)",
+    44
+   ],
+   [
+    "rgb(255, 255, 255)",
+    22
+   ],
+   [
+    "rgb(39, 57, 81)",
+    16
+   ],
+   [
+    "rgb(60, 79, 105)",
+    16
+   ],
+   [
+    "rgb(26, 44, 68)",
+    10
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(255, 255, 255)",
+    25
+   ],
+   [
+    "rgb(229, 237, 245)",
+    16
+   ],
+   [
+    "rgba(255, 255, 255, 0)",
+    14
+   ],
+   [
+    "rgb(248, 250, 253)",
+    10
+   ],
+   [
+    "rgb(83, 58, 253)",
+    7
+   ],
+   [
+    "rgb(226, 228, 255)",
+    3
+   ],
+   [
+    "rgb(232, 233, 255)",
+    3
+   ],
+   [
+    "rgb(227, 236, 247)",
+    3
+   ]
+  ],
+  "fonts": [
+   [
+    "sohne-var",
+    474
+   ]
+  ],
+  "radius": [
+   [
+    "4px",
+    57
+   ],
+   [
+    "6px",
+    40
+   ],
+   [
+    "5px",
+    6
+   ],
+   [
+    "8px",
+    4
+   ],
+   [
+    "100%",
+    3
+   ],
+   [
+    "3px",
+    2
+   ],
+   [
+    "2px",
+    2
+   ],
+   [
+    "16px",
+    1
+   ]
+  ],
+  "shadow": [
+   [
+    "rgba(50, 50, 93, 0.12) 0px 16px 32px 0px",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.1) 0px 30px 60px -50px, rgba(50, 50, 93, 0.25) 0px 30px 60px -10px",
+    1
+   ],
+   [
+    "rgba(23, 23, 23, 0.08) 0px 15px 35px 0px",
+    1
+   ],
+   [
+    "rgba(23, 23, 23, 0.06) 0px 3px 6px 0px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.06) 0px 4px 24px 0px, rgba(0, 0, 0, 0.03) 0px 1px 2px 0px",
+    1
+   ]
+  ],
+  "trans": [
+   [
+    "color | 0.3s | cubic-bezier(0.25, 1, 0.5, 1)",
+    152
+   ],
+   [
+    "fill | 0.3s | cubic-bezier(0.25, 1, 0.5, 1)",
+    124
+   ],
+   [
+    "stroke | 0.3s | cubic-bezier(0.25, 1, 0.5, 1)",
+    46
+   ],
+   [
+    "transform | 0.3s | cubic-bezier(0.25, 1, 0.5, 1)",
+    46
+   ],
+   [
+    "opacity | 0.3s | cubic-bezier(0.25, 1, 0.5, 1)",
+    46
+   ],
+   [
+    "transform | 0.8s | cubic-bezier(0.165, 0.84, 0.44, 1)",
+    46
+   ],
+   [
+    "opacity | 0.15s | linear",
+    36
+   ],
+   [
+    "background-color, color, outline-color,  | 0.3s, 0.3s, 0.3s, 0.3s | cubic-bezier(0.25, 1, 0.5, 1), cubic-bezier(0.25, ",
+    24
+   ]
+  ],
+  "smallTargets": "161/203",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://stripe.com/"
+ },
+ "vercel": {
+  "title": "Agentic Infrastructure - Vercel",
+  "lang": "en",
+  "bodyBg": "rgb(0, 0, 0)",
+  "htmlBg": "rgb(0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "Skip to content\nProducts\nResou",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "GeistSans, \"GeistSans Fallback\"",
+   "color": "rgb(237, 237, 237)",
+   "wordBreak": "normal",
+   "w": 1440,
+   "h": 5333,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "Agentic Infrastructure",
+   "fs": "64px",
+   "lh": "64px",
+   "ls": "-3.84px",
+   "fw": "400",
+   "ff": "GeistSans, \"GeistSans Fallback\"",
+   "color": "rgb(237, 237, 237)",
+   "wordBreak": "normal",
+   "w": 356,
+   "h": 128,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "balance"
+  },
+  "h2": {
+   "tag": "H2",
+   "text": "Build agents on infrastructure",
+   "fs": "56px",
+   "lh": "56px",
+   "ls": "-3.36px",
+   "fw": "450",
+   "ff": "GeistSans, \"GeistSans Fallback\"",
+   "color": "rgb(237, 237, 237)",
+   "wordBreak": "normal",
+   "w": 673,
+   "h": 112,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "balance"
+  },
+  "p": {
+   "tag": "P",
+   "text": "Notion powers millions of agen",
+   "fs": "24px",
+   "lh": "32px",
+   "ls": "-0.96px",
+   "fw": "450",
+   "ff": "GeistSans, \"GeistSans Fallback\"",
+   "color": "rgb(161, 161, 161)",
+   "wordBreak": "normal",
+   "w": 333,
+   "h": 64,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "balance"
+  },
+  "cpl": {
+   "chars": 62,
+   "width": 333,
+   "fs": "24px",
+   "approxCharsPerLine": 28
+  },
+  "btn": {
+   "tag": "A",
+   "text": "Skip to content",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "GeistSans, \"GeistSans Fallback\"",
+   "color": "rgb(82, 168, 255)",
+   "wordBreak": "normal",
+   "w": 120,
+   "h": 24,
+   "mt": "-1px",
+   "mb": "-1px",
+   "tt": "nowrap",
+   "radius": "6px",
+   "bg": "rgb(0, 0, 0)",
+   "pad": "0px 4px"
+  },
+  "hdrH": 64,
+  "blur": null,
+  "sizes": [
+   [
+    "14px",
+    134
+   ],
+   [
+    "20px",
+    36
+   ],
+   [
+    "18px",
+    36
+   ],
+   [
+    "16px",
+    17
+   ],
+   [
+    "24px",
+    9
+   ],
+   [
+    "56px",
+    5
+   ],
+   [
+    "22px",
+    4
+   ],
+   [
+    "13px",
+    4
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(237, 237, 237)",
+    130
+   ],
+   [
+    "rgb(161, 161, 161)",
+    109
+   ],
+   [
+    "rgb(10, 10, 10)",
+    4
+   ],
+   [
+    "lab(100 0 0)",
+    3
+   ],
+   [
+    "rgb(143, 143, 143)",
+    3
+   ],
+   [
+    "rgb(82, 168, 255)",
+    1
+   ],
+   [
+    "rgb(136, 136, 136)",
+    1
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(10, 10, 10)",
+    14
+   ],
+   [
+    "rgb(0, 0, 0)",
+    8
+   ],
+   [
+    "rgb(237, 237, 237)",
+    7
+   ],
+   [
+    "oklab(0.650364 -0.0606599 -0.182677 / 0.8)",
+    3
+   ],
+   [
+    "oklab(0 0 0 / 0.5)",
+    1
+   ],
+   [
+    "rgb(136, 136, 136)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "GeistSans",
+    244
+   ],
+   [
+    "\"Geist Mono\"",
+    7
+   ]
+  ],
+  "radius": [
+   [
+    "6px",
+    44
+   ],
+   [
+    "3.35544e+07px",
+    21
+   ],
+   [
+    "8px",
+    6
+   ],
+   [
+    "20px",
+    6
+   ],
+   [
+    "4px",
+    4
+   ]
+  ],
+  "shadow": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0",
+    21
+   ]
+  ],
+  "trans": [
+   [
+    "color, background-color, border-color, o | 0.1s | cubic-bezier(0.4, 0, 0.2, 1)",
+    79
+   ],
+   [
+    "color, background-color, border-color, o | 0.15s | cubic-bezier(0.4, 0, 0.2, 1)",
+    37
+   ],
+   [
+    "all | 0.15s | cubic-bezier(0.4, 0, 0.2, 1)",
+    10
+   ],
+   [
+    "opacity | 0.3s | cubic-bezier(0.4, 0, 0.2, 1)",
+    4
+   ],
+   [
+    "background, box-shadow | 0.2s | cubic-bezier(0.4, 0, 0.2, 1)",
+    3
+   ],
+   [
+    "opacity, scale | 0.2s | cubic-bezier(0.23, 1, 0.32, 1)",
+    2
+   ],
+   [
+    "opacity | 0.3s | cubic-bezier(0, 0, 0.2, 1)",
+    1
+   ],
+   [
+    "opacity | 0.5s | cubic-bezier(0, 0, 0.2, 1)",
+    1
+   ]
+  ],
+  "smallTargets": "169/174",
+  "scrollW": 1440,
+  "hasMetaDark": true,
+  "rootVars": null,
+  "url": "https://vercel.com/"
+ },
+ "notion": {
+  "title": "나만을 위한 AI 워크스페이스 | Notion (노션)",
+  "lang": "ko",
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgb(255, 255, 255)",
+  "body": {
+   "tag": "BODY",
+   "text": "제품\n리소스\n가격\n영업팀 문의하기\n로그인\nNotion ",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "NotionInter, Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Hel",
+   "color": "rgba(0, 0, 0, 0.95)",
+   "wordBreak": "keep-all",
+   "w": 1440,
+   "h": 4687,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "pretty"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "팀과 에이전트가 함께 \n생각\n하는 곳",
+   "fs": "96px",
+   "lh": "100px",
+   "ls": "-4.6px",
+   "fw": "600",
+   "ff": "NotionInter, Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Hel",
+   "color": "rgba(0, 0, 0, 0.95)",
+   "wordBreak": "keep-all",
+   "w": 1252,
+   "h": 210,
+   "mt": "0px",
+   "mb": "12px",
+   "tt": "balance"
+  },
+  "h2": {
+   "tag": "H2",
+   "text": "팀 업무 공간에서 바로 쓰는 AI",
+   "fs": "54px",
+   "lh": "56px",
+   "ls": "-1.87501px",
+   "fw": "700",
+   "ff": "NotionInter, Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Hel",
+   "color": "rgba(0, 0, 0, 0.95)",
+   "wordBreak": "keep-all",
+   "w": 631,
+   "h": 56,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "balance"
+  },
+  "p": {
+   "tag": "P",
+   "text": "팀을 위해 구축된 AI로 맥락을 파악하고, 답을 찾고,",
+   "fs": "20px",
+   "lh": "28px",
+   "ls": "-0.125px",
+   "fw": "400",
+   "ff": "NotionInter, Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Hel",
+   "color": "rgba(0, 0, 0, 0.898)",
+   "wordBreak": "keep-all",
+   "w": 1252,
+   "h": 28,
+   "mt": "0px",
+   "mb": "20px",
+   "tt": "balance"
+  },
+  "cpl": {
+   "chars": 42,
+   "width": 1252,
+   "fs": "20px",
+   "approxCharsPerLine": 63
+  },
+  "btn": {
+   "tag": "A",
+   "text": "Notion 무료로 사용하기",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "500",
+   "ff": "NotionInter, Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Hel",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "keep-all",
+   "w": 172,
+   "h": 36,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "pretty",
+   "radius": "8px",
+   "bg": "rgb(0, 117, 222)",
+   "pad": "4px 14px"
+  },
+  "hdrH": 64,
+  "blur": null,
+  "sizes": [
+   [
+    "14px",
+    71
+   ],
+   [
+    "12px",
+    16
+   ],
+   [
+    "16px",
+    16
+   ],
+   [
+    "22px",
+    10
+   ],
+   [
+    "20px",
+    4
+   ],
+   [
+    "18px",
+    3
+   ],
+   [
+    "54px",
+    2
+   ],
+   [
+    "96px",
+    1
+   ]
+  ],
+  "colors": [
+   [
+    "rgba(0, 0, 0, 0.898)",
+    44
+   ],
+   [
+    "rgb(0, 0, 0)",
+    16
+   ],
+   [
+    "rgb(255, 255, 255)",
+    16
+   ],
+   [
+    "rgb(97, 93, 89)",
+    15
+   ],
+   [
+    "rgba(0, 0, 0, 0.54)",
+    13
+   ],
+   [
+    "rgba(0, 0, 0, 0.95)",
+    11
+   ],
+   [
+    "rgb(0, 117, 222)",
+    6
+   ],
+   [
+    "rgba(0, 0, 0, 0.59)",
+    2
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(255, 255, 255)",
+    20
+   ],
+   [
+    "rgba(255, 255, 255, 0)",
+    17
+   ],
+   [
+    "rgba(0, 0, 0, 0.75)",
+    17
+   ],
+   [
+    "rgb(249, 249, 248)",
+    7
+   ],
+   [
+    "rgb(0, 117, 222)",
+    3
+   ],
+   [
+    "rgb(0, 0, 0)",
+    3
+   ],
+   [
+    "rgb(230, 243, 254)",
+    2
+   ],
+   [
+    "rgb(9, 127, 232)",
+    2
+   ]
+  ],
+  "fonts": [
+   [
+    "NotionInter",
+    121
+   ],
+   [
+    "\"Lyon Text\"",
+    4
+   ]
+  ],
+  "radius": [
+   [
+    "8px",
+    64
+   ],
+   [
+    "4px",
+    22
+   ],
+   [
+    "12px",
+    21
+   ],
+   [
+    "9999.01px",
+    7
+   ],
+   [
+    "100%",
+    3
+   ],
+   [
+    "16px",
+    2
+   ],
+   [
+    "50%",
+    1
+   ]
+  ],
+  "shadow": [
+   [
+    "rgba(0, 0, 0, 0.01) 0px 0.175px 1.041px 0px, rgba(0, 0, 0, 0.02) 0px 0.8px 2.925px 0px, rg",
+    6
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 1px 0px 0px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.008) 0px 0.667px 3.502px 0px, rgba(0, 0, 0, 0.016) 0px 2.933px 7.252px 0px",
+    1
+   ]
+  ],
+  "trans": [
+   [
+    "text-decoration-color | 0.2s | cubic-bezier(0.42, 0, 1, 1)",
+    23
+   ],
+   [
+    "background-color, color | 0.2s | cubic-bezier(0.42, 0, 1, 1)",
+    21
+   ],
+   [
+    "background-color | 0.2s | cubic-bezier(0.42, 0, 1, 1)",
+    17
+   ],
+   [
+    "outline-color | 0.2s | cubic-bezier(0.42, 0, 1, 1)",
+    11
+   ],
+   [
+    "background-color | 0.15s | ease",
+    5
+   ],
+   [
+    "box-shadow | 0.2s | cubic-bezier(0.645, 0.045, 0.355, 1)",
+    3
+   ],
+   [
+    "transform | 0.2s | cubic-bezier(0.645, 0.045, 0.355, 1)",
+    3
+   ],
+   [
+    "transform | 0.3s | ease",
+    1
+   ]
+  ],
+  "smallTargets": "65/79",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://www.notion.com/ko"
+ },
+ "airbnb": {
+  "title": "에어비앤비 | 휴가지 숙소, 통나무집, 해변가 주택 등",
+  "lang": "ko",
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "콘텐츠로 바로가기\n에어비앤비 홈페이지\n전체\n전체\n숙소\n",
+   "fs": "14px",
+   "lh": "20.02px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"Airbnb Cereal VF\", Circular, -apple-system, BlinkMacSystemFont, Robot",
+   "color": "rgb(34, 34, 34)",
+   "wordBreak": "keep-all",
+   "w": 1425,
+   "h": 1330,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "에어비앤비 홈페이지",
+   "fs": "28px",
+   "lh": "40.04px",
+   "ls": "normal",
+   "fw": "700",
+   "ff": "\"Airbnb Cereal VF\", Circular, -apple-system, BlinkMacSystemFont, Robot",
+   "color": "rgb(34, 34, 34)",
+   "wordBreak": "keep-all",
+   "w": 1,
+   "h": 1,
+   "mt": "0px",
+   "mb": "15px",
+   "tt": "nowrap"
+  },
+  "h2": {
+   "tag": "H2",
+   "text": "영종도의 숙소를 확인해 보세요",
+   "fs": "14px",
+   "lh": "20.02px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"Airbnb Cereal VF\", Circular, -apple-system, BlinkMacSystemFont, Robot",
+   "color": "rgb(34, 34, 34)",
+   "wordBreak": "keep-all",
+   "w": 252,
+   "h": 24,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "p": null,
+  "cpl": null,
+  "btn": {
+   "tag": "BUTTON",
+   "text": "",
+   "fs": "14px",
+   "lh": "normal",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"Airbnb Cereal VF\", Circular, -apple-system, BlinkMacSystemFont, Robot",
+   "color": "rgb(34, 34, 34)",
+   "wordBreak": "keep-all",
+   "w": 40,
+   "h": 40,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap",
+   "radius": "50%",
+   "bg": "rgb(242, 242, 242)",
+   "pad": "0px"
+  },
+  "hdrH": 96,
+  "blur": null,
+  "sizes": [
+   [
+    "12px",
+    195
+   ],
+   [
+    "13px",
+    43
+   ],
+   [
+    "14px",
+    39
+   ],
+   [
+    "11px",
+    15
+   ],
+   [
+    "20px",
+    4
+   ],
+   [
+    "28px",
+    1
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(108, 108, 108)",
+    149
+   ],
+   [
+    "rgb(34, 34, 34)",
+    96
+   ],
+   [
+    "rgb(193, 193, 193)",
+    52
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(221, 221, 221)",
+    42
+   ],
+   [
+    "color(srgb 1 1 1 / 0.8)",
+    15
+   ],
+   [
+    "rgb(242, 242, 242)",
+    14
+   ],
+   [
+    "rgb(140, 140, 140)",
+    9
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ],
+   [
+    "rgb(34, 34, 34)",
+    3
+   ],
+   [
+    "rgb(235, 235, 235)",
+    1
+   ],
+   [
+    "rgb(218, 18, 73)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Airbnb Cereal VF\"",
+    297
+   ]
+  ],
+  "radius": [
+   [
+    "20px",
+    76
+   ],
+   [
+    "50%",
+    34
+   ],
+   [
+    "8px",
+    20
+   ],
+   [
+    "14px",
+    19
+   ],
+   [
+    "9px",
+    9
+   ],
+   [
+    "32px",
+    5
+   ],
+   [
+    "100px",
+    3
+   ],
+   [
+    "50px",
+    2
+   ]
+  ],
+  "shadow": [
+   [
+    "color(srgb 0 0 0 / 0.02) 0px 0px 0px 1px, color(srgb 0 0 0 / 0.04) 0px 2px 6px 0px, color(",
+    18
+   ],
+   [
+    "color(srgb 0 0 0 / 0.02) 0px 0px 0px 1px, color(srgb 0 0 0 / 0.16) 0px 2px 4px 0px",
+    9
+   ],
+   [
+    "color(srgb 0 0 0 / 0.02) 0px 0px 0px 1px, color(srgb 0 0 0 / 0.1) 0px 8px 24px 0px",
+    1
+   ]
+  ],
+  "trans": [
+   [
+    "transform | 0.25s | cubic-bezier(0.2, 0, 0, 1)",
+    69
+   ],
+   [
+    "box-shadow, transform | 0.2s, 0.1s | cubic-bezier(0.2, 0, 0, 1), cubic-bezier(0.2, 0, 0",
+    20
+   ],
+   [
+    "clip-path | 0.449123s | linear(0 0%, 0.254842 12.5%, 0.643484 25%, 0.90617",
+    16
+   ],
+   [
+    "background-color, transform | 0.25s | cubic-bezier(0.2, 0, 0, 1)",
+    4
+   ],
+   [
+    "transform | 0.451754s | linear(0 0%, 0.185572 10%, 0.465306 20%, 0.682334 ",
+    2
+   ],
+   [
+    "color | 0.25s | cubic-bezier(0.2, 0, 0, 1)",
+    1
+   ],
+   [
+    "opacity | 0.175s | cubic-bezier(0, 0, 1, 1)",
+    1
+   ],
+   [
+    "opacity | 0.15s | cubic-bezier(0, 0, 1, 1)",
+    1
+   ]
+  ],
+  "smallTargets": "44/89",
+  "scrollW": 1425,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://www.airbnb.co.kr/"
+ },
+ "raycast": {
+  "title": "Raycast - Your shortcut to everything",
+  "lang": "en",
+  "bodyBg": "rgb(7, 8, 10)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "Store\nPro\nAI\niOS\nWindows\nTeams",
+   "fs": "16px",
+   "lh": "18.4px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "Inter, \"Inter Fallback\", sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "normal",
+   "w": 1440,
+   "h": 15983,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "Your shortcut to everything.",
+   "fs": "64px",
+   "lh": "70.4px",
+   "ls": "normal",
+   "fw": "600",
+   "ff": "Inter, \"Inter Fallback\", sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "normal",
+   "w": 540,
+   "h": 141,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h2": {
+   "tag": "H2",
+   "text": "Take shortcuts, not detours.",
+   "fs": "20px",
+   "lh": "normal",
+   "ls": "0.2px",
+   "fw": "500",
+   "ff": "Inter, \"Inter Fallback\", sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "normal",
+   "w": 350,
+   "h": 24,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "p": {
+   "tag": "P",
+   "text": "A collection of powerful produ",
+   "fs": "18px",
+   "lh": "normal",
+   "ls": "0.2px",
+   "fw": "400",
+   "ff": "Inter, \"Inter Fallback\", sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "normal",
+   "w": 786,
+   "h": 42,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "balance"
+  },
+  "cpl": {
+   "chars": 108,
+   "width": 786,
+   "fs": "18px",
+   "approxCharsPerLine": 87
+  },
+  "btn": {
+   "tag": "A",
+   "text": "Download",
+   "fs": "14px",
+   "lh": "16px",
+   "ls": "0.2px",
+   "fw": "500",
+   "ff": "Inter, \"Inter Fallback\", sans-serif",
+   "color": "rgb(47, 48, 49)",
+   "wordBreak": "normal",
+   "w": 117,
+   "h": 36,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "nowrap",
+   "radius": "8px",
+   "bg": "rgb(230, 230, 230)",
+   "pad": "8px 12px"
+  },
+  "hdrH": null,
+  "blur": null,
+  "sizes": [
+   [
+    "32px",
+    203
+   ],
+   [
+    "14px",
+    142
+   ],
+   [
+    "16px",
+    136
+   ],
+   [
+    "13px",
+    105
+   ],
+   [
+    "24px",
+    40
+   ],
+   [
+    "18px",
+    29
+   ],
+   [
+    "12px",
+    20
+   ],
+   [
+    "20px",
+    18
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(255, 255, 255)",
+    453
+   ],
+   [
+    "rgb(156, 156, 157)",
+    97
+   ],
+   [
+    "rgba(255, 255, 255, 0.6)",
+    70
+   ],
+   [
+    "rgb(106, 107, 108)",
+    49
+   ],
+   [
+    "rgb(67, 67, 69)",
+    36
+   ],
+   [
+    "rgba(255, 255, 255, 0.4)",
+    17
+   ],
+   [
+    "rgba(255, 255, 255, 0.3)",
+    8
+   ],
+   [
+    "rgb(47, 48, 49)",
+    5
+   ]
+  ],
+  "bgs": [
+   [
+    "rgba(255, 255, 255, 0.05)",
+    104
+   ],
+   [
+    "rgb(255, 255, 255)",
+    96
+   ],
+   [
+    "rgba(255, 255, 255, 0.1)",
+    29
+   ],
+   [
+    "rgb(67, 67, 69)",
+    18
+   ],
+   [
+    "rgb(8, 9, 12)",
+    6
+   ],
+   [
+    "rgb(230, 230, 230)",
+    5
+   ],
+   [
+    "rgba(255, 255, 255, 0.02)",
+    5
+   ],
+   [
+    "rgba(158, 190, 215, 0.1)",
+    3
+   ]
+  ],
+  "fonts": [
+   [
+    "Inter",
+    528
+   ],
+   [
+    "\"SF Pro Text\"",
+    188
+   ],
+   [
+    "GeistMono",
+    23
+   ],
+   [
+    "jetBrainsMono",
+    1
+   ]
+  ],
+  "radius": [
+   [
+    "11px",
+    159
+   ],
+   [
+    "8px",
+    107
+   ],
+   [
+    "100%",
+    101
+   ],
+   [
+    "6px",
+    64
+   ],
+   [
+    "12px",
+    53
+   ],
+   [
+    "20px",
+    38
+   ],
+   [
+    "16px",
+    28
+   ],
+   [
+    "99999px",
+    24
+   ]
+  ],
+  "shadow": [
+   [
+    "rgba(0, 0, 0, 0.4) 0px 1.5px 0.5px 2.5px, rgb(0, 0, 0) 0px 0px 0.5px 1px, rgba(0, 0, 0, 0.",
+    159
+   ],
+   [
+    "rgb(27, 28, 30) 0px 0px 0px 1px, rgb(7, 8, 10) 0px 0px 0px 1px inset",
+    54
+   ],
+   [
+    "rgba(215, 201, 175, 0.05) 0px 0px 20px 5px, rgba(215, 201, 175, 0.05) 0px 0px 16px -7px",
+    18
+   ],
+   [
+    "rgba(0, 0, 0, 0.28) 0px 1.189px 2.377px 0px",
+    17
+   ],
+   [
+    "rgba(255, 255, 255, 0.05) 0px 1px 0px 0px inset, rgba(255, 255, 255, 0.25) 0px 0px 0px 1px",
+    17
+   ],
+   [
+    "rgba(255, 255, 255, 0.1) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.4) 0px 30px 50px 0px, rgba",
+    8
+   ],
+   [
+    "rgba(0, 0, 0, 0.03) 0px 7px 3px 0px, rgba(0, 0, 0, 0.25) 0px 4px 4px 0px",
+    6
+   ],
+   [
+    "rgba(255, 255, 255, 0.1) 0px 1px 0px 0px inset",
+    6
+   ]
+  ],
+  "trans": [
+   [
+    "opacity, box-shadow, transform, color, - | 0.4s, 0.2s, 0.2s, 0.2s, 0.4s, 0.4s | cubic-bezier(0.23, 1, 0.32, 1), cubic-bezier(0.23,",
+    159
+   ],
+   [
+    "color | 0.3s | ease",
+    88
+   ],
+   [
+    "all | 0.3s | ease",
+    45
+   ],
+   [
+    "all | 0.3s | ease-in-out",
+    39
+   ],
+   [
+    "all | 0.2s | ease-in-out",
+    31
+   ],
+   [
+    "fill | 0.4s | cubic-bezier(0.23, 1, 0.32, 1)",
+    26
+   ],
+   [
+    "box-shadow | 0.2s | ease",
+    24
+   ],
+   [
+    "transform | 0.3s | ease",
+    21
+   ]
+  ],
+  "smallTargets": "102/148",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://www.raycast.com/"
+ }
+}

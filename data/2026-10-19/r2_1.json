@@ -1,0 +1,1214 @@
+{
+ "toss_tech": {
+  "title": "토스 기술 블로그, 토스 테크",
+  "lang": "ko",
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "Engineering\nDesign\nProduct\n구독하",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"Toss Product Sans\", Tossface, \"SF Pro KR\", \"SF Pro Display\", \"SF Pro ",
+   "color": "rgb(33, 37, 41)",
+   "wordBreak": "keep-all",
+   "w": 1430,
+   "h": 3491,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": null,
+  "h2": null,
+  "p": null,
+  "cpl": null,
+  "btn": {
+   "tag": "BUTTON",
+   "text": "구독하기",
+   "fs": "15px",
+   "lh": "22.005px",
+   "ls": "normal",
+   "fw": "600",
+   "ff": "\"Toss Product Sans\", Tossface, \"SF Pro KR\", \"SF Pro Display\", \"SF Pro ",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "keep-all",
+   "w": 76,
+   "h": 40,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "nowrap",
+   "radius": "10px",
+   "bg": "rgb(49, 130, 246)",
+   "pad": "9px 12px"
+  },
+  "hdrH": null,
+  "blur": null,
+  "sizes": [
+   [
+    "15px",
+    66
+   ],
+   [
+    "13px",
+    39
+   ],
+   [
+    "17px",
+    12
+   ],
+   [
+    "20px",
+    9
+   ],
+   [
+    "16px",
+    5
+   ],
+   [
+    "32px",
+    2
+   ],
+   [
+    "36px",
+    1
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(107, 118, 132)",
+    82
+   ],
+   [
+    "rgb(51, 61, 75)",
+    15
+   ],
+   [
+    "rgb(25, 31, 40)",
+    10
+   ],
+   [
+    "rgb(139, 149, 161)",
+    9
+   ],
+   [
+    "rgb(49, 130, 246)",
+    8
+   ],
+   [
+    "rgb(78, 89, 104)",
+    5
+   ],
+   [
+    "rgba(3, 18, 40, 0.7)",
+    4
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(242, 244, 246)",
+    14
+   ],
+   [
+    "rgb(255, 255, 255)",
+    13
+   ],
+   [
+    "rgb(232, 243, 255)",
+    5
+   ],
+   [
+    "rgb(49, 130, 246)",
+    1
+   ],
+   [
+    "rgba(2, 32, 71, 0.05)",
+    1
+   ],
+   [
+    "rgb(249, 250, 251)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Toss Product Sans\"",
+    134
+   ]
+  ],
+  "radius": [
+   [
+    "8px",
+    21
+   ],
+   [
+    "12px",
+    15
+   ],
+   [
+    "999px",
+    14
+   ],
+   [
+    "24px",
+    6
+   ],
+   [
+    "10px",
+    5
+   ],
+   [
+    "50%",
+    4
+   ],
+   [
+    "16px",
+    1
+   ]
+  ],
+  "shadow": [
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 1px inset",
+    6
+   ]
+  ],
+  "trans": [
+   [
+    "color | 0.2s | ease",
+    11
+   ],
+   [
+    "color, background, box-shadow | 0.15s | ease",
+    6
+   ],
+   [
+    "background-color | 0.2s | ease",
+    6
+   ],
+   [
+    "transform | 0.3s | ease",
+    6
+   ],
+   [
+    "color, transform | 0.2s, 0.2s | ease, ease",
+    5
+   ],
+   [
+    "opacity | 0.2s | ease",
+    4
+   ],
+   [
+    "border-bottom | 0.3s | ease-in-out",
+    1
+   ]
+  ],
+  "smallTargets": "80/99",
+  "scrollW": 1430,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://toss.tech/"
+ },
+ "naver": {
+  "title": "NAVER",
+  "lang": "ko",
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "상단영역 바로가기\n서비스 메뉴 바로가기\n새소식 블록 바",
+   "fs": "14.7px",
+   "lh": "17.85px",
+   "ls": "-0.4px",
+   "fw": "500",
+   "ff": "-apple-system, BlinkMacSystemFont, \"Malgun Gothic\", \"맑은 고딕\", helvetica",
+   "color": "rgb(46, 46, 46)",
+   "wordBreak": "normal",
+   "w": 1440,
+   "h": 3304,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "NAVER",
+   "fs": "14.7px",
+   "lh": "17.85px",
+   "ls": "-0.4px",
+   "fw": "700",
+   "ff": "-apple-system, BlinkMacSystemFont, \"Malgun Gothic\", \"맑은 고딕\", helvetica",
+   "color": "rgb(46, 46, 46)",
+   "wordBreak": "normal",
+   "w": 67,
+   "h": 58,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h2": null,
+  "p": null,
+  "cpl": null,
+  "btn": {
+   "tag": "A",
+   "text": "다운로드",
+   "fs": "11px",
+   "lh": "24px",
+   "ls": "-0.4px",
+   "fw": "500",
+   "ff": "-apple-system, BlinkMacSystemFont, \"Malgun Gothic\", \"맑은 고딕\", helvetica",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "normal",
+   "w": 76,
+   "h": 24,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap",
+   "radius": "12px",
+   "bg": "rgb(0, 0, 0)",
+   "pad": "0px 11px 0px 10px"
+  },
+  "hdrH": null,
+  "blur": null,
+  "sizes": [
+   [
+    "13.65px",
+    108
+   ],
+   [
+    "14.7px",
+    59
+   ],
+   [
+    "16.8px",
+    14
+   ],
+   [
+    "13px",
+    11
+   ],
+   [
+    "12px",
+    2
+   ],
+   [
+    "15.75px",
+    2
+   ],
+   [
+    "11px",
+    1
+   ],
+   [
+    "17px",
+    1
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(46, 46, 46)",
+    87
+   ],
+   [
+    "rgb(115, 115, 115)",
+    75
+   ],
+   [
+    "rgb(255, 255, 255)",
+    13
+   ],
+   [
+    "rgba(0, 0, 0, 0.5)",
+    13
+   ],
+   [
+    "rgb(0, 0, 0)",
+    5
+   ],
+   [
+    "rgb(66, 66, 66)",
+    2
+   ],
+   [
+    "rgb(201, 201, 201)",
+    2
+   ],
+   [
+    "rgb(171, 74, 41)",
+    2
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(255, 255, 255)",
+    10
+   ],
+   [
+    "rgb(51, 51, 51)",
+    8
+   ],
+   [
+    "rgba(0, 0, 0, 0.08)",
+    8
+   ],
+   [
+    "rgb(244, 54, 30)",
+    2
+   ],
+   [
+    "rgb(248, 249, 250)",
+    2
+   ],
+   [
+    "rgb(255, 249, 234)",
+    1
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ],
+   [
+    "rgb(50, 131, 253)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "-apple-system",
+    200
+   ]
+  ],
+  "radius": [
+   [
+    "4px",
+    37
+   ],
+   [
+    "8px",
+    11
+   ],
+   [
+    "117.647px",
+    5
+   ],
+   [
+    "50%",
+    4
+   ],
+   [
+    "12px",
+    2
+   ],
+   [
+    "15px",
+    1
+   ],
+   [
+    "33px",
+    1
+   ],
+   [
+    "9px",
+    1
+   ]
+  ],
+  "shadow": [
+   [
+    "rgba(0, 0, 0, 0.1) 0px 0px 0px 1px, rgba(0, 0, 0, 0.04) 0px 1px 2px 0px",
+    10
+   ],
+   [
+    "rgba(0, 0, 0, 0.06) 0px 1px 2px 0px",
+    3
+   ],
+   [
+    "rgba(0, 0, 0, 0.04) 0px 1px 10px 0px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.2) 0px 3px 6px 0px",
+    1
+   ],
+   [
+    "rgba(3, 199, 90, 0.12) 0px 2px 4px 0px",
+    1
+   ]
+  ],
+  "trans": [
+   [
+    "transform | 0.2s | cubic-bezier(0.165, 0.84, 0.44, 1)",
+    34
+   ],
+   [
+    "opacity | 0.3s | cubic-bezier(0.33, 1, 0.68, 1)",
+    2
+   ],
+   [
+    "opacity | 1s | cubic-bezier(0, 0, 1, 1)",
+    2
+   ],
+   [
+    "opacity | 1s | cubic-bezier(0.33, 1, 0.68, 1)",
+    2
+   ],
+   [
+    "opacity | 0.5s | cubic-bezier(0.33, 1, 0.68, 1)",
+    2
+   ],
+   [
+    "opacity | 0.2s | cubic-bezier(0.33, 1, 0.68, 1)",
+    1
+   ],
+   [
+    "opacity, trasnfrom | 0.3s, 0.3s | cubic-bezier(0.645, 0.045, 0.355, 1), cubic-bezier",
+    1
+   ],
+   [
+    "all | 0.3s | ease",
+    1
+   ]
+  ],
+  "smallTargets": "64/137",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://www.naver.com/"
+ },
+ "ridi": {
+  "title": "만화 웹툰 웹소설 도서는 리디",
+  "lang": "ko",
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "본문 바로가기\n리디 만화\n리디 홈으로 이동\n인스턴트 검",
+   "fs": "14px",
+   "lh": "normal",
+   "ls": "-0.42px",
+   "fw": "400",
+   "ff": "\"Pretendard Variable\", \"Pretendard Std Variable\", \"Pretendard JP Varia",
+   "color": "rgb(20, 20, 20)",
+   "wordBreak": "normal",
+   "w": 1440,
+   "h": 9306,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "리디 만화",
+   "fs": "28px",
+   "lh": "normal",
+   "ls": "-0.84px",
+   "fw": "700",
+   "ff": "\"Pretendard Variable\", \"Pretendard Std Variable\", \"Pretendard JP Varia",
+   "color": "rgb(20, 20, 20)",
+   "wordBreak": "normal",
+   "w": 1,
+   "h": 1,
+   "mt": "18.76px",
+   "mb": "18.76px",
+   "tt": "wrap"
+  },
+  "h2": {
+   "tag": "H2",
+   "text": "지금 많이 읽고 있는 만화",
+   "fs": "22px",
+   "lh": "26px",
+   "ls": "-0.22px",
+   "fw": "700",
+   "ff": "\"Pretendard Variable\", \"Pretendard Std Variable\", \"Pretendard JP Varia",
+   "color": "rgb(20, 20, 20)",
+   "wordBreak": "keep-all",
+   "w": 207,
+   "h": 26,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "nowrap"
+  },
+  "p": null,
+  "cpl": null,
+  "btn": {
+   "tag": "A",
+   "text": "추천",
+   "fs": "16px",
+   "lh": "19px",
+   "ls": "-0.16px",
+   "fw": "700",
+   "ff": "\"Pretendard Variable\", \"Pretendard Std Variable\", \"Pretendard JP Varia",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "normal",
+   "w": 47,
+   "h": 34,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "nowrap",
+   "radius": "99px",
+   "bg": "rgb(30, 158, 255)",
+   "pad": "7px 10px 8px"
+  },
+  "hdrH": 116,
+  "blur": null,
+  "sizes": [
+   [
+    "16px",
+    74
+   ],
+   [
+    "14px",
+    57
+   ],
+   [
+    "22px",
+    45
+   ],
+   [
+    "8px",
+    37
+   ],
+   [
+    "13px",
+    37
+   ],
+   [
+    "18px",
+    8
+   ],
+   [
+    "11px",
+    6
+   ],
+   [
+    "15px",
+    2
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(255, 255, 255)",
+    126
+   ],
+   [
+    "rgb(20, 20, 20)",
+    73
+   ],
+   [
+    "rgb(120, 120, 120)",
+    51
+   ],
+   [
+    "rgba(0, 0, 0, 0)",
+    10
+   ],
+   [
+    "rgb(220, 50, 50)",
+    8
+   ],
+   [
+    "rgb(30, 158, 255)",
+    1
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(245, 245, 245)",
+    390
+   ],
+   [
+    "rgb(240, 240, 240)",
+    46
+   ],
+   [
+    "rgb(255, 255, 255)",
+    12
+   ],
+   [
+    "rgba(0, 0, 0, 0.04)",
+    8
+   ],
+   [
+    "rgb(30, 158, 255)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.9)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Pretendard Variable\"",
+    269
+   ]
+  ],
+  "radius": [
+   [
+    "4px",
+    380
+   ],
+   [
+    "20px",
+    44
+   ],
+   [
+    "99px",
+    10
+   ],
+   [
+    "50%",
+    6
+   ],
+   [
+    "22px",
+    5
+   ],
+   [
+    "8px",
+    2
+   ],
+   [
+    "29px",
+    1
+   ]
+  ],
+  "shadow": [
+   [
+    "rgba(0, 0, 0, 0.06) 2px 4px 8px 0px",
+    6
+   ],
+   [
+    "rgba(0, 0, 0, 0.08) 5px 5px 10px 0px",
+    1
+   ]
+  ],
+  "trans": [
+   [
+    "all | 0.2s | ease-in-out",
+    10
+   ],
+   [
+    "opacity, color, pointer-events | 0.2s, 0.2s, 0.2s | ease, ease, ease",
+    6
+   ],
+   [
+    "opacity, pointer-events, transform | 0.4s, 0.4s, 0.4s | ease, ease, ease",
+    1
+   ]
+  ],
+  "smallTargets": "52/124",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://ridibooks.com/"
+ },
+ "verge": {
+  "title": "The Verge",
+  "lang": "en-US",
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "SKIP TO MAIN CONTENT\nSUBSCRIBE",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI",
+   "color": "rgb(19, 19, 19)",
+   "wordBreak": "normal",
+   "w": 1440,
+   "h": 22344,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": null,
+  "h2": {
+   "tag": "H2",
+   "text": "Weekend reads / Catch up on ou",
+   "fs": "24px",
+   "lh": "26.4px",
+   "ls": "0.24px",
+   "fw": "700",
+   "ff": "polySans, \"polySans Fallback\", Helvetica, Arial, sans-serif, Arial, sa",
+   "color": "rgb(19, 19, 19)",
+   "wordBreak": "normal",
+   "w": 800,
+   "h": 26,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "p": {
+   "tag": "P",
+   "text": "Frustrated by federal gridlock",
+   "fs": "24px",
+   "lh": "28.8px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "fkRomanStandard, \"fkRomanStandard Fallback\", Georgia, serif, Georgia, ",
+   "color": "rgb(19, 19, 19)",
+   "wordBreak": "normal",
+   "w": 480,
+   "h": 115,
+   "mt": "10px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "cpl": {
+   "chars": 151,
+   "width": 480,
+   "fs": "24px",
+   "approxCharsPerLine": 40
+  },
+  "btn": {
+   "tag": "A",
+   "text": "SUBSCRIBE",
+   "fs": "11px",
+   "lh": "13px",
+   "ls": "1.1px",
+   "fw": "400",
+   "ff": "polySansMono, \"polySansMono Fallback\", \"Courier New\", Courier, monospa",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "normal",
+   "w": 80,
+   "h": 22,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap",
+   "radius": "2px",
+   "bg": "rgb(82, 0, 255)",
+   "pad": "4px 5px 5px"
+  },
+  "hdrH": 36,
+  "blur": {
+   "tag": "HEADER",
+   "bf": "blur(14px)",
+   "bg": "color(srgb 1 1 1 / 0.55)",
+   "pos": "relative"
+  },
+  "sizes": [
+   [
+    "11px",
+    275
+   ],
+   [
+    "16px",
+    123
+   ],
+   [
+    "20px",
+    46
+   ],
+   [
+    "24px",
+    31
+   ],
+   [
+    "18px",
+    31
+   ],
+   [
+    "14px",
+    15
+   ],
+   [
+    "13px",
+    15
+   ],
+   [
+    "12px",
+    7
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(19, 19, 19)",
+    180
+   ],
+   [
+    "rgb(99, 99, 99)",
+    154
+   ],
+   [
+    "rgb(82, 0, 255)",
+    113
+   ],
+   [
+    "rgb(74, 74, 74)",
+    82
+   ],
+   [
+    "rgb(255, 255, 255)",
+    33
+   ],
+   [
+    "rgb(0, 0, 0)",
+    12
+   ],
+   [
+    "rgb(148, 148, 148)",
+    2
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(238, 230, 255)",
+    10
+   ],
+   [
+    "rgb(246, 246, 246)",
+    5
+   ],
+   [
+    "rgb(0, 0, 0)",
+    5
+   ],
+   [
+    "rgb(255, 255, 255)",
+    4
+   ],
+   [
+    "rgb(233, 233, 233)",
+    4
+   ],
+   [
+    "rgb(19, 19, 19)",
+    4
+   ],
+   [
+    "rgba(60, 255, 208, 0.8)",
+    4
+   ],
+   [
+    "rgb(82, 0, 255)",
+    2
+   ]
+  ],
+  "fonts": [
+   [
+    "polySans",
+    433
+   ],
+   [
+    "fkRomanStandard",
+    106
+   ],
+   [
+    "polySansMono",
+    30
+   ],
+   [
+    "ui-sans-serif",
+    6
+   ],
+   [
+    "manuka",
+    1
+   ]
+  ],
+  "radius": [
+   [
+    "3px",
+    35
+   ],
+   [
+    "50%",
+    23
+   ],
+   [
+    "2px",
+    21
+   ],
+   [
+    "24px",
+    3
+   ],
+   [
+    "1px",
+    2
+   ]
+  ],
+  "shadow": [
+   [
+    "rgba(0, 0, 0, 0) 0px -1px 0px 0px inset",
+    79
+   ],
+   [
+    "rgb(82, 0, 255) 0px -1px 0px 0px inset",
+    39
+   ],
+   [
+    "rgb(19, 19, 19) 0px -1px 0px 0px inset",
+    6
+   ],
+   [
+    "rgba(0, 0, 0, 0) 0px 0px 0px 0px inset",
+    2
+   ],
+   [
+    "rgba(0, 0, 0, 0.2) 0px 2px 2px 0px",
+    2
+   ],
+   [
+    "rgb(255, 255, 255) 0px 3px 0px 20px, rgba(0, 0, 0, 0.3) 0px -25px 40px 0px",
+    1
+   ],
+   [
+    "rgba(0, 0, 0, 0.2) 0px 0px 18px 0px",
+    1
+   ],
+   [
+    "rgb(128, 128, 128) 0px 0px 5px 0px",
+    1
+   ]
+  ],
+  "trans": [
+   [
+    "background-color | 0.15s | ease",
+    10
+   ],
+   [
+    "transform | 0.15s | ease-in",
+    1
+   ],
+   [
+    "right | 0.3s | ease",
+    1
+   ]
+  ],
+  "smallTargets": "220/288",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://www.theverge.com/"
+ },
+ "goallit": {
+  "title": "Goal Lit — 한국 문학·웹툰·웹소설 평론 웹진",
+  "lang": "ko",
+  "bodyBg": "rgb(245, 243, 250)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "본문으로 건너뛰기\n비공개 프리뷰 — 검색 노출 꺼짐(n",
+   "fs": "17px",
+   "lh": "28.05px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "Pretendard, -apple-system, BlinkMacSystemFont, \"Apple SD Gothic Neo\", ",
+   "color": "rgb(26, 26, 26)",
+   "wordBreak": "keep-all",
+   "w": 1440,
+   "h": 5383,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "작품은 이렇게 읽혔다 — 한국 문학·웹툰·웹소설 평론",
+   "fs": "40px",
+   "lh": "52px",
+   "ls": "-0.4px",
+   "fw": "700",
+   "ff": "Pretendard, -apple-system, BlinkMacSystemFont, \"Apple SD Gothic Neo\", ",
+   "color": "rgb(26, 26, 26)",
+   "wordBreak": "keep-all",
+   "w": 800,
+   "h": 52,
+   "mt": "8px",
+   "mb": "12px",
+   "tt": "wrap"
+  },
+  "h2": {
+   "tag": "H2",
+   "text": "평론 더 보기",
+   "fs": "20.8px",
+   "lh": "27.04px",
+   "ls": "-0.208px",
+   "fw": "700",
+   "ff": "Pretendard, -apple-system, BlinkMacSystemFont, \"Apple SD Gothic Neo\", ",
+   "color": "rgb(26, 26, 26)",
+   "wordBreak": "keep-all",
+   "w": 98,
+   "h": 27,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "p": {
+   "tag": "P",
+   "text": "소설·시·에세이부터 SF·판타지·미스터리, 웹툰과 웹소",
+   "fs": "17px",
+   "lh": "28.05px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "Pretendard, -apple-system, BlinkMacSystemFont, \"Apple SD Gothic Neo\", ",
+   "color": "rgb(100, 95, 117)",
+   "wordBreak": "keep-all",
+   "w": 612,
+   "h": 56,
+   "mt": "0px",
+   "mb": "12px",
+   "tt": "wrap"
+  },
+  "cpl": {
+   "chars": 71,
+   "width": 612,
+   "fs": "17px",
+   "approxCharsPerLine": 36
+  },
+  "btn": {
+   "tag": "A",
+   "text": "편집 원칙",
+   "fs": "13.12px",
+   "lh": "21.648px",
+   "ls": "normal",
+   "fw": "700",
+   "ff": "Pretendard, -apple-system, BlinkMacSystemFont, \"Apple SD Gothic Neo\", ",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "keep-all",
+   "w": 80,
+   "h": 44,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "nowrap",
+   "radius": "999px",
+   "bg": "rgb(26, 26, 26)",
+   "pad": "9px 14px"
+  },
+  "hdrH": 69,
+  "blur": {
+   "tag": "HEADER",
+   "bf": "blur(8px)",
+   "bg": "rgba(245, 243, 250, 0.96)",
+   "pos": "sticky"
+  },
+  "sizes": [
+   [
+    "11.52px",
+    79
+   ],
+   [
+    "13.6px",
+    58
+   ],
+   [
+    "14.08px",
+    42
+   ],
+   [
+    "12.8px",
+    35
+   ],
+   [
+    "17.28px",
+    34
+   ],
+   [
+    "14.4px",
+    29
+   ],
+   [
+    "17px",
+    7
+   ],
+   [
+    "14.72px",
+    7
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(26, 26, 26)",
+    182
+   ],
+   [
+    "rgb(100, 95, 117)",
+    112
+   ],
+   [
+    "rgb(91, 63, 181)",
+    9
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgb(91, 69, 0)",
+    1
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(230, 225, 242)",
+    78
+   ],
+   [
+    "rgb(252, 251, 254)",
+    35
+   ],
+   [
+    "rgb(255, 255, 255)",
+    21
+   ],
+   [
+    "rgb(26, 26, 26)",
+    2
+   ],
+   [
+    "rgb(167, 139, 250)",
+    2
+   ],
+   [
+    "rgb(255, 243, 196)",
+    1
+   ],
+   [
+    "rgba(245, 243, 250, 0.96)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "Pretendard",
+    306
+   ]
+  ],
+  "radius": [
+   [
+    "6px",
+    78
+   ],
+   [
+    "14px",
+    36
+   ],
+   [
+    "999px",
+    27
+   ],
+   [
+    "50%",
+    1
+   ],
+   [
+    "12px",
+    1
+   ]
+  ],
+  "shadow": [],
+  "trans": [],
+  "smallTargets": "73/75",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://goal-lit.soulbound.co.kr/"
+ }
+}

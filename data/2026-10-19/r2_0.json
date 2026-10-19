@@ -1,0 +1,832 @@
+{
+ "toss": {
+  "title": "토스",
+  "lang": "ko-kr",
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "서비스\n비즈니스\n회사소개\n뉴스룸\n채용\nKOR\n앱\n \n다",
+   "fs": "16px",
+   "lh": "18.4px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"Toss Product Sans OTF\", sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "wordBreak": "keep-all",
+   "w": 1440,
+   "h": 50964,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": null,
+  "h2": {
+   "tag": "H2",
+   "text": "금융부터 일상까지\n마침내\n토스 하나로",
+   "fs": "80px",
+   "lh": "96px",
+   "ls": "normal",
+   "fw": "700",
+   "ff": "\"Toss Product Sans OTF\", sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "keep-all",
+   "w": 1296,
+   "h": 96,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "nowrap"
+  },
+  "p": {
+   "tag": "P",
+   "text": "계좌번호를 물어보고 입력하는 번거로운 과정 없이,\n이젠",
+   "fs": "16px",
+   "lh": "25.6px",
+   "ls": "-0.32px",
+   "fw": "400",
+   "ff": "\"Toss Product Sans OTF\", sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "keep-all",
+   "w": 318,
+   "h": 51,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "cpl": {
+   "chars": 57,
+   "width": 318,
+   "fs": "16px",
+   "approxCharsPerLine": 20
+  },
+  "btn": {
+   "tag": "BUTTON",
+   "text": "앱\n \n다\n운\n로\n드\n앱\n \n다\n운\n로\n드",
+   "fs": "16px",
+   "lh": "16px",
+   "ls": "-0.32px",
+   "fw": "500",
+   "ff": "\"Toss Product Sans OTF\", sans-serif",
+   "color": "rgb(51, 56, 64)",
+   "wordBreak": "keep-all",
+   "w": 95,
+   "h": 36,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap",
+   "radius": "12px",
+   "bg": "rgba(7, 25, 76, 0.05)",
+   "pad": "10px 12px"
+  },
+  "hdrH": 64,
+  "blur": null,
+  "sizes": [
+   [
+    "16px",
+    17
+   ],
+   [
+    "80px",
+    3
+   ],
+   [
+    "40px",
+    2
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(51, 56, 64)",
+    16
+   ],
+   [
+    "rgb(255, 255, 255)",
+    6
+   ]
+  ],
+  "bgs": [
+   [
+    "color(srgb 0.109804 0.121569 0.145098 / 0.18)",
+    10
+   ],
+   [
+    "rgba(7, 25, 76, 0.05)",
+    1
+   ],
+   [
+    "rgb(28, 31, 37)",
+    1
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "\"Toss Product Sans OTF\"",
+    22
+   ]
+  ],
+  "radius": [
+   [
+    "12px",
+    1
+   ],
+   [
+    "40px",
+    1
+   ]
+  ],
+  "shadow": [],
+  "trans": [
+   [
+    "background | 0.3s | ease",
+    11
+   ],
+   [
+    "opacity | 0.2s | ease",
+    6
+   ],
+   [
+    "background-color, backdrop-filter, -webk | 0.4s, 0.4s, 0.4s | ease, ease, ease",
+    1
+   ],
+   [
+    "background-color, backdrop-filter, -webk | 0.3s, 0.3s, 0.3s | ease, ease, ease",
+    1
+   ]
+  ],
+  "smallTargets": "14/19",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://toss.im/"
+ },
+ "kakao_tech": {
+  "title": "tech.kakao.com - 카카오테크, 카카오 개발자들의 기술과 개발 문화를 공유하는 카카오 테크 공식 ",
+  "lang": "ko",
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "본문 바로가기\n메뉴 바로가기\n테크 카카오 메뉴\nBlog",
+   "fs": "14px",
+   "lh": "21px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "KakaoBig, \"Apple SD Gothic Neo\", \"Malgun Gothic\", \"맑은 고딕\", sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "wordBreak": "normal",
+   "w": 1440,
+   "h": 2329,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": {
+   "tag": "H1",
+   "text": "",
+   "fs": "28px",
+   "lh": "30.8px",
+   "ls": "normal",
+   "fw": "700",
+   "ff": "KakaoBig, \"Apple SD Gothic Neo\", \"Malgun Gothic\", \"맑은 고딕\", sans-serif",
+   "color": "rgb(0, 0, 0)",
+   "wordBreak": "normal",
+   "w": 114,
+   "h": 36,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h2": null,
+  "p": {
+   "tag": "P",
+   "text": "Kakao lowers the barrier to th",
+   "fs": "18.06px",
+   "lh": "27.993px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "KakaoBig, \"Apple SD Gothic Neo\", \"Malgun Gothic\", \"맑은 고딕\", sans-serif",
+   "color": "rgb(71, 85, 105)",
+   "wordBreak": "keep-all",
+   "w": 540,
+   "h": 56,
+   "mt": "12.04px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "cpl": {
+   "chars": 87,
+   "width": 540,
+   "fs": "18.06px",
+   "approxCharsPerLine": 60
+  },
+  "btn": {
+   "tag": "BUTTON",
+   "text": "Search\n검색하기",
+   "fs": "14px",
+   "lh": "20.02px",
+   "ls": "-0.504px",
+   "fw": "400",
+   "ff": "KakaoBig, \"Apple SD Gothic Neo\", \"Malgun Gothic\", \"맑은 고딕\", sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "normal",
+   "w": 126,
+   "h": 36,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap",
+   "radius": "18.06px",
+   "bg": "rgb(79, 70, 229)",
+   "pad": "8px 48px 8px 31px"
+  },
+  "hdrH": 64,
+  "blur": null,
+  "sizes": [
+   [
+    "14px",
+    30
+   ],
+   [
+    "18.06px",
+    8
+   ],
+   [
+    "15.96px",
+    7
+   ],
+   [
+    "16.38px",
+    4
+   ],
+   [
+    "20.02px",
+    3
+   ],
+   [
+    "23.94px",
+    2
+   ],
+   [
+    "12.04px",
+    2
+   ],
+   [
+    "71.96px",
+    1
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(71, 85, 105)",
+    18
+   ],
+   [
+    "rgb(0, 0, 0)",
+    11
+   ],
+   [
+    "rgb(100, 116, 139)",
+    6
+   ],
+   [
+    "rgb(156, 163, 175)",
+    6
+   ],
+   [
+    "rgb(75, 85, 99)",
+    4
+   ],
+   [
+    "rgb(96, 165, 250)",
+    4
+   ],
+   [
+    "rgb(51, 51, 51)",
+    4
+   ],
+   [
+    "rgb(30, 41, 59)",
+    4
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(242, 244, 247)",
+    3
+   ],
+   [
+    "rgb(51, 51, 51)",
+    2
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ],
+   [
+    "rgb(79, 70, 229)",
+    1
+   ],
+   [
+    "rgb(243, 244, 246)",
+    1
+   ],
+   [
+    "rgb(241, 245, 249)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "KakaoBig",
+    61
+   ]
+  ],
+  "radius": [
+   [
+    "6px",
+    3
+   ],
+   [
+    "18.06px",
+    1
+   ],
+   [
+    "6.02px",
+    1
+   ]
+  ],
+  "shadow": [],
+  "trans": [
+   [
+    "all | 0.15s | cubic-bezier(0.4, 0, 0.2, 1)",
+    1
+   ]
+  ],
+  "smallTargets": "23/26",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://tech.kakao.com/"
+ },
+ "brunch": {
+  "title": "브런치",
+  "lang": "ko",
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "메뉴\nbrunch\n시작하기\n검색\n브런치 본문\n브런치 소",
+   "fs": "16px",
+   "lh": "24px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"Noto Sans DemiLight\", \"Malgun Gothic\", NanumGothic, NanumBarunGothicO",
+   "color": "rgb(51, 51, 51)",
+   "wordBreak": "normal",
+   "w": 1440,
+   "h": 5052,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": null,
+  "h2": {
+   "tag": "H2",
+   "text": "분야별 인기 브런치북",
+   "fs": "26px",
+   "lh": "36px",
+   "ls": "normal",
+   "fw": "600",
+   "ff": "Pretendard, -apple-system, BlinkMacSystemFont, sans-serif",
+   "color": "rgb(17, 17, 17)",
+   "wordBreak": "normal",
+   "w": 215,
+   "h": 36,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "p": {
+   "tag": "P",
+   "text": "어렸을 적 학교가 끝나면 친구들과 분식집에 들르곤 했습",
+   "fs": "18px",
+   "lh": "26px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "Pretendard, -apple-system, BlinkMacSystemFont, sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "normal",
+   "w": 422,
+   "h": 78,
+   "mt": "12px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "cpl": {
+   "chars": 199,
+   "width": 422,
+   "fs": "18px",
+   "approxCharsPerLine": 23
+  },
+  "btn": {
+   "tag": "A",
+   "text": "시작하기",
+   "fs": "12px",
+   "lh": "28px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"Noto Sans Light\", \"Malgun Gothic\", sans-serif",
+   "color": "rgb(102, 102, 102)",
+   "wordBreak": "normal",
+   "w": 66,
+   "h": 30,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "nowrap",
+   "radius": "16px",
+   "bg": "rgb(255, 255, 255)",
+   "pad": "0px"
+  },
+  "hdrH": 0,
+  "blur": null,
+  "sizes": [
+   [
+    "14px",
+    268
+   ],
+   [
+    "12px",
+    141
+   ],
+   [
+    "18px",
+    72
+   ],
+   [
+    "24px",
+    51
+   ],
+   [
+    "4.05px",
+    44
+   ],
+   [
+    "16px",
+    28
+   ],
+   [
+    "17px",
+    24
+   ],
+   [
+    "7.2px",
+    22
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(255, 255, 255)",
+    221
+   ],
+   [
+    "rgb(102, 102, 102)",
+    174
+   ],
+   [
+    "rgb(149, 149, 149)",
+    140
+   ],
+   [
+    "rgb(23, 23, 23)",
+    43
+   ],
+   [
+    "rgb(0, 0, 0)",
+    39
+   ],
+   [
+    "rgb(17, 17, 17)",
+    34
+   ],
+   [
+    "rgb(221, 221, 221)",
+    31
+   ],
+   [
+    "rgb(191, 191, 191)",
+    15
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(255, 255, 255)",
+    64
+   ],
+   [
+    "rgb(0, 0, 0)",
+    55
+   ],
+   [
+    "rgba(0, 0, 0, 0.4)",
+    31
+   ],
+   [
+    "rgb(221, 221, 221)",
+    24
+   ],
+   [
+    "rgb(23, 23, 23)",
+    18
+   ],
+   [
+    "rgb(149, 149, 149)",
+    18
+   ],
+   [
+    "rgb(248, 248, 248)",
+    10
+   ],
+   [
+    "rgb(0, 198, 190)",
+    8
+   ]
+  ],
+  "fonts": [
+   [
+    "Pretendard",
+    479
+   ],
+   [
+    "\"PT Serif\"",
+    106
+   ],
+   [
+    "\"Nanum Myeongjo\"",
+    70
+   ],
+   [
+    "-apple-system",
+    44
+   ],
+   [
+    "\"Noto Sans Light\"",
+    21
+   ],
+   [
+    "Georgia",
+    5
+   ],
+   [
+    "\"Noto Sans DemiLight\"",
+    4
+   ],
+   [
+    "\"Apple SD Gothic Neo\"",
+    3
+   ]
+  ],
+  "radius": [
+   [
+    "50%",
+    34
+   ],
+   [
+    "15px",
+    19
+   ],
+   [
+    "14px",
+    19
+   ],
+   [
+    "11px",
+    3
+   ],
+   [
+    "17px",
+    3
+   ],
+   [
+    "16px",
+    2
+   ]
+  ],
+  "shadow": [
+   [
+    "rgba(0, 0, 0, 0.06) 0px 0px 0px 1px inset",
+    31
+   ]
+  ],
+  "trans": [
+   [
+    "transform | 0.25s | ease",
+    81
+   ],
+   [
+    "opacity | 0.35s | ease",
+    62
+   ],
+   [
+    "transform | 0.2s | ease",
+    36
+   ],
+   [
+    "transform, box-shadow | 0.3s, 0.3s | cubic-bezier(0.2, 0, 0.2, 1), ease",
+    31
+   ],
+   [
+    "transform | 0.5s | cubic-bezier(0.2, 0, 0.2, 1)",
+    31
+   ],
+   [
+    "opacity | 0.25s | ease",
+    31
+   ],
+   [
+    "opacity | 0.2s | ease",
+    5
+   ],
+   [
+    "opacity, transform | 0.8s, 0.8s | ease, cubic-bezier(0.25, 1, 0.5, 1)",
+    5
+   ]
+  ],
+  "smallTargets": "60/179",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://brunch.co.kr/"
+ },
+ "cine21": {
+  "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://www.cine21.com/\", waiting until \"domcontentloaded\"\n",
+  "url": "http://www.cine21.com/"
+ },
+ "medium": {
+  "title": "Medium: Read and write stories.",
+  "lang": "en",
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "body": {
+   "tag": "BODY",
+   "text": "Our story\n\nMembership\n\nWrite\n\n",
+   "fs": "16px",
+   "lh": "normal",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "\"Times New Roman\"",
+   "color": "rgb(36, 36, 36)",
+   "wordBreak": "normal",
+   "w": 1440,
+   "h": 900,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "h1": null,
+  "h2": {
+   "tag": "H2",
+   "text": "Human\nstories & ideas",
+   "fs": "120px",
+   "lh": "100px",
+   "ls": "-6.6px",
+   "fw": "400",
+   "ff": "gt-super, Georgia, Cambria, \"Times New Roman\", Times, serif",
+   "color": "rgb(0, 0, 0)",
+   "wordBreak": "normal",
+   "w": 720,
+   "h": 200,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap"
+  },
+  "p": null,
+  "cpl": null,
+  "btn": {
+   "tag": "BUTTON",
+   "text": "Get started",
+   "fs": "14px",
+   "lh": "20px",
+   "ls": "normal",
+   "fw": "400",
+   "ff": "sohne, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "color": "rgb(255, 255, 255)",
+   "wordBreak": "normal",
+   "w": 104,
+   "h": 38,
+   "mt": "0px",
+   "mb": "0px",
+   "tt": "wrap",
+   "radius": "1386px",
+   "bg": "rgb(25, 25, 25)",
+   "pad": "8px 16px"
+  },
+  "hdrH": null,
+  "blur": null,
+  "sizes": [
+   [
+    "13px",
+    11
+   ],
+   [
+    "14px",
+    5
+   ],
+   [
+    "120px",
+    1
+   ],
+   [
+    "22px",
+    1
+   ],
+   [
+    "20px",
+    1
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(107, 107, 107)",
+    11
+   ],
+   [
+    "rgb(36, 36, 36)",
+    5
+   ],
+   [
+    "rgb(255, 255, 255)",
+    2
+   ],
+   [
+    "rgb(0, 0, 0)",
+    1
+   ]
+  ],
+  "bgs": [
+   [
+    "rgb(247, 244, 237)",
+    3
+   ],
+   [
+    "rgb(25, 25, 25)",
+    2
+   ],
+   [
+    "rgb(255, 255, 255)",
+    1
+   ]
+  ],
+  "fonts": [
+   [
+    "sohne",
+    18
+   ],
+   [
+    "gt-super",
+    1
+   ]
+  ],
+  "radius": [
+   [
+    "1386px",
+    1
+   ],
+   [
+    "1980px",
+    1
+   ],
+   [
+    "2px",
+    1
+   ]
+  ],
+  "shadow": [
+   [
+    "rgb(128, 128, 128) 0px 0px 5px 0px",
+    1
+   ]
+  ],
+  "trans": [
+   [
+    "background-color | 0.3s | linear",
+    1
+   ],
+   [
+    "background-color, color | 0.3s, 0.3s | linear, linear",
+    1
+   ],
+   [
+    "right | 0.3s | ease",
+    1
+   ]
+  ],
+  "smallTargets": "18/19",
+  "scrollW": 1440,
+  "hasMetaDark": false,
+  "rootVars": null,
+  "url": "https://medium.com/"
+ }
+}

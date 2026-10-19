@@ -1,0 +1,77 @@
+{
+ "goallit_post": {
+  "sample": "이 책을 둘러싼 공개된 말들은 크게 두 개의 ",
+  "fs": "17px",
+  "lh": "28.05px",
+  "ls": "normal",
+  "fw": "400",
+  "ff": "Pretendard",
+  "color": "rgb(26, 26, 26)",
+  "bg": "rgb(245, 243, 250)",
+  "pWidth": 1044,
+  "firstLineChars": 89,
+  "wordBreak": "keep-all",
+  "mb": "17px",
+  "pad": "0px",
+  "textAlign": "start",
+  "h1": {
+   "fs": "33.6px",
+   "lh": "43.68px",
+   "ls": "-0.336px",
+   "fw": "700",
+   "ff": "Pretendard",
+   "ta": "wrap"
+  },
+  "artWidth": 1044
+ },
+ "munjang": {
+  "sample": "© 2026. Arts Council Kore",
+  "fs": "12.6px",
+  "lh": "17.64px",
+  "ls": "normal",
+  "fw": "400",
+  "ff": "Pretendard",
+  "color": "rgb(172, 172, 172)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "pWidth": 771,
+  "firstLineChars": 99,
+  "wordBreak": "keep-all",
+  "mb": "0px",
+  "pad": "0px",
+  "textAlign": "start",
+  "h1": {
+   "fs": "27px",
+   "lh": "normal",
+   "ls": "normal",
+   "fw": "700",
+   "ff": "Pretendard",
+   "ta": "nowrap"
+  },
+  "artWidth": 771
+ },
+ "kakao_tech": {
+  "sample": "LLM 에이전트는 목표를 받으면 필요한 정보를",
+  "fs": "15.96px",
+  "lh": "27.93px",
+  "ls": "normal",
+  "fw": "400",
+  "ff": "KakaoBig",
+  "color": "rgb(55, 65, 81)",
+  "bg": "rgb(255, 255, 255)",
+  "pWidth": 768,
+  "firstLineChars": 68,
+  "wordBreak": "normal",
+  "mb": "14px",
+  "pad": "0px",
+  "textAlign": "start",
+  "h1": {
+   "fs": "28px",
+   "lh": "30.8px",
+   "ls": "normal",
+   "fw": "700",
+   "ff": "KakaoBig",
+   "ta": "wrap"
+  },
+  "artWidth": 1240
+ }
+}
