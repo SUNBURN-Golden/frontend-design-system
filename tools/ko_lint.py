@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""한국어 문구 기계 점검(번역투·상투어·광고투·어미 혼용). 표준 라이브러리만 사용.
+"""한국어 문구 기계 점검(번역투·상투어·광고투·어미 혼용, 해요체 아닌 어미). 표준 라이브러리만 사용.
 사용: python ko_lint.py PATH [PATH ...] [--json] [--top N]
 PATH: .html(태그 제거 후 본문 텍스트) / .json(모든 문자열 값) / .py(문자열 리터럴 안 한글) / 디렉터리(재귀).
 출력: 규칙별 건수와 예시. 종료코드 0(보고용). 규칙은 studies/ko-voice.md 4장과 같다.
@@ -48,11 +48,13 @@ def texts(p):
         try: tree = ast.parse(raw)
         except Exception: return []
         return [n.value for n in ast.walk(tree) if isinstance(n, ast.Constant) and isinstance(n.value, str) and re.search('[가-힣]', n.value)]
+    if s == '.md':  # 매거진 글 등: 줄 단위
+        return [t.strip() for t in raw.split('\n') if re.search('[가-힣]', t)]
     return []
 def scan(paths):
     cnt = collections.Counter(); ex = collections.defaultdict(list); n = 0
     for a in paths:
-        P = Path(a); files = [P] if P.is_file() else [f for f in P.rglob('*') if f.suffix in ('.html', '.json', '.py')]
+        P = Path(a); files = [P] if P.is_file() else [f for f in P.rglob('*') if f.suffix in ('.html', '.json', '.py', '.md')]
         for f in files:
             for t in texts(f):
                 n += 1
@@ -63,10 +65,14 @@ def scan(paths):
     e = {k: cnt[k] for k in ('ending_haeyo', 'ending_hamnida', 'ending_da')}; tot = sum(e.values()) or 1
     mix = round(100 * (tot - max(e.values())) / tot, 1)
     return {'strings': n, 'counts': {i: cnt[i] for i, _, _ in CRE}, 'ending_mix_pct': mix, 'examples': dict(ex),
-            'issues_total': sum(v for k, v in cnt.items() if not k.startswith('ending_'))}
+            'issues_total': sum(v for k, v in cnt.items() if not k.startswith('ending_')),
+            # 표준은 해요체다(2026-10-19 00:52 준태님 지시). 평서체·합니다체 어미는 위반으로 센다.
+            'ending_violations': cnt['ending_da'] + cnt['ending_hamnida'],
+            'haeyo_pct': round(100 * cnt['ending_haeyo'] / tot, 1)}
 if __name__ == '__main__':
     args = [a for a in sys.argv[1:] if not a.startswith('--')]; r = scan(args)
     if '--json' in sys.argv: print(json.dumps(r, ensure_ascii=False, indent=1)); sys.exit(0)
     print(f"문자열 {r['strings']}개, 금지어 후보 합계 {r['issues_total']}건, 어미 혼용률 {r['ending_mix_pct']}%")
+    print(f"해요체 비율 {r['haeyo_pct']}%, 어미 위반(-다·합니다체) {r['ending_violations']}건 (표준: 해요체)")
     for i, d, _ in RULES:
         if r['counts'][i]: print(f"  {i:16s} {r['counts'][i]:5d}  {d}  예: {' | '.join(r['examples'][i][:2])}")
