@@ -8,16 +8,17 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 BUDGET = {  # [짐작] 초기 예산 - 모바일 390x844 기준. 보정 필요.
  'h1_words_max': 12, 'h1_visible': True, 'lead_words_max': 30, 'words_above_fold_max': 80,
- 'clickables_above_fold_max': 8, 'cta_candidates_range': (1, 2), 'font_sizes_max': 5, 'images_min': 1}
+ 'clickables_above_fold_max': 8, 'cta_candidates_range': (1, 2), 'font_sizes_max': 5, 'images_min': 1,
+ 'unique_targets_max': 8, 'text_colors_max': 4, 'max_text_width_px': 680, 'search_min_width_pct': 70}  # CLEAN_RULES R2/R6/R9/R5 [추정 기준치]
 JS = """()=>{
  const vh=innerHeight, vw=innerWidth;
  const vis=e=>{const r=e.getBoundingClientRect();const s=getComputedStyle(e);return r.width>0&&r.height>0&&r.top<vh&&r.bottom>0&&r.left<vw&&s.visibility!=='hidden'&&s.display!=='none'};
  const area=e=>{const r=e.getBoundingClientRect();return Math.round(Math.max(0,Math.min(r.right,vw)-Math.max(r.left,0))*Math.max(0,Math.min(r.bottom,vh)-Math.max(r.top,0)))};
  const wc=t=>t.trim().split(/\\s+/).filter(Boolean).length;
- let words=0,sizes=new Set();
+ let words=0,sizes=new Set(),tcolors=new Set();
  const w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);
  while(w.nextNode()){const n=w.currentNode,t=n.textContent.trim();if(!t)continue;const p=n.parentElement;if(!p||['SCRIPT','STYLE','NOSCRIPT'].includes(p.tagName))continue;
-  const rg=document.createRange();rg.selectNodeContents(n);const r=rg.getBoundingClientRect();if(r.width>0&&r.top<vh&&r.bottom>0){words+=wc(t);sizes.add(getComputedStyle(p).fontSize);}}
+  const rg=document.createRange();rg.selectNodeContents(n);const r=rg.getBoundingClientRect();if(r.width>0&&r.top<vh&&r.bottom>0){words+=wc(t);sizes.add(getComputedStyle(p).fontSize);tcolors.add(getComputedStyle(p).color);}}
  const act=[...document.querySelectorAll('a[href],button,[role=button],input[type=submit]')].filter(vis);
  const hrefs=new Set(act.map(e=>e.getAttribute('href')||('#btn:'+(e.innerText||'').trim())));
  const navLinks=[...document.querySelectorAll('nav a[href],header a[href]')].filter(vis);
@@ -26,7 +27,9 @@ JS = """()=>{
  const h1=document.querySelector('h1'); const h1v=h1&&vis(h1)&&h1.getBoundingClientRect().bottom<=vh;
  let lead=''; if(h1){let n=h1.nextElementSibling;while(n&&!(n.tagName==='P'&&vis(n)))n=n.nextElementSibling;if(!n){const nx=h1.parentElement&&h1.parentElement.querySelector('p');n=nx&&vis(nx)?nx:null}lead=n?n.innerText.trim():''}
  const imgs=[...document.querySelectorAll('img,svg,picture,video')].filter(vis).length;
- return {title:document.title,h1:h1?h1.innerText.trim():'',h1Words:h1?wc(h1.innerText):0,h1VisibleAboveFold:!!h1v,leadWords:wc(lead),lead:lead.slice(0,80),
+ const paraW=[...document.querySelectorAll('p,li,dd')].filter(e=>vis(e)&&(e.innerText||'').trim().length>=40).map(e=>Math.round(e.getBoundingClientRect().width));
+ const srch=[...document.querySelectorAll('input[type=search],input[type=text]')].filter(vis).map(e=>e.getBoundingClientRect().width);
+ return {textColorKinds:tcolors.size,maxTextWidth:paraW.length?Math.max(...paraW):0,searchWidthPct:srch.length?Math.round(100*Math.max(...srch)/vw):0,title:document.title,h1:h1?h1.innerText.trim():'',h1Words:h1?wc(h1.innerText):0,h1VisibleAboveFold:!!h1v,leadWords:wc(lead),lead:lead.slice(0,80),
   wordsAboveFold:words,fontSizeKinds:sizes.size,clickablesAboveFold:act.length,uniqueTargetsAboveFold:hrefs.size,navLinksVisible:navLinks.length,
   ctaCandidates:cta.length,ctaTexts:cta.slice(0,4).map(e=>e.innerText.trim().slice(0,30)),largestCtaAreaPctOfViewport:ctaAreas.length?+(100*ctaAreas[0]/(vw*vh)).toFixed(1):0,
   imagesOrIconsAboveFold:imgs}}"""
@@ -42,6 +45,10 @@ def check(m):
     if not lo <= m['ctaCandidates'] <= hi: f.append(f'CTA 후보 {m["ctaCandidates"]}개(권장 {lo}~{hi})')
     if m['fontSizeKinds'] > b['font_sizes_max']: f.append('글자 크기 종류 많음')
     if m['imagesOrIconsAboveFold'] < b['images_min']: f.append('이미지/아이콘 없음(텍스트 only)')
+    if m['uniqueTargetsAboveFold'] > b['unique_targets_max']: f.append('첫 화면 고유 목적지 많음(R2)')
+    if m['textColorKinds'] > b['text_colors_max']: f.append('텍스트 색 종류 많음(R6)')
+    if m['maxTextWidth'] > b['max_text_width_px']: f.append('단락 폭 넓음(R9)')
+    if m['searchWidthPct'] and m['searchWidthPct'] < b['search_min_width_pct']: f.append('검색이 주 작업인데 검색창 좁음(R5, 검색형 사이트만 해당)')
     return f
 if __name__ == '__main__':
     args = [a for a in sys.argv[1:]]; chrome = '/usr/bin/google-chrome'
