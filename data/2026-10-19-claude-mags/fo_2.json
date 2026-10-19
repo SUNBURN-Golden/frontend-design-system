@@ -1,0 +1,491 @@
+{
+ "anthropic": {
+  "home1440": {
+   "words": 103,
+   "chars": 586,
+   "vpLinks": 8,
+   "navLinks": 4,
+   "ctaCount": 1,
+   "ctas": [
+    "Accept all cookies"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 79.72,
+    "len": 9,
+    "tag": "SPAN",
+    "t": "Haiku 5.5"
+   },
+   "h1len": 113,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 3340,
+   "vh": 900,
+   "bodyBg": "rgb(250, 249, 245)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "articleUrl": null,
+  "home390": {
+   "words": 82,
+   "chars": 461,
+   "vpLinks": 5,
+   "navLinks": 4,
+   "ctaCount": 1,
+   "ctas": [
+    "Accept"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 47.94,
+    "len": 9,
+    "tag": "SPAN",
+    "t": "Haiku 5.5"
+   },
+   "h1len": 113,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 6805,
+   "vh": 844,
+   "bodyBg": "rgb(250, 249, 245)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  }
+ },
+ "verge": {
+  "home1440": {
+   "words": 331,
+   "chars": 1992,
+   "vpLinks": 15,
+   "navLinks": 0,
+   "ctaCount": 2,
+   "ctas": [
+    "LATEST",
+    "FOLLOWING"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 90,
+    "len": 40,
+    "tag": "A",
+    "t": "Cities want to put the boot on robotaxis"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 22344,
+   "vh": 900,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+  "home390": {
+   "words": 226,
+   "chars": 1349,
+   "vpLinks": 7,
+   "navLinks": 0,
+   "ctaCount": 3,
+   "ctas": [
+    "TOP STORIES",
+    "LATEST",
+    "FOLLOWING"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 65,
+    "len": 40,
+    "tag": "A",
+    "t": "Cities want to put the boot on robotaxis"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 15951,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 280,
+   "chars": 1659,
+   "vpLinks": 14,
+   "navLinks": 6,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 44,
+    "len": 36,
+    "tag": "H1",
+    "t": "TikTok bans Musk documentary account"
+   },
+   "h1len": 36,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 5317,
+   "vh": 900,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": true,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "18px",
+   "lh": "28.8px",
+   "ff": "fkRomanStandard",
+   "color": "rgb(19, 19, 19)",
+   "w": 600,
+   "firstLineChars": 67,
+   "korean": false,
+   "mb": "20px",
+   "align": "start",
+   "bg": "rgb(255, 255, 255)",
+   "h1": {
+    "fs": "44px",
+    "lh": "44px",
+    "fw": "700",
+    "ff": "polySans",
+    "len": 36,
+    "lines": 1
+   }
+  },
+  "article390": {
+   "words": 293,
+   "chars": 1723,
+   "vpLinks": 8,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 22,
+    "len": 0,
+    "tag": "DIV",
+    "t": ""
+   },
+   "h1len": 36,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 6710,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": true,
+   "byline": true,
+   "progressBar": true,
+   "toc": false,
+   "fs": "18px",
+   "lh": "28.8px",
+   "ff": "fkRomanStandard",
+   "color": "rgb(19, 19, 19)",
+   "w": 350,
+   "firstLineChars": 40,
+   "korean": false,
+   "mb": "20px",
+   "align": "start",
+   "bg": "rgb(255, 255, 255)",
+   "h1": {
+    "fs": "22px",
+    "lh": "22px",
+    "fw": "700",
+    "ff": "polySans",
+    "len": 36,
+    "lines": 3
+   }
+  }
+ },
+ "businessweek": {
+  "home1440": {
+   "words": 101,
+   "chars": 695,
+   "vpLinks": 4,
+   "navLinks": 1,
+   "ctaCount": 1,
+   "ctas": [
+    "SUBSCRIBE NOW"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 24,
+    "len": 13,
+    "tag": "A",
+    "t": "SUBSCRIBE NOW"
+   },
+   "h1len": 9,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 900,
+   "vh": 900,
+   "bodyBg": "rgb(242, 242, 242)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://www.bloomberg.com/feedback",
+  "home390": {
+   "words": 97,
+   "chars": 656,
+   "vpLinks": 2,
+   "navLinks": 1,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 19,
+    "len": 58,
+    "tag": "H2",
+    "t": "We've detected unusual activity from you"
+   },
+   "h1len": 9,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 1015,
+   "vh": 844,
+   "bodyBg": "rgb(242, 242, 242)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 158,
+   "chars": 1070,
+   "vpLinks": 9,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 8,
+   "largest": {
+    "fs": 30,
+    "len": 27,
+    "tag": "H2",
+    "t": "Market Data Update Requests"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 1472,
+   "vh": 900,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": false,
+   "progressBar": false,
+   "toc": false,
+   "fs": "14px",
+   "lh": "20px",
+   "ff": "AvenirNextPForBBG-Regular",
+   "color": "rgb(0, 0, 0)",
+   "w": 743,
+   "firstLineChars": 113,
+   "korean": false,
+   "mb": "0px",
+   "align": "start",
+   "bg": "rgb(255, 255, 255)"
+  },
+  "article390": {
+   "words": 98,
+   "chars": 661,
+   "vpLinks": 5,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 30,
+    "len": 27,
+    "tag": "H2",
+    "t": "Market Data Update Requests"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 2002,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": false,
+   "progressBar": false,
+   "toc": false,
+   "fs": "14px",
+   "lh": "20px",
+   "ff": "AvenirNextPForBBG-Regular",
+   "color": "rgb(0, 0, 0)",
+   "w": 360,
+   "firstLineChars": 50,
+   "korean": false,
+   "mb": "0px",
+   "align": "start",
+   "bg": "rgb(255, 255, 255)"
+  }
+ },
+ "theedit": {
+  "home1440": {
+   "words": 56,
+   "chars": 199,
+   "vpLinks": 9,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 52,
+    "len": 21,
+    "tag": "A",
+    "t": "[새로나왔] 10월 3주차 신상 리스트"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 2876,
+   "vh": 900,
+   "bodyBg": "rgb(251, 252, 246)",
+   "colorScheme": "normal",
+   "lang": "",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://the-edit.co.kr/88351",
+  "home390": {
+   "words": 15,
+   "chars": 58,
+   "vpLinks": 3,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 36,
+    "len": 21,
+    "tag": "A",
+    "t": "[새로나왔] 10월 3주차 신상 리스트"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 3789,
+   "vh": 844,
+   "bodyBg": "rgb(251, 252, 246)",
+   "colorScheme": "normal",
+   "lang": "",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 19,
+   "chars": 65,
+   "vpLinks": 2,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 72,
+    "len": 26,
+    "tag": "H1",
+    "t": "진짜 필요한 선물은 따로 있다, 신생아 선물 8"
+   },
+   "h1len": 26,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 19319,
+   "vh": 900,
+   "bodyBg": "rgb(251, 252, 246)",
+   "colorScheme": "normal",
+   "lang": "",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": true,
+   "progressBar": true,
+   "toc": false,
+   "fs": "16px",
+   "lh": "28px",
+   "ff": "Pretendard",
+   "color": "rgb(0, 0, 0)",
+   "w": 800,
+   "firstLineChars": 27,
+   "korean": true,
+   "mb": "30px",
+   "align": "justify",
+   "bg": "rgb(251, 252, 246)",
+   "h1": {
+    "fs": "72px",
+    "lh": "82.8px",
+    "fw": "800",
+    "ff": "Pretendard",
+    "len": 26,
+    "lines": 3
+   }
+  },
+  "article390": {
+   "words": 62,
+   "chars": 225,
+   "vpLinks": 2,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 36,
+    "len": 26,
+    "tag": "H1",
+    "t": "진짜 필요한 선물은 따로 있다, 신생아 선물 8"
+   },
+   "h1len": 26,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 13716,
+   "vh": 844,
+   "bodyBg": "rgb(251, 252, 246)",
+   "colorScheme": "normal",
+   "lang": "",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": true,
+   "progressBar": true,
+   "toc": false,
+   "fs": "16px",
+   "lh": "28px",
+   "ff": "Pretendard",
+   "color": "rgb(0, 0, 0)",
+   "w": 366,
+   "firstLineChars": 27,
+   "korean": true,
+   "mb": "30px",
+   "align": "justify",
+   "bg": "rgb(251, 252, 246)",
+   "h1": {
+    "fs": "36px",
+    "lh": "50.4px",
+    "fw": "800",
+    "ff": "Pretendard",
+    "len": 26,
+    "lines": 3
+   }
+  }
+ }
+}

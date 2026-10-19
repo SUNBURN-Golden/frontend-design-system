@@ -1,0 +1,662 @@
+{
+ "newyorker": {
+  "home1440": {
+   "words": 33,
+   "chars": 217,
+   "vpLinks": 5,
+   "navLinks": 1,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 36,
+    "len": 10,
+    "tag": "H3",
+    "t": "Party Time"
+   },
+   "h1len": 14,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 19823,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://www.newyorker.com/news/the-lede/how-trumps-immigration-crackdown-gave-florida-democrats-a-chance",
+  "home390": {
+   "words": 54,
+   "chars": 377,
+   "vpLinks": 4,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 28,
+    "len": 10,
+    "tag": "H3",
+    "t": "Party Time"
+   },
+   "h1len": 14,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 22962,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 81,
+   "chars": 468,
+   "vpLinks": 18,
+   "navLinks": 1,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 42,
+    "len": 65,
+    "tag": "H1",
+    "t": "How Trump’s Immigration Crackdown Gave F"
+   },
+   "h1len": 65,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 14361,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": true,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "21px",
+   "lh": "31.5px",
+   "ff": "TNYAdobeCaslonPro",
+   "color": "rgb(0, 0, 0)",
+   "w": 640,
+   "firstLineChars": 63,
+   "korean": false,
+   "mb": "48px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "42px",
+    "lh": "46.6667px",
+    "fw": "400",
+    "ff": "IrvinHeadingPro",
+    "len": 65,
+    "lines": 3
+   }
+  },
+  "article390": {
+   "words": 69,
+   "chars": 430,
+   "vpLinks": 3,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 30,
+    "len": 65,
+    "tag": "H1",
+    "t": "How Trump’s Immigration Crackdown Gave F"
+   },
+   "h1len": 65,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 23977,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": true,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "21px",
+   "lh": "31.5px",
+   "ff": "TNYAdobeCaslonPro",
+   "color": "rgb(0, 0, 0)",
+   "w": 342,
+   "firstLineChars": 29,
+   "korean": false,
+   "mb": "48px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "30px",
+    "lh": "32px",
+    "fw": "400",
+    "ff": "IrvinHeadingPro",
+    "len": 65,
+    "lines": 5
+   }
+  }
+ },
+ "quanta": {
+  "home1440": {
+   "words": 124,
+   "chars": 760,
+   "vpLinks": 13,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 45,
+    "len": 56,
+    "tag": "H3",
+    "t": "He Wants AI Benchmarking To Be a Science"
+   },
+   "h1len": 39,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 6438,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+  "home390": {
+   "words": 122,
+   "chars": 743,
+   "vpLinks": 6,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 35.04,
+    "len": 56,
+    "tag": "H3",
+    "t": "He Wants AI Benchmarking To Be a Science"
+   },
+   "h1len": 39,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 9606,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 108,
+   "chars": 664,
+   "vpLinks": 13,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 40,
+    "len": 0,
+    "tag": "A",
+    "t": ""
+   },
+   "h1len": 56,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 12765,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": true,
+   "progressBar": true,
+   "toc": false,
+   "fs": "14px",
+   "lh": "26.25px",
+   "ff": "Pangram",
+   "color": "rgb(255, 255, 255)",
+   "w": 845,
+   "firstLineChars": 129,
+   "korean": false,
+   "mb": "0px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "40px",
+    "lh": "46px",
+    "fw": "700",
+    "ff": "\"Noe Display\"",
+    "len": 56,
+    "lines": 2
+   }
+  },
+  "article390": {
+   "words": 135,
+   "chars": 835,
+   "vpLinks": 5,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 24.96,
+    "len": 56,
+    "tag": "H1",
+    "t": "He Wants AI Benchmarking To Be a Science"
+   },
+   "h1len": 56,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 15677,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": true,
+   "progressBar": true,
+   "toc": false,
+   "fs": "14px",
+   "lh": "26.25px",
+   "ff": "Pangram",
+   "color": "rgb(255, 255, 255)",
+   "w": 340,
+   "firstLineChars": 51,
+   "korean": false,
+   "mb": "0px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "24.96px",
+    "lh": "28.704px",
+    "fw": "700",
+    "ff": "\"Noe Display\"",
+    "len": 56,
+    "lines": 2
+   }
+  }
+ },
+ "longblack": {
+  "home1440": {
+   "words": 92,
+   "chars": 345,
+   "vpLinks": 9,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 30,
+    "len": 36,
+    "tag": "DIV",
+    "t": "손절사회 : “무해한 삶은 왜 해로울까” 98년생 사회학자의 질문"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 6289,
+   "vh": 900,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://longblack.co/note/2043",
+  "home390": {
+   "words": 47,
+   "chars": 154,
+   "vpLinks": 5,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 26,
+    "len": 36,
+    "tag": "DIV",
+    "t": "손절사회 : “무해한 삶은 왜 해로울까” 98년생 사회학자의 질문"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 8974,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 49,
+   "chars": 177,
+   "vpLinks": 8,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 40,
+    "len": 34,
+    "tag": "H1",
+    "t": "AI 전환 보고서 : 우리 팀의 AX, 순서가 틀렸을 수 있다"
+   },
+   "h1len": 34,
+   "cards": [
+    {
+     "w": 620,
+     "imgW": 248,
+     "imgH": 66,
+     "ratio": 3.73,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 9,
+     "chars": 753
+    }
+   ],
+   "cardCountInVp": 1,
+   "pageH": 4373,
+   "vh": 900,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": true,
+   "byline": false,
+   "progressBar": false,
+   "toc": false,
+   "fs": "18px",
+   "lh": "34.2px",
+   "ff": "Pretendard",
+   "color": "rgb(25, 25, 25)",
+   "w": 580,
+   "firstLineChars": 42,
+   "korean": true,
+   "mb": "36px",
+   "align": "start",
+   "bg": "rgb(255, 255, 255)",
+   "h1": {
+    "fs": "40px",
+    "lh": "54px",
+    "fw": "700",
+    "ff": "Pretendard",
+    "len": 34,
+    "lines": 3
+   }
+  },
+  "article390": {
+   "words": 54,
+   "chars": 203,
+   "vpLinks": 3,
+   "navLinks": 0,
+   "ctaCount": 1,
+   "ctas": [
+    "전체 노트"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 32,
+    "len": 34,
+    "tag": "H1",
+    "t": "AI 전환 보고서 : 우리 팀의 AX, 순서가 틀렸을 수 있다"
+   },
+   "h1len": 34,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 5318,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": true,
+   "byline": false,
+   "progressBar": false,
+   "toc": false,
+   "fs": "18px",
+   "lh": "34.2px",
+   "ff": "Pretendard",
+   "color": "rgb(25, 25, 25)",
+   "w": 310,
+   "firstLineChars": 28,
+   "korean": true,
+   "mb": "36px",
+   "align": "start",
+   "bg": "rgb(255, 255, 255)",
+   "h1": {
+    "fs": "32px",
+    "lh": "44px",
+    "fw": "700",
+    "ff": "Pretendard",
+    "len": 34,
+    "lines": 3
+   }
+  }
+ },
+ "outstanding": {
+  "home1440": {
+   "words": 538,
+   "chars": 2258,
+   "vpLinks": 34,
+   "navLinks": 6,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 20,
+    "len": 35,
+    "tag": "DIV",
+    "t": "또다시 찾아온 주가 급락, 성장과 금리로 요약해 볼 수 있습니다"
+   },
+   "h1len": null,
+   "cards": [
+    {
+     "w": 355,
+     "imgW": 355,
+     "imgH": 185,
+     "ratio": 1.92,
+     "titleLines": 3,
+     "titleFs": "20px",
+     "textLeafCount": 2,
+     "chars": 1030
+    },
+    {
+     "w": 355,
+     "imgW": 355,
+     "imgH": 185,
+     "ratio": 1.92,
+     "titleLines": 3,
+     "titleFs": "20px",
+     "textLeafCount": 2,
+     "chars": 733
+    },
+    {
+     "w": 355,
+     "imgW": 355,
+     "imgH": 185,
+     "ratio": 1.92,
+     "titleLines": 3,
+     "titleFs": "20px",
+     "textLeafCount": 2,
+     "chars": 208
+    }
+   ],
+   "cardCountInVp": 3,
+   "pageH": 6932,
+   "vh": 900,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://outstanding.kr/startup-db/company/43ed0563ddfd36b0",
+  "home390": {
+   "words": 106,
+   "chars": 389,
+   "vpLinks": 22,
+   "navLinks": 6,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 14.4,
+    "len": 4,
+    "tag": "SPAN",
+    "t": "모빌린트"
+   },
+   "h1len": null,
+   "cards": [
+    {
+     "w": 165,
+     "imgW": 165,
+     "imgH": 86,
+     "ratio": 1.92,
+     "titleLines": 3,
+     "titleFs": "14px",
+     "textLeafCount": 2,
+     "chars": 35
+    },
+    {
+     "w": 165,
+     "imgW": 165,
+     "imgH": 86,
+     "ratio": 1.92,
+     "titleLines": 3,
+     "titleFs": "14px",
+     "textLeafCount": 2,
+     "chars": 34
+    },
+    {
+     "w": 165,
+     "imgW": 165,
+     "imgH": 86,
+     "ratio": 1.92,
+     "titleLines": 3,
+     "titleFs": "14px",
+     "textLeafCount": 2,
+     "chars": 32
+    },
+    {
+     "w": 165,
+     "imgW": 165,
+     "imgH": 86,
+     "ratio": 1.92,
+     "titleLines": 3,
+     "titleFs": "14px",
+     "textLeafCount": 2,
+     "chars": 33
+    }
+   ],
+   "cardCountInVp": 4,
+   "pageH": 5894,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 167,
+   "chars": 588,
+   "vpLinks": 19,
+   "navLinks": 20,
+   "ctaCount": 3,
+   "ctas": [
+    "기업 개요",
+    "사업",
+    "구독하기"
+   ],
+   "inputs": 1,
+   "largest": {
+    "fs": 24,
+    "len": 4,
+    "tag": "H1",
+    "t": "디이엔티"
+   },
+   "h1len": 4,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 15124,
+   "vh": 900,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": false,
+   "progressBar": false,
+   "toc": true,
+   "h1": {
+    "fs": "24px",
+    "lh": "normal",
+    "fw": "800",
+    "ff": "\"Pretendard Variable\"",
+    "len": 4,
+    "lines": 1
+   }
+  },
+  "article390": {
+   "words": 70,
+   "chars": 261,
+   "vpLinks": 2,
+   "navLinks": 20,
+   "ctaCount": 2,
+   "ctas": [
+    "기업 개요",
+    "사업"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 24,
+    "len": 4,
+    "tag": "H1",
+    "t": "디이엔티"
+   },
+   "h1len": 4,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 21928,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": false,
+   "progressBar": false,
+   "toc": true,
+   "h1": {
+    "fs": "24px",
+    "lh": "normal",
+    "fw": "800",
+    "ff": "\"Pretendard Variable\"",
+    "len": 4,
+    "lines": 1
+   }
+  }
+ }
+}

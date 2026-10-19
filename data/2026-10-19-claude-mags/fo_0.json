@@ -1,0 +1,614 @@
+{
+ "claude_login": {
+  "home1440": {
+   "words": 72,
+   "chars": 433,
+   "vpLinks": 2,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 56,
+    "len": 20,
+    "tag": "H2",
+    "t": "Question what’s next"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 3475,
+   "vh": 900,
+   "bodyBg": "rgb(252, 252, 251)",
+   "colorScheme": "light",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  },
+  "articleUrl": null,
+  "home390": {
+   "words": 66,
+   "chars": 393,
+   "vpLinks": 2,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 51.2,
+    "len": 20,
+    "tag": "H2",
+    "t": "Question what’s next"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 5412,
+   "vh": 844,
+   "bodyBg": "rgb(252, 252, 251)",
+   "colorScheme": "light",
+   "lang": "en-US",
+   "hasDarkQuery": null
+  }
+ },
+ "atlantic": {
+  "home1440": {
+   "words": 110,
+   "chars": 623,
+   "vpLinks": 22,
+   "navLinks": 6,
+   "ctaCount": 1,
+   "ctas": [
+    "Subscribe"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 38,
+    "len": 32,
+    "tag": "A",
+    "t": "America Is Now an Ally of Russia"
+   },
+   "h1len": null,
+   "cards": [
+    {
+     "w": 624,
+     "imgW": 624,
+     "imgH": 416,
+     "ratio": 1.5,
+     "titleLines": 1,
+     "titleFs": "38px",
+     "textLeafCount": 4,
+     "chars": 132
+    },
+    {
+     "w": 296,
+     "imgW": 80,
+     "imgH": 80,
+     "ratio": 1,
+     "titleLines": 3,
+     "titleFs": "18px",
+     "textLeafCount": 3,
+     "chars": 87
+    },
+    {
+     "w": 296,
+     "imgW": 296,
+     "imgH": 197,
+     "ratio": 1.5,
+     "titleLines": 2,
+     "titleFs": "24px",
+     "textLeafCount": 5,
+     "chars": 106
+    },
+    {
+     "w": 296,
+     "imgW": 296,
+     "imgH": 197,
+     "ratio": 1.5,
+     "titleLines": 2,
+     "titleFs": "24px",
+     "textLeafCount": 3,
+     "chars": 129
+    }
+   ],
+   "cardCountInVp": 4,
+   "pageH": 8613,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://www.theatlantic.com/ideas/2026/10/america-now-ally-russia/689066/",
+  "home390": {
+   "words": 32,
+   "chars": 195,
+   "vpLinks": 1,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 22,
+    "len": 144,
+    "tag": "P",
+    "t": "Please hold a moment… We’re just confirm"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 844,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en-us",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 29,
+   "chars": 165,
+   "vpLinks": 8,
+   "navLinks": 2,
+   "ctaCount": 1,
+   "ctas": [
+    "Subscribe"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 46,
+    "len": 32,
+    "tag": "H1",
+    "t": "America Is Now an Ally of Russia"
+   },
+   "h1len": 32,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 4035,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": true,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "22px",
+   "lh": "33px",
+   "ff": "AGaramondPro",
+   "color": "rgb(0, 0, 0)",
+   "w": 665,
+   "firstLineChars": 1,
+   "korean": false,
+   "mb": "30px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "46px",
+    "lh": "52px",
+    "fw": "400",
+    "ff": "AGaramondPro",
+    "len": 32,
+    "lines": 1
+   }
+  },
+  "article390": {
+   "words": 40,
+   "chars": 219,
+   "vpLinks": 4,
+   "navLinks": 2,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": {
+    "fs": 38,
+    "len": 32,
+    "tag": "H1",
+    "t": "America Is Now an Ally of Russia"
+   },
+   "h1len": 32,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 4390,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": true,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "20px",
+   "lh": "30px",
+   "ff": "AGaramondPro",
+   "color": "rgb(0, 0, 0)",
+   "w": 390,
+   "firstLineChars": 1,
+   "korean": false,
+   "mb": "20px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "38px",
+    "lh": "44px",
+    "fw": "400",
+    "ff": "AGaramondPro",
+    "len": 32,
+    "lines": 2
+   }
+  }
+ },
+ "aeon": {
+  "home1440": {
+   "words": 45,
+   "chars": 261,
+   "vpLinks": 23,
+   "navLinks": 13,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 72,
+    "len": 23,
+    "tag": "H1",
+    "t": "How to be a (Roman) man"
+   },
+   "h1len": 23,
+   "cards": [
+    {
+     "w": 432,
+     "imgW": 432,
+     "imgH": 242,
+     "ratio": 1.79,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 6,
+     "chars": 186
+    },
+    {
+     "w": 432,
+     "imgW": 432,
+     "imgH": 242,
+     "ratio": 1.79,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 5,
+     "chars": 100
+    },
+    {
+     "w": 432,
+     "imgW": 432,
+     "imgH": 242,
+     "ratio": 1.79,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 6,
+     "chars": 175
+    }
+   ],
+   "cardCountInVp": 3,
+   "pageH": 5975,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "light",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
+  "home390": {
+   "words": 47,
+   "chars": 298,
+   "vpLinks": 20,
+   "navLinks": 12,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 25,
+    "len": 23,
+    "tag": "P",
+    "t": "How to be a (Roman) man"
+   },
+   "h1len": 23,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 14947,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "light",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 49,
+   "chars": 260,
+   "vpLinks": 19,
+   "navLinks": 13,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 72,
+    "len": 26,
+    "tag": "H1",
+    "t": "Reason is more than a tool"
+   },
+   "h1len": 26,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 12705,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "light",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": false,
+   "progressBar": false,
+   "toc": false,
+   "fs": "16px",
+   "lh": "26px",
+   "ff": "sansFont",
+   "color": "rgb(68, 68, 68)",
+   "w": 365,
+   "firstLineChars": 26,
+   "korean": false,
+   "mb": "0px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "72px",
+    "lh": "72px",
+    "fw": "600",
+    "ff": "\"Aeon Serif Symbol\"",
+    "len": 26,
+    "lines": 1
+   }
+  },
+  "article390": {
+   "words": 168,
+   "chars": 1006,
+   "vpLinks": 20,
+   "navLinks": 12,
+   "ctaCount": 2,
+   "ctas": [
+    "i",
+    "+ BIO"
+   ],
+   "inputs": 1,
+   "largest": {
+    "fs": 42,
+    "len": 26,
+    "tag": "H1",
+    "t": "Reason is more than a tool"
+   },
+   "h1len": 26,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 21707,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "light",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": false,
+   "progressBar": false,
+   "toc": false,
+   "fs": "16px",
+   "lh": "26px",
+   "ff": "sansFont",
+   "color": "rgb(68, 68, 68)",
+   "w": 284,
+   "firstLineChars": 26,
+   "korean": false,
+   "mb": "0px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "42px",
+    "lh": "42px",
+    "fw": "600",
+    "ff": "\"Aeon Serif Symbol\"",
+    "len": 26,
+    "lines": 2
+   }
+  }
+ },
+ "cine21": {
+  "home1440": {
+   "words": 36,
+   "chars": 148,
+   "vpLinks": 13,
+   "navLinks": 7,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 28,
+    "len": 37,
+    "tag": "P",
+    "t": "[커버] 생동하는 청춘, <룩백> 배우 데구치 나쓰키, 마키타 아쥬"
+   },
+   "h1len": 6,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 6286,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://cine21.com/news/view/?mag_id=110999",
+  "home390": {
+   "words": 28,
+   "chars": 109,
+   "vpLinks": 5,
+   "navLinks": 10,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 24,
+    "len": 37,
+    "tag": "P",
+    "t": "[커버] 생동하는 청춘, <룩백> 배우 데구치 나쓰키, 마키타 아쥬"
+   },
+   "h1len": 6,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 7360,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 60,
+   "chars": 297,
+   "vpLinks": 21,
+   "navLinks": 7,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 32,
+    "len": 37,
+    "tag": "DIV",
+    "t": "[커버] 생동하는 청춘, <룩백> 배우 데구치 나쓰키, 마키타 아쥬"
+   },
+   "h1len": 6,
+   "cards": [
+    {
+     "w": 680,
+     "imgW": 680,
+     "imgH": 421,
+     "ratio": 1.62,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 1,
+     "chars": 22
+    },
+    {
+     "w": 136,
+     "imgW": 136,
+     "imgH": 194,
+     "ratio": 0.7,
+     "titleLines": 1,
+     "titleFs": "16px",
+     "textLeafCount": 2,
+     "chars": 10
+    },
+    {
+     "w": 136,
+     "imgW": 136,
+     "imgH": 194,
+     "ratio": 0.7,
+     "titleLines": 1,
+     "titleFs": "16px",
+     "textLeafCount": 2,
+     "chars": 13
+    },
+    {
+     "w": 136,
+     "imgW": 136,
+     "imgH": 194,
+     "ratio": 0.7,
+     "titleLines": 1,
+     "titleFs": "16px",
+     "textLeafCount": 2,
+     "chars": 15
+    }
+   ],
+   "cardCountInVp": 4,
+   "pageH": 2319,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": true,
+   "progressBar": false,
+   "toc": true,
+   "fs": "18px",
+   "lh": "28.8px",
+   "ff": "Pretendard",
+   "color": "rgb(34, 34, 34)",
+   "w": 840,
+   "firstLineChars": 40,
+   "korean": true,
+   "mb": "18px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "24px",
+    "lh": "34.8px",
+    "fw": "700",
+    "ff": "Arial",
+    "len": 6,
+    "lines": 2
+   }
+  },
+  "article390": {
+   "words": 64,
+   "chars": 336,
+   "vpLinks": 10,
+   "navLinks": 10,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 1,
+   "largest": {
+    "fs": 24,
+    "len": 37,
+    "tag": "DIV",
+    "t": "[커버] 생동하는 청춘, <룩백> 배우 데구치 나쓰키, 마키타 아쥬"
+   },
+   "h1len": 6,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 4356,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": true,
+   "progressBar": false,
+   "toc": true,
+   "fs": "18px",
+   "lh": "28.8px",
+   "ff": "Pretendard",
+   "color": "rgb(34, 34, 34)",
+   "w": 350,
+   "firstLineChars": 7,
+   "korean": true,
+   "mb": "18px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "24px",
+    "lh": "34.8px",
+    "fw": "700",
+    "ff": "Arial",
+    "len": 6,
+    "lines": 0
+   }
+  }
+ }
+}

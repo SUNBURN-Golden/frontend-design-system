@@ -1,0 +1,596 @@
+{
+ "claude_com": {
+  "home1440": {
+   "words": 49,
+   "chars": 328,
+   "vpLinks": 6,
+   "navLinks": 1,
+   "ctaCount": 6,
+   "ctas": [
+    "Contact sales",
+    "Try Claude",
+    "Continue with Google",
+    "Continue with email",
+    "Continue with SSO",
+    "Download desktop app"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 72,
+    "len": 24,
+    "tag": "H1",
+    "t": "Think fast, build faster"
+   },
+   "h1len": 24,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 4235,
+   "vh": 900,
+   "bodyBg": "rgb(250, 249, 245)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://claude.com/product/overview",
+  "home390": {
+   "words": 36,
+   "chars": 237,
+   "vpLinks": 3,
+   "navLinks": 0,
+   "ctaCount": 3,
+   "ctas": [
+    "Continue with Google",
+    "Continue with email",
+    "Continue with SSO"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 51,
+    "len": 24,
+    "tag": "H1",
+    "t": "Think fast, build faster"
+   },
+   "h1len": 24,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 6448,
+   "vh": 844,
+   "bodyBg": "rgb(250, 249, 245)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 120,
+   "chars": 769,
+   "vpLinks": 6,
+   "navLinks": 1,
+   "ctaCount": 5,
+   "ctas": [
+    "Accept all cookies",
+    "Contact sales",
+    "Try Claude",
+    "Try Claude",
+    "Download for Linux"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 72,
+    "len": 4,
+    "tag": "SPAN",
+    "t": "Give"
+   },
+   "h1len": 16,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 11894,
+   "vh": 900,
+   "bodyBg": "rgb(250, 249, 245)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": false,
+   "progressBar": false,
+   "toc": true,
+   "fs": "15px",
+   "lh": "24px",
+   "ff": "anthropicSans",
+   "color": "rgb(176, 174, 165)",
+   "w": 392,
+   "firstLineChars": 52,
+   "korean": false,
+   "mb": "16px",
+   "align": "start",
+   "bg": "rgb(250, 249, 245)",
+   "h1": {
+    "fs": "72px",
+    "lh": "79.2px",
+    "fw": "500",
+    "ff": "anthropicSerif",
+    "len": 16,
+    "lines": 1
+   }
+  },
+  "article390": {
+   "words": 67,
+   "chars": 388,
+   "vpLinks": 4,
+   "navLinks": 0,
+   "ctaCount": 3,
+   "ctas": [
+    "Accept",
+    "Try Claude",
+    "Download for Linux"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 35.1012,
+    "len": 4,
+    "tag": "SPAN",
+    "t": "Give"
+   },
+   "h1len": 16,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 11570,
+   "vh": 844,
+   "bodyBg": "rgb(250, 249, 245)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": false,
+   "progressBar": false,
+   "toc": true,
+   "fs": "15px",
+   "lh": "24px",
+   "ff": "anthropicSans",
+   "color": "rgb(176, 174, 165)",
+   "w": 334,
+   "firstLineChars": 42,
+   "korean": false,
+   "mb": "16px",
+   "align": "start",
+   "bg": "rgb(250, 249, 245)",
+   "h1": {
+    "fs": "35.1012px",
+    "lh": "38.6113px",
+    "fw": "500",
+    "ff": "anthropicSerif",
+    "len": 16,
+    "lines": 1
+   }
+  }
+ },
+ "nyt": {
+  "home1440": {
+   "words": 0,
+   "chars": 0,
+   "vpLinks": 0,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": null,
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 900,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "articleUrl": null,
+  "home390": {
+   "words": 0,
+   "chars": 0,
+   "vpLinks": 0,
+   "navLinks": 0,
+   "ctaCount": 0,
+   "ctas": [],
+   "inputs": 0,
+   "largest": null,
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 844,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  }
+ },
+ "nautilus": {
+  "home1440": {
+   "words": 57,
+   "chars": 367,
+   "vpLinks": 19,
+   "navLinks": 7,
+   "ctaCount": 2,
+   "ctas": [
+    "SUBSCRIBE",
+    "LOG IN"
+   ],
+   "inputs": 1,
+   "largest": {
+    "fs": 40,
+    "len": 72,
+    "tag": "H3",
+    "t": "Can We Ditch BMI for an Obesity Index Th"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 10530,
+   "vh": 900,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://nautil.us/early-humans-in-america-endured-climate-chaos-1285885",
+  "home390": {
+   "words": 21,
+   "chars": 138,
+   "vpLinks": 11,
+   "navLinks": 7,
+   "ctaCount": 1,
+   "ctas": [
+    "SUBSCRIBE"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 32,
+    "len": 15,
+    "tag": "A",
+    "t": "Skip to Content"
+   },
+   "h1len": null,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 22425,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 57,
+   "chars": 336,
+   "vpLinks": 15,
+   "navLinks": 7,
+   "ctaCount": 2,
+   "ctas": [
+    "SUBSCRIBE",
+    "LOG IN"
+   ],
+   "inputs": 1,
+   "largest": {
+    "fs": 40,
+    "len": 45,
+    "tag": "H1",
+    "t": "Early Humans in America Endured Climate "
+   },
+   "h1len": 45,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 9665,
+   "vh": 900,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "20px",
+   "lh": "31px",
+   "ff": "\"Freight Sans\"",
+   "color": "rgb(25, 25, 25)",
+   "w": 700,
+   "firstLineChars": 1,
+   "korean": false,
+   "mb": "24px",
+   "align": "start",
+   "bg": "rgb(255, 255, 255)",
+   "h1": {
+    "fs": "40px",
+    "lh": "46px",
+    "fw": "600",
+    "ff": "\"Freight Display\"",
+    "len": 45,
+    "lines": 1
+   }
+  },
+  "article390": {
+   "words": 50,
+   "chars": 305,
+   "vpLinks": 12,
+   "navLinks": 7,
+   "ctaCount": 1,
+   "ctas": [
+    "SUBSCRIBE"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 36,
+    "len": 45,
+    "tag": "H1",
+    "t": "Early Humans in America Endured Climate "
+   },
+   "h1len": 45,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 14646,
+   "vh": 844,
+   "bodyBg": "rgb(255, 255, 255)",
+   "colorScheme": "normal",
+   "lang": "en",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": true,
+   "progressBar": false,
+   "toc": false,
+   "fs": "20px",
+   "lh": "31px",
+   "ff": "\"Freight Sans\"",
+   "color": "rgb(25, 25, 25)",
+   "w": 350,
+   "firstLineChars": 34,
+   "korean": false,
+   "mb": "20px",
+   "align": "start",
+   "bg": "rgb(255, 255, 255)",
+   "h1": {
+    "fs": "36px",
+    "lh": "41.4px",
+    "fw": "600",
+    "ff": "\"Freight Display\"",
+    "len": 45,
+    "lines": 3
+   }
+  }
+ },
+ "munjang": {
+  "home1440": {
+   "words": 97,
+   "chars": 375,
+   "vpLinks": 23,
+   "navLinks": 4,
+   "ctaCount": 8,
+   "ctas": [
+    "팝업 닫기",
+    "유튜브",
+    "문학광장 인스타그램",
+    "채널문장 인스타그램",
+    "팟빵",
+    "점자보기"
+   ],
+   "inputs": 1,
+   "largest": {
+    "fs": 21.6,
+    "len": 5,
+    "tag": "A",
+    "t": "커버스토리"
+   },
+   "h1len": 4,
+   "cards": [
+    {
+     "w": 274,
+     "imgW": 274,
+     "imgH": 274,
+     "ratio": 1,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 4,
+     "chars": 93
+    },
+    {
+     "w": 274,
+     "imgW": 274,
+     "imgH": 274,
+     "ratio": 1,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 4,
+     "chars": 107
+    },
+    {
+     "w": 274,
+     "imgW": 274,
+     "imgH": 182,
+     "ratio": 1.5,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 3,
+     "chars": 250
+    },
+    {
+     "w": 274,
+     "imgW": 274,
+     "imgH": 274,
+     "ratio": 1,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 4,
+     "chars": 129
+    }
+   ],
+   "cardCountInVp": 4,
+   "pageH": 4946,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "light only",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "articleUrl": "https://munjang.or.kr/board.es?mid=a20900000000&bid=0002&list_no=113088&act=view",
+  "home390": {
+   "words": 74,
+   "chars": 284,
+   "vpLinks": 11,
+   "navLinks": 0,
+   "ctaCount": 2,
+   "ctas": [
+    "팝업 닫기",
+    "top"
+   ],
+   "inputs": 1,
+   "largest": {
+    "fs": 16.8,
+    "len": 5,
+    "tag": "A",
+    "t": "커버스토리"
+   },
+   "h1len": 4,
+   "cards": [
+    {
+     "w": 172,
+     "imgW": 172,
+     "imgH": 172,
+     "ratio": 1,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 4,
+     "chars": 93
+    },
+    {
+     "w": 172,
+     "imgW": 172,
+     "imgH": 172,
+     "ratio": 1,
+     "titleLines": null,
+     "titleFs": null,
+     "textLeafCount": 4,
+     "chars": 107
+    }
+   ],
+   "cardCountInVp": 2,
+   "pageH": 4722,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "light only",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "article1440": {
+   "words": 51,
+   "chars": 185,
+   "vpLinks": 14,
+   "navLinks": 4,
+   "ctaCount": 10,
+   "ctas": [
+    "유튜브",
+    "문학광장 인스타그램",
+    "채널문장 인스타그램",
+    "팟빵",
+    "글담기",
+    "글자 설정"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 43.2,
+    "len": 3,
+    "tag": "H3",
+    "t": "미완성"
+   },
+   "h1len": 4,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 3622,
+   "vh": 900,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "light only",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail1440": {
+   "time": false,
+   "byline": true,
+   "progressBar": true,
+   "toc": false,
+   "fs": "16.2px",
+   "lh": "25.2px",
+   "ff": "Pretendard",
+   "color": "rgb(85, 85, 85)",
+   "w": 352,
+   "firstLineChars": 35,
+   "korean": true,
+   "mb": "0px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "27px",
+    "lh": "normal",
+    "fw": "700",
+    "ff": "Pretendard",
+    "len": 4,
+    "lines": 1
+   }
+  },
+  "article390": {
+   "words": 55,
+   "chars": 192,
+   "vpLinks": 4,
+   "navLinks": 0,
+   "ctaCount": 1,
+   "ctas": [
+    "top"
+   ],
+   "inputs": 0,
+   "largest": {
+    "fs": 22.4,
+    "len": 3,
+    "tag": "H3",
+    "t": "미완성"
+   },
+   "h1len": 4,
+   "cards": [],
+   "cardCountInVp": 0,
+   "pageH": 3309,
+   "vh": 844,
+   "bodyBg": "rgba(0, 0, 0, 0)",
+   "colorScheme": "light only",
+   "lang": "ko",
+   "hasDarkQuery": null
+  },
+  "artDetail390": {
+   "time": false,
+   "byline": true,
+   "progressBar": true,
+   "toc": false,
+   "fs": "12.6px",
+   "lh": "19.6px",
+   "ff": "Pretendard",
+   "color": "rgb(85, 85, 85)",
+   "w": 304,
+   "firstLineChars": 41,
+   "korean": true,
+   "mb": "0px",
+   "align": "start",
+   "bg": "rgba(0, 0, 0, 0)",
+   "h1": {
+    "fs": "21px",
+    "lh": "normal",
+    "fw": "700",
+    "ff": "Pretendard",
+    "len": 4,
+    "lines": 1
+   }
+  }
+ }
+}
