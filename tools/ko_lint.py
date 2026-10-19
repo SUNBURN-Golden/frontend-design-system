@@ -8,7 +8,7 @@ import sys, re, json, html, ast, collections
 from pathlib import Path
 RULES = [  # (id, 설명, 정규식)
  ('via', "번역투 '~를 통해'", r'[을를]\s?통해(서)?'),
- ('in_regard', "번역투 '~에 있어(서)'", r'에\s?있어(서)?'),
+ ('in_regard', "번역투 '~에 있어(서)'", r'에\s?있어(서|\s)'),
  ('about', "번역투 '~에 대해(서)/대한'", r'에\s?대(해|한)(서)?'),
  ('by_means', "번역투 '~에 의해/의한'", r'에\s?의(해|한)'),
  ('passive_do', "이중피동 '~되어지/되어진'", r'되어지|되어진'),
