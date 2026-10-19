@@ -1,0 +1,145 @@
+{
+ "lit@390": {
+  "title": "Goal Lit — 한국 문학·웹툰·웹소설 평론 웹진",
+  "h1": "작품은 이렇게 읽혔다 — 한국 문학·웹툰·웹소설 평론",
+  "h1Words": 7,
+  "h1VisibleAboveFold": true,
+  "leadWords": 13,
+  "lead": "소설·시·에세이부터 SF·판타지·미스터리, 웹툰과 웹소설까지. 평론가와 매체가 실제로 남긴 호평과 비판을 출처와 함께 정리해요.",
+  "wordsAboveFold": 111,
+  "fontSizeKinds": 10,
+  "clickablesAboveFold": 10,
+  "uniqueTargetsAboveFold": 10,
+  "navLinksVisible": 8,
+  "ctaCandidates": 0,
+  "ctaTexts": [],
+  "largestCtaAreaPctOfViewport": 0,
+  "imagesOrIconsAboveFold": 0,
+  "violations": [
+   "첫 화면 단어 많음",
+   "첫 화면 클릭 대상 많음",
+   "CTA 후보 0개(권장 1~2)",
+   "글자 크기 종류 많음",
+   "이미지/아이콘 없음(텍스트 only)"
+  ]
+ },
+ "lit@1440": {
+  "title": "Goal Lit — 한국 문학·웹툰·웹소설 평론 웹진",
+  "h1": "작품은 이렇게 읽혔다 — 한국 문학·웹툰·웹소설 평론",
+  "h1Words": 7,
+  "h1VisibleAboveFold": true,
+  "leadWords": 13,
+  "lead": "소설·시·에세이부터 SF·판타지·미스터리, 웹툰과 웹소설까지. 평론가와 매체가 실제로 남긴 호평과 비판을 출처와 함께 정리해요.",
+  "wordsAboveFold": 234,
+  "fontSizeKinds": 13,
+  "clickablesAboveFold": 13,
+  "uniqueTargetsAboveFold": 13,
+  "navLinksVisible": 8,
+  "ctaCandidates": 0,
+  "ctaTexts": [],
+  "largestCtaAreaPctOfViewport": 0,
+  "imagesOrIconsAboveFold": 0,
+  "violations": []
+ },
+ "pitch@390": {
+  "title": "The Pitchboard: paid book review & criticism outlets, with last-checked dates",
+  "h1": "Where to pitch book reviews and cultural criticism.",
+  "h1Words": 8,
+  "h1VisibleAboveFold": true,
+  "leadWords": 28,
+  "lead": "93 outlets with pay as published, word counts, pitch rules, and an honest status",
+  "wordsAboveFold": 99,
+  "fontSizeKinds": 10,
+  "clickablesAboveFold": 14,
+  "uniqueTargetsAboveFold": 10,
+  "navLinksVisible": 8,
+  "ctaCandidates": 4,
+  "ctaTexts": [
+   "Search",
+   "Browse the directory",
+   "Calls & deadlines",
+   "Weekly digest"
+  ],
+  "largestCtaAreaPctOfViewport": 1.7,
+  "imagesOrIconsAboveFold": 0,
+  "violations": [
+   "첫 화면 단어 많음",
+   "첫 화면 클릭 대상 많음",
+   "CTA 후보 4개(권장 1~2)",
+   "글자 크기 종류 많음",
+   "이미지/아이콘 없음(텍스트 only)"
+  ]
+ },
+ "pitch@1440": {
+  "title": "The Pitchboard: paid book review & criticism outlets, with last-checked dates",
+  "h1": "Where to pitch book reviews and cultural criticism.",
+  "h1Words": 8,
+  "h1VisibleAboveFold": true,
+  "leadWords": 28,
+  "lead": "93 outlets with pay as published, word counts, pitch rules, and an honest status",
+  "wordsAboveFold": 148,
+  "fontSizeKinds": 11,
+  "clickablesAboveFold": 16,
+  "uniqueTargetsAboveFold": 10,
+  "navLinksVisible": 8,
+  "ctaCandidates": 4,
+  "ctaTexts": [
+   "Search",
+   "Browse the directory",
+   "Calls & deadlines",
+   "Weekly digest"
+  ],
+  "largestCtaAreaPctOfViewport": 0.5,
+  "imagesOrIconsAboveFold": 0,
+  "violations": []
+ },
+ "hanset@390": {
+  "title": "한셋 HANSET — 크로스핏·HYROX·사우나 웰니스 매거진",
+  "h1": "하이록스 서울 (시즌 26/27)",
+  "h1Words": 4,
+  "h1VisibleAboveFold": true,
+  "leadWords": 19,
+  "lead": "8번의 1km 러닝과 8개의 스테이션. 처음 나가는 사람을 위한 구성 가이드와, 드롭인으로 미리 훈련해 볼 수 있는 곳을 모았어요.",
+  "wordsAboveFold": 104,
+  "fontSizeKinds": 12,
+  "clickablesAboveFold": 14,
+  "uniqueTargetsAboveFold": 10,
+  "navLinksVisible": 8,
+  "ctaCandidates": 3,
+  "ctaTexts": [
+   "레이스 위크 가이드",
+   "드롭인 박스 찾기",
+   "Drop-in & Sauna Finder"
+  ],
+  "largestCtaAreaPctOfViewport": 3.3,
+  "imagesOrIconsAboveFold": 0,
+  "violations": [
+   "첫 화면 단어 많음",
+   "첫 화면 클릭 대상 많음",
+   "CTA 후보 3개(권장 1~2)",
+   "글자 크기 종류 많음",
+   "이미지/아이콘 없음(텍스트 only)"
+  ]
+ },
+ "hanset@1440": {
+  "title": "한셋 HANSET — 크로스핏·HYROX·사우나 웰니스 매거진",
+  "h1": "하이록스 서울 (시즌 26/27)",
+  "h1Words": 4,
+  "h1VisibleAboveFold": true,
+  "leadWords": 19,
+  "lead": "8번의 1km 러닝과 8개의 스테이션. 처음 나가는 사람을 위한 구성 가이드와, 드롭인으로 미리 훈련해 볼 수 있는 곳을 모았어요.",
+  "wordsAboveFold": 118,
+  "fontSizeKinds": 14,
+  "clickablesAboveFold": 20,
+  "uniqueTargetsAboveFold": 16,
+  "navLinksVisible": 8,
+  "ctaCandidates": 2,
+  "ctaTexts": [
+   "레이스 위크 가이드",
+   "드롭인 박스 찾기"
+  ],
+  "largestCtaAreaPctOfViewport": 0.6,
+  "imagesOrIconsAboveFold": 0,
+  "violations": []
+ }
+}

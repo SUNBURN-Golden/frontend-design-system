@@ -1,0 +1,358 @@
+{
+ "lit": {
+  "pages": [
+   "/",
+   "/ads/",
+   "/authors/",
+   "/corrections/",
+   "/genres/",
+   "/new-books/",
+   "/genres/fantasy/",
+   "/genres/horror/"
+  ],
+  "runs": 32,
+  "secs": 22.8,
+  "violations": [
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "scheme": "dark",
+    "vw": 390,
+    "nodes": 1,
+    "example": [
+     "/",
+     "<span class=\"eyebrow\">PREVIEW · 평론 웹진</span>"
+    ]
+   },
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "scheme": "dark",
+    "vw": 1440,
+    "nodes": 1,
+    "example": [
+     "/",
+     "<span class=\"eyebrow\">PREVIEW · 평론 웹진</span>"
+    ]
+   },
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "scheme": "light",
+    "vw": 390,
+    "nodes": 1,
+    "example": [
+     "/",
+     "<span class=\"eyebrow\">PREVIEW · 평론 웹진</span>"
+    ]
+   },
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "scheme": "light",
+    "vw": 1440,
+    "nodes": 1,
+    "example": [
+     "/",
+     "<span class=\"eyebrow\">PREVIEW · 평론 웹진</span>"
+    ]
+   },
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "dark",
+    "vw": 390,
+    "nodes": 3,
+    "example": [
+     "/",
+     "<h3><a href=\"/posts/vegetarian-two-prices/\">옮겨지는 몸, 옮겨지는 말 — 〈채식주의자〉를 둘러싼 공개된 반응들</a></h3>"
+    ]
+   },
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "dark",
+    "vw": 1440,
+    "nodes": 3,
+    "example": [
+     "/",
+     "<h3><a href=\"/posts/vegetarian-two-prices/\">옮겨지는 몸, 옮겨지는 말 — 〈채식주의자〉를 둘러싼 공개된 반응들</a></h3>"
+    ]
+   },
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "light",
+    "vw": 390,
+    "nodes": 3,
+    "example": [
+     "/",
+     "<h3><a href=\"/posts/vegetarian-two-prices/\">옮겨지는 몸, 옮겨지는 말 — 〈채식주의자〉를 둘러싼 공개된 반응들</a></h3>"
+    ]
+   },
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "light",
+    "vw": 1440,
+    "nodes": 3,
+    "example": [
+     "/",
+     "<h3><a href=\"/posts/vegetarian-two-prices/\">옮겨지는 몸, 옮겨지는 말 — 〈채식주의자〉를 둘러싼 공개된 반응들</a></h3>"
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "scheme": "dark",
+    "vw": 390,
+    "nodes": 8,
+    "example": [
+     "/",
+     "<div class=\"preview-bar\">비공개 프리뷰 — 검색 노출 꺼짐(noindex) · 이 사이트의 평론 글은 필명 에디터가 공개 자료를 정리한 글이에요</div>"
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "scheme": "dark",
+    "vw": 1440,
+    "nodes": 8,
+    "example": [
+     "/",
+     "<div class=\"preview-bar\">비공개 프리뷰 — 검색 노출 꺼짐(noindex) · 이 사이트의 평론 글은 필명 에디터가 공개 자료를 정리한 글이에요</div>"
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "scheme": "light",
+    "vw": 390,
+    "nodes": 8,
+    "example": [
+     "/",
+     "<div class=\"preview-bar\">비공개 프리뷰 — 검색 노출 꺼짐(noindex) · 이 사이트의 평론 글은 필명 에디터가 공개 자료를 정리한 글이에요</div>"
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "scheme": "light",
+    "vw": 1440,
+    "nodes": 8,
+    "example": [
+     "/",
+     "<div class=\"preview-bar\">비공개 프리뷰 — 검색 노출 꺼짐(noindex) · 이 사이트의 평론 글은 필명 에디터가 공개 자료를 정리한 글이에요</div>"
+    ]
+   }
+  ]
+ },
+ "pitch": {
+  "pages": [
+   "/",
+   "/about/",
+   "/advertise/",
+   "/calls/",
+   "/methodology/",
+   "/newsletter/",
+   "/outlets/aeon/",
+   "/outlets/agni/"
+  ],
+  "runs": 32,
+  "secs": 34.4,
+  "violations": [
+   {
+    "id": "frame-title",
+    "impact": "serious",
+    "scheme": "dark",
+    "vw": 390,
+    "nodes": 3,
+    "example": [
+     "/",
+     "<iframe src=\"https://subscribe-fo...\" frameborder=\"0\" scrolling=\"no\" style=\"width: 100%; height:...\">"
+    ]
+   },
+   {
+    "id": "frame-title",
+    "impact": "serious",
+    "scheme": "dark",
+    "vw": 1440,
+    "nodes": 3,
+    "example": [
+     "/",
+     "<iframe src=\"https://subscribe-fo...\" frameborder=\"0\" scrolling=\"no\" style=\"width: 100%; height:...\">"
+    ]
+   },
+   {
+    "id": "frame-title",
+    "impact": "serious",
+    "scheme": "light",
+    "vw": 390,
+    "nodes": 3,
+    "example": [
+     "/",
+     "<iframe src=\"https://subscribe-fo...\" frameborder=\"0\" scrolling=\"no\" style=\"width: 100%; height:...\">"
+    ]
+   },
+   {
+    "id": "frame-title",
+    "impact": "serious",
+    "scheme": "light",
+    "vw": 1440,
+    "nodes": 3,
+    "example": [
+     "/",
+     "<iframe src=\"https://subscribe-fo...\" frameborder=\"0\" scrolling=\"no\" style=\"width: 100%; height:...\">"
+    ]
+   },
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "dark",
+    "vw": 390,
+    "nodes": 1,
+    "example": [
+     "/calls/",
+     "<h3>Brick: literary non-fiction window (essays, reviews, interviews)</h3>"
+    ]
+   },
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "dark",
+    "vw": 1440,
+    "nodes": 1,
+    "example": [
+     "/calls/",
+     "<h3>Brick: literary non-fiction window (essays, reviews, interviews)</h3>"
+    ]
+   },
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "light",
+    "vw": 390,
+    "nodes": 1,
+    "example": [
+     "/calls/",
+     "<h3>Brick: literary non-fiction window (essays, reviews, interviews)</h3>"
+    ]
+   },
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "light",
+    "vw": 1440,
+    "nodes": 1,
+    "example": [
+     "/calls/",
+     "<h3>Brick: literary non-fiction window (essays, reviews, interviews)</h3>"
+    ]
+   },
+   {
+    "id": "scrollable-region-focusable",
+    "impact": "serious",
+    "scheme": "dark",
+    "vw": 390,
+    "nodes": 1,
+    "example": [
+     "/advertise/",
+     "<div class=\"tablewrap\">"
+    ]
+   },
+   {
+    "id": "scrollable-region-focusable",
+    "impact": "serious",
+    "scheme": "light",
+    "vw": 390,
+    "nodes": 1,
+    "example": [
+     "/advertise/",
+     "<div class=\"tablewrap\">"
+    ]
+   }
+  ]
+ },
+ "hanset": {
+  "pages": [
+   "/",
+   "/about/",
+   "/archive/",
+   "/corrections/",
+   "/events/",
+   "/faq/",
+   "/finder/banyan-tree-club-seoul/",
+   "/finder/basalt-crossfit/"
+  ],
+  "runs": 32,
+  "secs": 14.6,
+  "violations": [
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "dark",
+    "vw": 390,
+    "nodes": 1,
+    "example": [
+     "/events/",
+     "<h3>2026 오버맥스 8K 하이브리드 피트니스 레이스 (부산)</h3>"
+    ]
+   },
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "dark",
+    "vw": 1440,
+    "nodes": 1,
+    "example": [
+     "/events/",
+     "<h3>2026 오버맥스 8K 하이브리드 피트니스 레이스 (부산)</h3>"
+    ]
+   },
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "light",
+    "vw": 390,
+    "nodes": 1,
+    "example": [
+     "/events/",
+     "<h3>2026 오버맥스 8K 하이브리드 피트니스 레이스 (부산)</h3>"
+    ]
+   },
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "scheme": "light",
+    "vw": 1440,
+    "nodes": 1,
+    "example": [
+     "/events/",
+     "<h3>2026 오버맥스 8K 하이브리드 피트니스 레이스 (부산)</h3>"
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "scheme": "dark",
+    "vw": 390,
+    "nodes": 6,
+    "example": [
+     "/",
+     "<div class=\"mbar\"><a class=\"pin\" href=\"/finder/\">Drop-in &amp; Sauna Finder</a></div>"
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "scheme": "light",
+    "vw": 390,
+    "nodes": 6,
+    "example": [
+     "/",
+     "<div class=\"mbar\"><a class=\"pin\" href=\"/finder/\">Drop-in &amp; Sauna Finder</a></div>"
+    ]
+   }
+  ]
+ }
+}
