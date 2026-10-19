@@ -1,0 +1,1211 @@
+{
+ "Linear@390": {
+  "title": "Linear – The system for product development",
+  "words": 168,
+  "uniqueLinks": 4,
+  "interactive": 23,
+  "ctas": 1,
+  "ctaTexts": [
+   "Sign up"
+  ],
+  "fontSizes": [
+   12,
+   13,
+   14,
+   15,
+   16,
+   20,
+   38
+  ],
+  "textColors": [
+   "rgb(138, 143, 152)",
+   "rgb(8, 9, 10)",
+   "rgb(247, 248, 248)",
+   "rgb(208, 214, 224)",
+   "rgb(98, 102, 109)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 276,
+  "h1": {
+   "px": 38,
+   "text": "The product development system for teams"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 5876,
+  "accentHues": 0,
+  "nTextColors": 5,
+  "nFontSizes": 7,
+  "url": "https://linear.app"
+ },
+ "Linear@1440": {
+  "title": "Linear – The system for product development",
+  "words": 124,
+  "uniqueLinks": 8,
+  "interactive": 32,
+  "ctas": 2,
+  "ctaTexts": [
+   "Sign up",
+   "Faster app launch"
+  ],
+  "fontSizes": [
+   12,
+   13,
+   14,
+   15,
+   16,
+   20,
+   64
+  ],
+  "textColors": [
+   "rgb(138, 143, 152)",
+   "rgb(8, 9, 10)",
+   "rgb(247, 248, 248)",
+   "rgb(208, 214, 224)",
+   "rgb(98, 102, 109)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 620,
+  "h1": {
+   "px": 64,
+   "text": "The product development\nsystem for teams"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 9960,
+  "accentHues": 0,
+  "nTextColors": 5,
+  "nFontSizes": 7,
+  "url": "https://linear.app"
+ },
+ "Stripe@390": {
+  "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+  "words": 94,
+  "uniqueLinks": 8,
+  "interactive": 12,
+  "ctas": 2,
+  "ctaTexts": [
+   "Accept all",
+   "Reject all"
+  ],
+  "fontSizes": [
+   12,
+   14,
+   16,
+   20,
+   22,
+   34
+  ],
+  "textColors": [
+   "rgb(6, 27, 49)",
+   "rgb(45, 37, 100)",
+   "rgb(255, 255, 255)",
+   "rgb(83, 58, 253)",
+   "rgb(100, 116, 141)",
+   "rgb(90, 102, 119)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 320,
+  "h1": {
+   "px": 34,
+   "text": "Financial infrastructure to grow your re"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 20373,
+  "accentHues": 1,
+  "nTextColors": 6,
+  "nFontSizes": 6,
+  "url": "https://stripe.com"
+ },
+ "Stripe@1440": {
+  "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+  "words": 131,
+  "uniqueLinks": 15,
+  "interactive": 21,
+  "ctas": 6,
+  "ctaTexts": [
+   "Sign in\nSign in",
+   "Contact sales",
+   "Get started",
+   "Sign up with Google"
+  ],
+  "fontSizes": [
+   14,
+   16,
+   32,
+   48
+  ],
+  "textColors": [
+   "rgb(6, 27, 49)",
+   "rgb(255, 255, 255)",
+   "rgb(100, 116, 141)",
+   "rgb(129, 184, 26)",
+   "rgb(45, 37, 100)",
+   "rgba(0, 14, 255, 0.5)",
+   "rgb(83, 58, 253)",
+   "rgb(90, 102, 119)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 776,
+  "h1": {
+   "px": 48,
+   "text": "Financial infrastructure to grow your re"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 14803,
+  "accentHues": 3,
+  "nTextColors": 8,
+  "nFontSizes": 4,
+  "url": "https://stripe.com"
+ },
+ "Vercel@390": {
+  "title": "Agentic Infrastructure - Vercel",
+  "words": 43,
+  "uniqueLinks": 4,
+  "interactive": 6,
+  "ctas": 3,
+  "ctaTexts": [
+   "READ THE RECAP",
+   "Deploy now",
+   "Talk to sales"
+  ],
+  "fontSizes": [
+   14,
+   16,
+   24
+  ],
+  "textColors": [
+   "rgb(23, 23, 23)",
+   "rgb(77, 77, 77)",
+   "rgb(255, 255, 255)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 342,
+  "h1": {
+   "px": 24,
+   "text": "Agentic Infrastructure"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 4981,
+  "accentHues": 0,
+  "nTextColors": 3,
+  "nFontSizes": 3,
+  "url": "https://vercel.com"
+ },
+ "Vercel@1440": {
+  "title": "Agentic Infrastructure - Vercel",
+  "words": 43,
+  "uniqueLinks": 9,
+  "interactive": 15,
+  "ctas": 6,
+  "ctaTexts": [
+   "Get a Demo",
+   "Log In",
+   "Sign Up",
+   "Deploy now"
+  ],
+  "fontSizes": [
+   14,
+   16,
+   64
+  ],
+  "textColors": [
+   "rgb(77, 77, 77)",
+   "rgb(23, 23, 23)",
+   "rgb(255, 255, 255)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": {
+   "px": 64,
+   "text": "Agentic Infrastructure"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 5333,
+  "accentHues": 0,
+  "nTextColors": 3,
+  "nFontSizes": 3,
+  "url": "https://vercel.com"
+ },
+ "Arc@390": {
+  "title": "Arc from The Browser Company",
+  "words": 48,
+  "uniqueLinks": 3,
+  "interactive": 4,
+  "ctas": 1,
+  "ctaTexts": [
+   "Try Dia"
+  ],
+  "fontSizes": [
+   13,
+   16,
+   20,
+   30,
+   32
+  ],
+  "textColors": [
+   "rgb(0, 0, 0)",
+   "rgba(0, 0, 0, 0.65)",
+   "rgb(255, 255, 255)",
+   "rgb(255, 252, 236)",
+   "rgb(255, 250, 221)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 390,
+  "h1": {
+   "px": 32,
+   "text": "Arc is the Chrome replacement I've been "
+  },
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 3639,
+  "accentHues": 1,
+  "nTextColors": 5,
+  "nFontSizes": 5,
+  "url": "https://arc.net"
+ },
+ "Arc@1440": {
+  "title": "Arc from The Browser Company",
+  "words": 37,
+  "uniqueLinks": 7,
+  "interactive": 7,
+  "ctas": 6,
+  "ctaTexts": [
+   "Max",
+   "Mobile",
+   "Developers",
+   "Students"
+  ],
+  "fontSizes": [
+   14,
+   20,
+   24,
+   36,
+   46
+  ],
+  "textColors": [
+   "rgb(255, 255, 255)",
+   "rgb(0, 0, 0)",
+   "rgba(0, 0, 0, 0.65)",
+   "rgb(255, 252, 236)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 805,
+  "h1": {
+   "px": 46,
+   "text": "Arc is the Chrome replacement I've been "
+  },
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 6125,
+  "accentHues": 1,
+  "nTextColors": 4,
+  "nFontSizes": 5,
+  "url": "https://arc.net"
+ },
+ "Things@390": {
+  "title": "Things - To-Do List App for Mac & iOS",
+  "words": 30,
+  "uniqueLinks": 4,
+  "interactive": 4,
+  "ctas": 0,
+  "ctaTexts": [],
+  "fontSizes": [
+   14,
+   20
+  ],
+  "textColors": [
+   "rgba(38, 52, 74, 0.5)",
+   "rgb(48, 51, 54)",
+   "rgb(68, 71, 75)",
+   "rgb(92, 156, 245)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 323,
+  "h1": {
+   "px": 20,
+   "text": "Things"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 11272,
+  "accentHues": 1,
+  "nTextColors": 4,
+  "nFontSizes": 2,
+  "url": "https://culturedcode.com/things/"
+ },
+ "Things@1440": {
+  "title": "Things - To-Do List App for Mac & iOS",
+  "words": 30,
+  "uniqueLinks": 4,
+  "interactive": 4,
+  "ctas": 0,
+  "ctaTexts": [],
+  "fontSizes": [
+   15,
+   24
+  ],
+  "textColors": [
+   "rgba(38, 52, 74, 0.5)",
+   "rgb(48, 51, 54)",
+   "rgb(68, 71, 75)",
+   "rgb(92, 156, 245)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 440,
+  "h1": {
+   "px": 24,
+   "text": "Things"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 8100,
+  "accentHues": 1,
+  "nTextColors": 4,
+  "nFontSizes": 2,
+  "url": "https://culturedcode.com/things/"
+ },
+ "Notion@390": {
+  "title": "나만을 위한 AI 워크스페이스 | Notion (노션)",
+  "words": 45,
+  "uniqueLinks": 6,
+  "interactive": 7,
+  "ctas": 3,
+  "ctaTexts": [
+   "Notion 무료로 사용하기",
+   "Notion 무료로 사용하기",
+   "데모 요청하기"
+  ],
+  "fontSizes": [
+   14,
+   16,
+   20,
+   22,
+   32,
+   42
+  ],
+  "textColors": [
+   "rgb(255, 255, 255)",
+   "rgba(0, 0, 0, 0.95)",
+   "rgba(0, 0, 0, 0.898)",
+   "rgb(0, 91, 171)",
+   "rgba(0, 0, 0, 0.54)",
+   "rgb(0, 0, 0)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 358,
+  "h1": {
+   "px": 42,
+   "text": "팀과 에이전트가 함께 \n생각\n하는 곳"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 3975,
+  "accentHues": 1,
+  "nTextColors": 6,
+  "nFontSizes": 6,
+  "url": "https://www.notion.com/ko"
+ },
+ "Notion@1440": {
+  "title": "나만을 위한 AI 워크스페이스 | Notion (노션)",
+  "words": 30,
+  "uniqueLinks": 15,
+  "interactive": 18,
+  "ctas": 3,
+  "ctaTexts": [
+   "Notion 무료로 사용하기",
+   "Notion 무료로 사용하기",
+   "데모 요청하기"
+  ],
+  "fontSizes": [
+   14,
+   16,
+   20,
+   72,
+   96
+  ],
+  "textColors": [
+   "rgba(0, 0, 0, 0.898)",
+   "rgb(255, 255, 255)",
+   "rgba(0, 0, 0, 0.95)",
+   "rgb(0, 91, 171)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 1252,
+  "h1": {
+   "px": 96,
+   "text": "팀과 에이전트가 함께 \n생각\n하는 곳"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 4687,
+  "accentHues": 1,
+  "nTextColors": 4,
+  "nFontSizes": 5,
+  "url": "https://www.notion.com/ko"
+ },
+ "Toss@390": {
+  "title": "토스",
+  "words": 5,
+  "uniqueLinks": 1,
+  "interactive": 2,
+  "ctas": 0,
+  "ctaTexts": [],
+  "fontSizes": [
+   40
+  ],
+  "textColors": [
+   "rgb(255, 255, 255)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": null,
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 21016,
+  "accentHues": 0,
+  "nTextColors": 1,
+  "nFontSizes": 1,
+  "url": "https://toss.im"
+ },
+ "Toss@1440": {
+  "title": "토스",
+  "words": 16,
+  "uniqueLinks": 15,
+  "interactive": 19,
+  "ctas": 1,
+  "ctaTexts": [
+   "앱\n \n다\n운\n로\n드\n앱\n \n다\n운\n"
+  ],
+  "fontSizes": [
+   16,
+   80
+  ],
+  "textColors": [
+   "rgb(51, 56, 64)",
+   "rgb(255, 255, 255)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": null,
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 50964,
+  "accentHues": 0,
+  "nTextColors": 2,
+  "nFontSizes": 2,
+  "url": "https://toss.im"
+ },
+ "Daangn@390": {
+  "title": "",
+  "words": 0,
+  "uniqueLinks": 0,
+  "interactive": 0,
+  "ctas": 0,
+  "ctaTexts": [],
+  "fontSizes": [],
+  "textColors": [],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": null,
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 844,
+  "accentHues": 0,
+  "nTextColors": 0,
+  "nFontSizes": 0,
+  "url": "https://www.daangn.com/kr/"
+ },
+ "Daangn@1440": {
+  "title": "당신 근처의 당근",
+  "words": 66,
+  "uniqueLinks": 13,
+  "interactive": 17,
+  "ctas": 10,
+  "ctaTexts": [
+   "지금 뜨는\n아이폰",
+   "중고거래",
+   "동네업체",
+   "중고차"
+  ],
+  "fontSizes": [
+   14,
+   16,
+   20
+  ],
+  "textColors": [
+   "rgb(85, 93, 109)",
+   "rgb(26, 28, 32)",
+   "rgb(134, 139, 148)",
+   "rgb(176, 179, 186)"
+  ],
+  "sectionGapMedian": 83,
+  "maxTextWidth": 568,
+  "h1": null,
+  "searchInputWidth": 526,
+  "scrollW": 1440,
+  "docH": 2755,
+  "accentHues": 0,
+  "nTextColors": 4,
+  "nFontSizes": 3,
+  "url": "https://www.daangn.com/kr/"
+ },
+ "Ohou@390": {
+  "title": "라이프스타일 슈퍼앱, 오늘의집",
+  "words": 19,
+  "uniqueLinks": 17,
+  "interactive": 21,
+  "ctas": 0,
+  "ctaTexts": [],
+  "fontSizes": [
+   12,
+   14
+  ],
+  "textColors": [
+   "rgb(0, 161, 255)",
+   "rgb(47, 52, 56)",
+   "rgb(255, 255, 255)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": null,
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 4321,
+  "accentHues": 1,
+  "nTextColors": 3,
+  "nFontSizes": 2,
+  "url": "https://ohou.se"
+ },
+ "Ohou@1440": {
+  "title": "라이프스타일 슈퍼앱, 오늘의집",
+  "words": 37,
+  "uniqueLinks": 25,
+  "interactive": 34,
+  "ctas": 1,
+  "ctaTexts": [
+   "글쓰기"
+  ],
+  "fontSizes": [
+   12,
+   14,
+   16,
+   18,
+   32
+  ],
+  "textColors": [
+   "rgb(0, 161, 255)",
+   "rgb(47, 52, 56)",
+   "rgb(255, 255, 255)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": null,
+  "searchInputWidth": 261,
+  "scrollW": 1440,
+  "docH": 3280,
+  "accentHues": 1,
+  "nTextColors": 3,
+  "nFontSizes": 5,
+  "url": "https://ohou.se"
+ },
+ "29CM@390": {
+  "title": "모든 취향 곁에, 29CM",
+  "words": 26,
+  "uniqueLinks": 10,
+  "interactive": 13,
+  "ctas": 0,
+  "ctaTexts": [],
+  "fontSizes": [
+   13,
+   16
+  ],
+  "textColors": [
+   "rgb(0, 0, 0)",
+   "rgb(0, 0, 238)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": null,
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 44132,
+  "accentHues": 1,
+  "nTextColors": 2,
+  "nFontSizes": 2,
+  "url": "https://www.29cm.co.kr"
+ },
+ "29CM@1440": {
+  "title": "모든 취향 곁에, 29CM",
+  "words": 17,
+  "uniqueLinks": 9,
+  "interactive": 12,
+  "ctas": 0,
+  "ctaTexts": [],
+  "fontSizes": [
+   13,
+   16
+  ],
+  "textColors": [
+   "rgb(0, 0, 0)",
+   "rgb(0, 0, 238)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": null,
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 43199,
+  "accentHues": 1,
+  "nTextColors": 2,
+  "nFontSizes": 2,
+  "url": "https://www.29cm.co.kr"
+ },
+ "Airbnb@390": {
+  "title": "에어비앤비 | 휴가지 숙소, 통나무집, 해변가 주택 등",
+  "words": 33,
+  "uniqueLinks": 11,
+  "interactive": 13,
+  "ctas": 4,
+  "ctaTexts": [
+   "전체",
+   "숙소",
+   "체험",
+   "서비스"
+  ],
+  "fontSizes": [
+   10,
+   13,
+   14,
+   18,
+   28
+  ],
+  "textColors": [
+   "rgb(34, 34, 34)",
+   "rgb(218, 18, 73)",
+   "rgb(108, 108, 108)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": {
+   "px": 28,
+   "text": "에어비앤비 홈페이지"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 375,
+  "docH": 909,
+  "accentHues": 1,
+  "nTextColors": 3,
+  "nFontSizes": 5,
+  "url": "https://www.airbnb.co.kr"
+ },
+ "Airbnb@1440": {
+  "title": "에어비앤비 | 휴가지 숙소, 통나무집, 해변가 주택 등",
+  "words": 222,
+  "uniqueLinks": 34,
+  "interactive": 62,
+  "ctas": 6,
+  "ctaTexts": [
+   "_",
+   "_",
+   "_",
+   "_"
+  ],
+  "fontSizes": [
+   11,
+   12,
+   13,
+   14,
+   20,
+   28
+  ],
+  "textColors": [
+   "rgb(34, 34, 34)",
+   "rgb(108, 108, 108)",
+   "rgb(193, 193, 193)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": {
+   "px": 28,
+   "text": "에어비앤비 홈페이지"
+  },
+  "searchInputWidth": 214,
+  "scrollW": 1425,
+  "docH": 1781,
+  "accentHues": 1,
+  "nTextColors": 3,
+  "nFontSizes": 6,
+  "url": "https://www.airbnb.co.kr"
+ },
+ "Apple-iPhone@390": {
+  "title": "iPhone - Apple (KR)",
+  "words": 53,
+  "uniqueLinks": 11,
+  "interactive": 17,
+  "ctas": 1,
+  "ctaTexts": [
+   "더 알아보기"
+  ],
+  "fontSizes": [
+   12,
+   14,
+   17,
+   19,
+   32,
+   48
+  ],
+  "textColors": [
+   "rgba(0, 0, 0, 0.8)",
+   "rgb(29, 29, 31)",
+   "rgb(0, 102, 204)",
+   "rgb(182, 68, 0)",
+   "rgba(0, 0, 0, 0.88)",
+   "rgb(255, 255, 255)"
+  ],
+  "sectionGapMedian": 8,
+  "maxTextWidth": 325,
+  "h1": {
+   "px": 48,
+   "text": "iPhone"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 8592,
+  "accentHues": 2,
+  "nTextColors": 6,
+  "nFontSizes": 6,
+  "url": "https://www.apple.com/kr/iphone/"
+ },
+ "Apple-iPhone@1440": {
+  "title": "iPhone - Apple (KR)",
+  "words": 69,
+  "uniqueLinks": 26,
+  "interactive": 40,
+  "ctas": 1,
+  "ctaTexts": [
+   "더 알아보기"
+  ],
+  "fontSizes": [
+   12,
+   14,
+   17,
+   28,
+   56,
+   80
+  ],
+  "textColors": [
+   "rgba(0, 0, 0, 0.8)",
+   "rgb(29, 29, 31)",
+   "rgb(0, 102, 204)",
+   "rgb(182, 68, 0)",
+   "rgba(0, 0, 0, 0.88)",
+   "rgb(255, 255, 255)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 990,
+  "h1": {
+   "px": 80,
+   "text": "iPhone"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 8555,
+  "accentHues": 2,
+  "nTextColors": 6,
+  "nFontSizes": 6,
+  "url": "https://www.apple.com/kr/iphone/"
+ },
+ "Readwise@390": {
+  "title": "Readwise Reader | The first read-it-later app built for powe",
+  "words": 54,
+  "uniqueLinks": 1,
+  "interactive": 3,
+  "ctas": 0,
+  "ctaTexts": [],
+  "fontSizes": [
+   15,
+   16,
+   22
+  ],
+  "textColors": [
+   "rgb(190, 201, 214)",
+   "rgb(255, 255, 255)",
+   "rgb(0, 0, 0)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 350,
+  "h1": {
+   "px": 22,
+   "text": "The first \nread-it-later newsletters RSS"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 11751,
+  "accentHues": 0,
+  "nTextColors": 3,
+  "nFontSizes": 3,
+  "url": "https://readwise.io/read"
+ },
+ "Readwise@1440": {
+  "title": "Readwise Reader | The first read-it-later app built for powe",
+  "words": 36,
+  "uniqueLinks": 1,
+  "interactive": 3,
+  "ctas": 0,
+  "ctaTexts": [],
+  "fontSizes": [
+   16,
+   18,
+   20,
+   58
+  ],
+  "textColors": [
+   "rgb(190, 201, 214)",
+   "rgb(228, 147, 142)",
+   "rgb(255, 255, 255)",
+   "rgb(0, 0, 0)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": 570,
+  "h1": {
+   "px": 58,
+   "text": "The first \nread-it-later newsletters RSS"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 12148,
+  "accentHues": 1,
+  "nTextColors": 4,
+  "nFontSizes": 4,
+  "url": "https://readwise.io/read"
+ },
+ "Substack-post@390": {
+  "title": "Noahpinion | Substack",
+  "words": 131,
+  "uniqueLinks": 10,
+  "interactive": 41,
+  "ctas": 4,
+  "ctaTexts": [
+   "Subscribe",
+   "Manage",
+   "Reject",
+   "Accept"
+  ],
+  "fontSizes": [
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   17,
+   20,
+   28
+  ],
+  "textColors": [
+   "rgb(54, 55, 55)",
+   "rgb(255, 255, 255)",
+   "rgb(119, 119, 119)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": {
+   "px": 14,
+   "text": "Noahpinion"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 4325,
+  "accentHues": 1,
+  "nTextColors": 3,
+  "nFontSizes": 9,
+  "url": "https://www.noahpinion.blog/p/the-chinese-lesson"
+ },
+ "Substack-post@1440": {
+  "title": "Noahpinion | Substack",
+  "words": 137,
+  "uniqueLinks": 11,
+  "interactive": 46,
+  "ctas": 4,
+  "ctaTexts": [
+   "Subscribe",
+   "Manage",
+   "Reject",
+   "Accept"
+  ],
+  "fontSizes": [
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   19,
+   20,
+   24,
+   31
+  ],
+  "textColors": [
+   "rgb(54, 55, 55)",
+   "rgb(255, 255, 255)",
+   "rgb(119, 119, 119)"
+  ],
+  "sectionGapMedian": null,
+  "maxTextWidth": null,
+  "h1": {
+   "px": 24,
+   "text": "Noahpinion"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 4216,
+  "accentHues": 1,
+  "nTextColors": 3,
+  "nFontSizes": 10,
+  "url": "https://www.noahpinion.blog/p/the-chinese-lesson"
+ },
+ "GoalLit@390": {
+  "title": "Goal Lit — 한국 문학·웹툰·웹소설 평론 웹진",
+  "words": 72,
+  "uniqueLinks": 6,
+  "interactive": 8,
+  "ctas": 0,
+  "ctaTexts": [],
+  "fontSizes": [
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   20,
+   23,
+   30
+  ],
+  "textColors": [
+   "rgb(91, 69, 0)",
+   "rgb(26, 26, 26)",
+   "rgb(100, 95, 117)",
+   "rgb(91, 63, 181)"
+  ],
+  "sectionGapMedian": 91,
+  "maxTextWidth": null,
+  "h1": {
+   "px": 30,
+   "text": "작품은 이렇게 읽혔다 — 한국 문학·웹툰·웹소설 평론"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 3198,
+  "accentHues": 2,
+  "nTextColors": 4,
+  "nFontSizes": 9,
+  "url": "https://goal-lit.soulbound.co.kr"
+ },
+ "GoalLit@1440": {
+  "title": "Goal Lit — 한국 문학·웹툰·웹소설 평론 웹진",
+  "words": 118,
+  "uniqueLinks": 8,
+  "interactive": 10,
+  "ctas": 0,
+  "ctaTexts": [],
+  "fontSizes": [
+   12,
+   13,
+   14,
+   15,
+   17,
+   20,
+   23,
+   40
+  ],
+  "textColors": [
+   "rgb(91, 69, 0)",
+   "rgb(26, 26, 26)",
+   "rgb(100, 95, 117)",
+   "rgb(91, 63, 181)"
+  ],
+  "sectionGapMedian": 12,
+  "maxTextWidth": null,
+  "h1": {
+   "px": 40,
+   "text": "작품은 이렇게 읽혔다 — 한국 문학·웹툰·웹소설 평론"
+  },
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 1966,
+  "accentHues": 2,
+  "nTextColors": 4,
+  "nFontSizes": 8,
+  "url": "https://goal-lit.soulbound.co.kr"
+ },
+ "HANSET@390": {
+  "title": "한셋 HANSET — 크로스핏·HYROX·사우나 웰니스 매거진",
+  "words": 104,
+  "uniqueLinks": 15,
+  "interactive": 18,
+  "ctas": 8,
+  "ctaTexts": [
+   "Drop-in & Sauna Find",
+   "홈",
+   "서울",
+   "부산"
+  ],
+  "fontSizes": [
+   11,
+   12,
+   13,
+   14,
+   15,
+   20,
+   21,
+   23
+  ],
+  "textColors": [
+   "rgb(26, 26, 26)",
+   "rgb(107, 102, 94)",
+   "rgb(255, 255, 255)",
+   "rgb(184, 60, 26)",
+   "rgb(228, 87, 46)"
+  ],
+  "sectionGapMedian": 18,
+  "maxTextWidth": 354,
+  "h1": {
+   "px": 23,
+   "text": "운동할 곳, 사우나 할 곳, 공식정보로 확인하세요."
+  },
+  "searchInputWidth": 0,
+  "scrollW": 390,
+  "docH": 2304,
+  "accentHues": 1,
+  "nTextColors": 5,
+  "nFontSizes": 8,
+  "url": "https://hanset.soulbound.co.kr"
+ },
+ "HANSET@1440": {
+  "title": "한셋 HANSET — 크로스핏·HYROX·사우나 웰니스 매거진",
+  "words": 115,
+  "uniqueLinks": 16,
+  "interactive": 19,
+  "ctas": 8,
+  "ctaTexts": [
+   "Drop-in & Sauna Find",
+   "홈",
+   "서울",
+   "부산"
+  ],
+  "fontSizes": [
+   11,
+   12,
+   13,
+   14,
+   15,
+   17,
+   20,
+   21,
+   45
+  ],
+  "textColors": [
+   "rgb(26, 26, 26)",
+   "rgb(107, 102, 94)",
+   "rgb(255, 255, 255)",
+   "rgb(184, 60, 26)",
+   "rgb(228, 87, 46)"
+  ],
+  "sectionGapMedian": 18,
+  "maxTextWidth": 1044,
+  "h1": {
+   "px": 45,
+   "text": "운동할 곳, 사우나 할 곳, 공식정보로 확인하세요."
+  },
+  "searchInputWidth": 0,
+  "scrollW": 1440,
+  "docH": 2927,
+  "accentHues": 1,
+  "nTextColors": 5,
+  "nFontSizes": 9,
+  "url": "https://hanset.soulbound.co.kr"
+ },
+ "Pitchboard@390": {
+  "title": "The Pitchboard: paid book review & criticism outlets, with l",
+  "words": 39,
+  "uniqueLinks": 10,
+  "interactive": 12,
+  "ctas": 3,
+  "ctaTexts": [
+   "Search",
+   "29 open",
+   "41 pitch first"
+  ],
+  "fontSizes": [
+   13,
+   14,
+   16,
+   21,
+   22,
+   29
+  ],
+  "textColors": [
+   "rgb(28, 27, 25)",
+   "rgb(255, 255, 255)",
+   "rgb(107, 103, 95)"
+  ],
+  "sectionGapMedian": 24,
+  "maxTextWidth": null,
+  "h1": {
+   "px": 29,
+   "text": "Where to pitch book reviews and cultural"
+  },
+  "searchInputWidth": 282,
+  "scrollW": 390,
+  "docH": 3028,
+  "accentHues": 1,
+  "nTextColors": 3,
+  "nFontSizes": 6,
+  "url": "https://pitchboard.soulbound.co.kr"
+ },
+ "Pitchboard@1440": {
+  "title": "The Pitchboard: paid book review & criticism outlets, with l",
+  "words": 57,
+  "uniqueLinks": 11,
+  "interactive": 13,
+  "ctas": 3,
+  "ctaTexts": [
+   "Search",
+   "29 open",
+   "41 pitch first"
+  ],
+  "fontSizes": [
+   14,
+   15,
+   17,
+   22,
+   24,
+   41
+  ],
+  "textColors": [
+   "rgb(28, 27, 25)",
+   "rgb(255, 255, 255)",
+   "rgb(107, 103, 95)",
+   "rgb(138, 42, 28)"
+  ],
+  "sectionGapMedian": 26,
+  "maxTextWidth": 963,
+  "h1": {
+   "px": 41,
+   "text": "Where to pitch book reviews and cultural"
+  },
+  "searchInputWidth": 667,
+  "scrollW": 1440,
+  "docH": 2219,
+  "accentHues": 1,
+  "nTextColors": 4,
+  "nFontSizes": 6,
+  "url": "https://pitchboard.soulbound.co.kr"
+ }
+}
