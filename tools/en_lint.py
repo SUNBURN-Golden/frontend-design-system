@@ -8,7 +8,7 @@ RULES = [
  ('cliche', 'cliches', r'\b(a wide (range|variety) of|various|diverse|robust|leverage|in order to|at the end of the day|journey|dive (in|into)|whether you\'re)\b'),
  ('filler', 'filler/intensifiers', r'\b(very|really|simply|just|actually|basically|truly|quite)\b'),
  ('hedge', 'stacked hedging (may/might/could)', r'\b(may|might|could) (possibly|potentially)\b|\bpotentially\b'),
- ('passive', 'passive "is/are/was/were/be/been + participle + by"', r'\b(is|are|was|were|be|been|being) (\w+(ed|en)|made|kept|run|held|built|sent|set|told|shown|done) by\b'),
+ ('passive', 'passive "is/are/was/were/be/been + participle + by"', r'\b(is|are|was|were|be|been|being) (\w+(ed|en)|made|kept|run|held|built|sent|set|told|shown|done|sold|read|met|won|paid|cut|put|found|lost|left|brought|bought|caught|taught|thought|heard|meant|felt|spent|begun|become|understood|worn|torn|borne) by\b'),
  ('cta_push', 'pushy CTA', r'\b(don\'t miss|act now|hurry|sign up now|join thousands)\b'),
  ('exclaim', 'exclamation marks', r'!'),
 ]
