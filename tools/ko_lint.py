@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """한국어 문구 기계 점검(번역투·상투어·광고투·어미 혼용, 해요체 아닌 어미). 표준 라이브러리만 사용.
-사용: python ko_lint.py PATH [PATH ...] [--json] [--top N]
+사용: python ko_lint.py PATH [PATH ...] [--json] [--top N]  (PATH: .html .json .py .md 파일 또는 디렉터리)
 PATH: .html(태그 제거 후 본문 텍스트) / .json(모든 문자열 값) / .py(문자열 리터럴 안 한글) / 디렉터리(재귀).
 출력: 규칙별 건수와 예시. 종료코드 0(보고용). 규칙은 studies/ko-voice.md 4장과 같다.
 주의: 인용된 원문(평론 인용, 투고 규정 등)과 고유명사도 걸릴 수 있다. 수치는 '후보 수'로 읽는다."""
@@ -66,7 +66,7 @@ def scan(paths):
     mix = round(100 * (tot - max(e.values())) / tot, 1)
     return {'strings': n, 'counts': {i: cnt[i] for i, _, _ in CRE}, 'ending_mix_pct': mix, 'examples': dict(ex),
             'issues_total': sum(v for k, v in cnt.items() if not k.startswith('ending_')),
-            # 표준은 해요체다(2026-10-19 00:52 준태님 지시). 평서체·합니다체 어미는 위반으로 센다.
+            # 표준은 해요체다(2026-10-20 00:52 준태님 지시). 평서체·합니다체 어미는 위반으로 센다.
             'ending_violations': cnt['ending_da'] + cnt['ending_hamnida'],
             'haeyo_pct': round(100 * cnt['ending_haeyo'] / tot, 1)}
 if __name__ == '__main__':
